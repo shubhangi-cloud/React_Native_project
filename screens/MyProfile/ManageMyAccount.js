@@ -159,6 +159,7 @@ class ManageMyAccount extends Component {
                 placeholderTextColor = "#a9a9a9"
                 autoCapitalize = "none"
                 onChangeText = {this.handlePhoneNum}/>
+            
             </View>
             <BottomButton
                name={this.state.name}
