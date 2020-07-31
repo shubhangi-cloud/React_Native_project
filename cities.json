@@ -1,0 +1,10768 @@
+{
+  "status": 1,
+  "message": "Successfully retrieved city list.",
+  "city-list": {
+      "details": [
+    {
+      "country": "AD",
+      "name": "Sant Julià de Lòria",
+      "lat": "42.46372",
+      "lng": "1.49129"
+    },
+    {
+      "country": "AD",
+      "name": "Pas de la Casa",
+      "lat": "42.54277",
+      "lng": "1.73361"
+    },
+    {
+      "country": "AD",
+      "name": "Ordino",
+      "lat": "42.55623",
+      "lng": "1.53319"
+    },
+    {
+      "country": "AD",
+      "name": "les Escaldes",
+      "lat": "42.50729",
+      "lng": "1.53414"
+    },
+    {
+      "country": "AD",
+      "name": "la Massana",
+      "lat": "42.54499",
+      "lng": "1.51483"
+    },
+    {
+      "country": "AD",
+      "name": "Encamp",
+      "lat": "42.53474",
+      "lng": "1.58014"
+    },
+    {
+      "country": "AD",
+      "name": "Canillo",
+      "lat": "42.5676",
+      "lng": "1.59756"
+    },
+    {
+      "country": "AD",
+      "name": "Arinsal",
+      "lat": "42.57205",
+      "lng": "1.48453"
+    },
+    {
+      "country": "AD",
+      "name": "Andorra la Vella",
+      "lat": "42.50779",
+      "lng": "1.52109"
+    },
+    {
+      "country": "AE",
+      "name": "Umm al Qaywayn",
+      "lat": "25.56473",
+      "lng": "55.55517"
+    },
+    {
+      "country": "AE",
+      "name": "Ras al-Khaimah",
+      "lat": "25.78953",
+      "lng": "55.9432"
+    },
+    {
+      "country": "AE",
+      "name": "Muzayri‘",
+      "lat": "23.14355",
+      "lng": "53.7881"
+    },
+    {
+      "country": "AE",
+      "name": "Murbaḩ",
+      "lat": "25.27623",
+      "lng": "56.36256"
+    },
+    {
+      "country": "AE",
+      "name": "Khawr Fakkān",
+      "lat": "25.33132",
+      "lng": "56.34199"
+    },
+    {
+      "country": "AE",
+      "name": "Dubai",
+      "lat": "25.0657",
+      "lng": "55.17128"
+    },
+    {
+      "country": "AE",
+      "name": "Dibba Al-Fujairah",
+      "lat": "25.59246",
+      "lng": "56.26176"
+    },
+    {
+      "country": "AE",
+      "name": "Dibba Al-Hisn",
+      "lat": "25.61955",
+      "lng": "56.27291"
+    },
+    {
+      "country": "AE",
+      "name": "Sharjah",
+      "lat": "25.33737",
+      "lng": "55.41206"
+    },
+    {
+      "country": "AE",
+      "name": "Ar Ruways",
+      "lat": "24.11028",
+      "lng": "52.73056"
+    },
+    {
+      "country": "AE",
+      "name": "Al Fujayrah",
+      "lat": "25.11641",
+      "lng": "56.34141"
+    },
+    {
+      "country": "AE",
+      "name": "Al Ain",
+      "lat": "24.19167",
+      "lng": "55.76056"
+    },
+    {
+      "country": "AE",
+      "name": "Ajman",
+      "lat": "25.41111",
+      "lng": "55.43504"
+    },
+    {
+      "country": "AE",
+      "name": "Adh Dhayd",
+      "lat": "25.28812",
+      "lng": "55.88157"
+    },
+    {
+      "country": "AE",
+      "name": "Abu Dhabi",
+      "lat": "24.46667",
+      "lng": "54.36667"
+    },
+    {
+      "country": "AF",
+      "name": "Zorkot",
+      "lat": "33.54149",
+      "lng": "69.73446"
+    },
+    {
+      "country": "AF",
+      "name": "Wulêswālī Bihsūd",
+      "lat": "34.3436",
+      "lng": "67.90567"
+    },
+    {
+      "country": "AF",
+      "name": "Kuhsān",
+      "lat": "34.65389",
+      "lng": "61.19778"
+    },
+    {
+      "country": "AF",
+      "name": "Lāsh",
+      "lat": "35.3782",
+      "lng": "64.77457"
+    },
+    {
+      "country": "AF",
+      "name": "Tukzār",
+      "lat": "35.94831",
+      "lng": "66.42132"
+    },
+    {
+      "country": "AF",
+      "name": "Mīray",
+      "lat": "33.32462",
+      "lng": "68.44068"
+    },
+    {
+      "country": "AF",
+      "name": "Āq Kupruk",
+      "lat": "36.08352",
+      "lng": "66.84029"
+    },
+    {
+      "country": "AF",
+      "name": "Zurmat",
+      "lat": "33.43778",
+      "lng": "69.02774"
+    },
+    {
+      "country": "AF",
+      "name": "Zaybāk",
+      "lat": "36.52947",
+      "lng": "71.3441"
+    },
+    {
+      "country": "AF",
+      "name": "Zīārat-e Shāh Maqşūd",
+      "lat": "31.9848",
+      "lng": "65.4736"
+    },
+    {
+      "country": "AF",
+      "name": "Zindah Jān",
+      "lat": "34.34264",
+      "lng": "61.74675"
+    },
+    {
+      "country": "AF",
+      "name": "Zarghūn Shahr",
+      "lat": "32.84734",
+      "lng": "68.44573"
+    },
+    {
+      "country": "AF",
+      "name": "Zaṟah Sharan",
+      "lat": "33.14641",
+      "lng": "68.79213"
+    },
+    {
+      "country": "AF",
+      "name": "Zaranj",
+      "lat": "30.95962",
+      "lng": "61.86037"
+    },
+    {
+      "country": "AF",
+      "name": "Zamtō Kêlay",
+      "lat": "32.3726",
+      "lng": "66.17708"
+    },
+    {
+      "country": "AF",
+      "name": "Yangī Qal‘ah",
+      "lat": "37.46572",
+      "lng": "69.61131"
+    },
+    {
+      "country": "AF",
+      "name": "Yaḩyá Khēl",
+      "lat": "32.93742",
+      "lng": "68.64622"
+    },
+    {
+      "country": "AF",
+      "name": "Wāshēr",
+      "lat": "32.25122",
+      "lng": "63.85553"
+    },
+    {
+      "country": "AF",
+      "name": "Tōrmay",
+      "lat": "33.68847",
+      "lng": "68.40205"
+    },
+    {
+      "country": "AF",
+      "name": "Tūlak",
+      "lat": "33.97509",
+      "lng": "63.72868"
+    },
+    {
+      "country": "AF",
+      "name": "Tītān",
+      "lat": "33.69032",
+      "lng": "63.86361"
+    },
+    {
+      "country": "AF",
+      "name": "Tīr Pul",
+      "lat": "34.59431",
+      "lng": "61.26895"
+    },
+    {
+      "country": "AF",
+      "name": "Taywarah",
+      "lat": "33.52118",
+      "lng": "64.42116"
+    },
+    {
+      "country": "AF",
+      "name": "Bāzār-e Tashkān",
+      "lat": "36.88168",
+      "lng": "70.27674"
+    },
+    {
+      "country": "AF",
+      "name": "Tarinkot",
+      "lat": "32.62998",
+      "lng": "65.87806"
+    },
+    {
+      "country": "AF",
+      "name": "Taloqan",
+      "lat": "36.73605",
+      "lng": "69.53451"
+    },
+    {
+      "country": "AF",
+      "name": "Tagāw-Bāy",
+      "lat": "35.69941",
+      "lng": "66.06164"
+    },
+    {
+      "country": "AF",
+      "name": "Tagāb",
+      "lat": "34.85501",
+      "lng": "69.64917"
+    },
+    {
+      "country": "AF",
+      "name": "Markaz-e Ḩukūmat-e Sulţān-e Bakwāh",
+      "lat": "32.24139",
+      "lng": "62.94936"
+    },
+    {
+      "country": "AF",
+      "name": "Spīn Bōldak",
+      "lat": "31.00575",
+      "lng": "66.40001"
+    },
+    {
+      "country": "AF",
+      "name": "Spērah",
+      "lat": "33.20204",
+      "lng": "69.5152"
+    },
+    {
+      "country": "AF",
+      "name": "Sōzmah Qal‘ah",
+      "lat": "36.09916",
+      "lng": "66.20823"
+    },
+    {
+      "country": "AF",
+      "name": "Siyāhgird",
+      "lat": "35.00553",
+      "lng": "68.85578"
+    },
+    {
+      "country": "AF",
+      "name": "Sheywah",
+      "lat": "34.57169",
+      "lng": "70.58859"
+    },
+    {
+      "country": "AF",
+      "name": "Shīnḏanḏ",
+      "lat": "33.30294",
+      "lng": "62.1474"
+    },
+    {
+      "country": "AF",
+      "name": "Shaykh Amīr Kêlay",
+      "lat": "33.28744",
+      "lng": "69.91283"
+    },
+    {
+      "country": "AF",
+      "name": "Qāshqāl",
+      "lat": "35.03975",
+      "lng": "69.00685"
+    },
+    {
+      "country": "AF",
+      "name": "Shibirghān",
+      "lat": "36.66757",
+      "lng": "65.7529"
+    },
+    {
+      "country": "AF",
+      "name": "Shwāk",
+      "lat": "33.42386",
+      "lng": "69.37684"
+    },
+    {
+      "country": "AF",
+      "name": "Shahr-e Şafā",
+      "lat": "31.80347",
+      "lng": "66.32376"
+    },
+    {
+      "country": "AF",
+      "name": "Shahrān",
+      "lat": "36.97984",
+      "lng": "70.73928"
+    },
+    {
+      "country": "AF",
+      "name": "Shahrak",
+      "lat": "34.10737",
+      "lng": "64.3052"
+    },
+    {
+      "country": "AF",
+      "name": "‘Alāqahdārī Shāh Jōy",
+      "lat": "32.52154",
+      "lng": "67.41315"
+    },
+    {
+      "country": "AF",
+      "name": "Wulêswālī Sayyid Karam",
+      "lat": "33.69056",
+      "lng": "69.36881"
+    },
+    {
+      "country": "AF",
+      "name": "Markaz-e Sayyidābād",
+      "lat": "34.00037",
+      "lng": "68.71346"
+    },
+    {
+      "country": "AF",
+      "name": "Şayād",
+      "lat": "36.13529",
+      "lng": "65.8297"
+    },
+    {
+      "country": "AF",
+      "name": "Sidqābād",
+      "lat": "35.02298",
+      "lng": "69.35112"
+    },
+    {
+      "country": "AF",
+      "name": "Qalāt",
+      "lat": "32.10575",
+      "lng": "66.90833"
+    },
+    {
+      "country": "AF",
+      "name": "Qal‘ah-ye Shāhī",
+      "lat": "34.64921",
+      "lng": "70.5914"
+    },
+    {
+      "country": "AF",
+      "name": "Qādis",
+      "lat": "34.8085",
+      "lng": "63.43003"
+    },
+    {
+      "country": "AF",
+      "name": "Pārūn",
+      "lat": "35.42064",
+      "lng": "70.92261"
+    },
+    {
+      "country": "AF",
+      "name": "Mīrān",
+      "lat": "34.22037",
+      "lng": "68.31259"
+    },
+    {
+      "country": "AF",
+      "name": "Mīrābād",
+      "lat": "30.43624",
+      "lng": "61.8383"
+    },
+    {
+      "country": "AF",
+      "name": "Qal‘ah-ye Na‘īm",
+      "lat": "34.39951",
+      "lng": "69.16705"
+    },
+    {
+      "country": "AF",
+      "name": "Markaz-e Woluswalī-ye Āchīn",
+      "lat": "34.12583",
+      "lng": "70.70778"
+    },
+    {
+      "country": "AF",
+      "name": "Manogay",
+      "lat": "34.99015",
+      "lng": "70.91302"
+    },
+    {
+      "country": "AF",
+      "name": "Stêr Giyān",
+      "lat": "32.97704",
+      "lng": "69.37308"
+    },
+    {
+      "country": "AF",
+      "name": "Sharan",
+      "lat": "33.17568",
+      "lng": "68.73045"
+    },
+    {
+      "country": "AF",
+      "name": "Salām Khēl",
+      "lat": "33.67067",
+      "lng": "69.32983"
+    },
+    {
+      "country": "AG",
+      "name": "Saint John’s",
+      "lat": "17.12096",
+      "lng": "-61.84329"
+    },
+    {
+      "country": "AG",
+      "name": "Potters Village",
+      "lat": "17.11337",
+      "lng": "-61.81962"
+    },
+    {
+      "country": "AG",
+      "name": "Piggotts",
+      "lat": "17.11667",
+      "lng": "-61.8"
+    },
+    {
+      "country": "AG",
+      "name": "Parham",
+      "lat": "17.09682",
+      "lng": "-61.77046"
+    },
+    {
+      "country": "AG",
+      "name": "Liberta",
+      "lat": "17.04141",
+      "lng": "-61.79052"
+    },
+    {
+      "country": "AG",
+      "name": "Falmouth",
+      "lat": "17.02741",
+      "lng": "-61.78136"
+    },
+    {
+      "country": "AG",
+      "name": "Codrington",
+      "lat": "17.63333",
+      "lng": "-61.83333"
+    },
+    {
+      "country": "AG",
+      "name": "Bolands",
+      "lat": "17.06565",
+      "lng": "-61.87466"
+    },
+    {
+      "country": "AG",
+      "name": "All Saints",
+      "lat": "17.06671",
+      "lng": "-61.79303"
+    },
+    {
+      "country": "AI",
+      "name": "West End Village",
+      "lat": "18.17191",
+      "lng": "-63.14941"
+    },
+    {
+      "country": "AI",
+      "name": "The Valley",
+      "lat": "18.21704",
+      "lng": "-63.05783"
+    },
+    {
+      "country": "AI",
+      "name": "The Quarter",
+      "lat": "18.20799",
+      "lng": "-63.04178"
+    },
+    {
+      "country": "AI",
+      "name": "Farrington",
+      "lat": "18.215",
+      "lng": "-63.02238"
+    },
+    {
+      "country": "AI",
+      "name": "Stoney Ground",
+      "lat": "18.22026",
+      "lng": "-63.04607"
+    },
+    {
+      "country": "AI",
+      "name": "South Hill Village",
+      "lat": "18.19201",
+      "lng": "-63.08779"
+    },
+    {
+      "country": "AI",
+      "name": "Sandy Ground Village",
+      "lat": "18.20118",
+      "lng": "-63.08998"
+    },
+    {
+      "country": "AI",
+      "name": "North Side",
+      "lat": "18.22919",
+      "lng": "-63.04401"
+    },
+    {
+      "country": "AI",
+      "name": "North Hill Village",
+      "lat": "18.20542",
+      "lng": "-63.07847"
+    },
+    {
+      "country": "AI",
+      "name": "Island Harbour",
+      "lat": "18.25601",
+      "lng": "-63.0102"
+    },
+    {
+      "country": "AI",
+      "name": "George Hill",
+      "lat": "18.19939",
+      "lng": "-63.0665"
+    },
+    {
+      "country": "AI",
+      "name": "East End Village",
+      "lat": "18.23333",
+      "lng": "-63"
+    },
+    {
+      "country": "AI",
+      "name": "Blowing Point Village",
+      "lat": "18.17648",
+      "lng": "-63.09375"
+    },
+    {
+      "country": "AI",
+      "name": "Sandy Hill",
+      "lat": "18.22104",
+      "lng": "-63.01329"
+    },
+    {
+      "country": "AO",
+      "name": "Saurimo",
+      "lat": "-9.66078",
+      "lng": "20.39155"
+    },
+    {
+      "country": "AO",
+      "name": "Lucapa",
+      "lat": "-8.41915",
+      "lng": "20.74466"
+    },
+    {
+      "country": "AO",
+      "name": "Lumeje",
+      "lat": "-11.55",
+      "lng": "20.78333"
+    },
+    {
+      "country": "AO",
+      "name": "Luau",
+      "lat": "-10.70727",
+      "lng": "22.22466"
+    },
+    {
+      "country": "AO",
+      "name": "Léua",
+      "lat": "-11.65",
+      "lng": "20.45"
+    },
+    {
+      "country": "AO",
+      "name": "Cazaji",
+      "lat": "-11.06715",
+      "lng": "20.70148"
+    },
+    {
+      "country": "AO",
+      "name": "Uíge",
+      "lat": "-7.60874",
+      "lng": "15.06131"
+    },
+    {
+      "country": "AO",
+      "name": "Soio",
+      "lat": "-6.1349",
+      "lng": "12.36894"
+    },
+    {
+      "country": "AO",
+      "name": "N'zeto",
+      "lat": "-7.23116",
+      "lng": "12.8666"
+    },
+    {
+      "country": "AO",
+      "name": "N’dalatando",
+      "lat": "-9.29782",
+      "lng": "14.91162"
+    },
+    {
+      "country": "AO",
+      "name": "Mbanza Congo",
+      "lat": "-6.26703",
+      "lng": "14.2401"
+    },
+    {
+      "country": "AO",
+      "name": "Malanje",
+      "lat": "-9.54015",
+      "lng": "16.34096"
+    },
+    {
+      "country": "AO",
+      "name": "Luanda",
+      "lat": "-8.83682",
+      "lng": "13.23432"
+    },
+    {
+      "country": "AO",
+      "name": "Caxito",
+      "lat": "-8.57848",
+      "lng": "13.66425"
+    },
+    {
+      "country": "AO",
+      "name": "Camabatela",
+      "lat": "-8.18812",
+      "lng": "15.37495"
+    },
+    {
+      "country": "AO",
+      "name": "Cabinda",
+      "lat": "-5.55",
+      "lng": "12.2"
+    },
+    {
+      "country": "AO",
+      "name": "Uacu Cungo",
+      "lat": "-11.35669",
+      "lng": "15.11719"
+    },
+    {
+      "country": "AO",
+      "name": "Sumbe",
+      "lat": "-11.20605",
+      "lng": "13.84371"
+    },
+    {
+      "country": "AO",
+      "name": "Quibala",
+      "lat": "-10.73366",
+      "lng": "14.97995"
+    },
+    {
+      "country": "AO",
+      "name": "Ondjiva",
+      "lat": "-17.06667",
+      "lng": "15.73333"
+    },
+    {
+      "country": "AO",
+      "name": "Namibe",
+      "lat": "-15.19611",
+      "lng": "12.15222"
+    },
+    {
+      "country": "AO",
+      "name": "Menongue",
+      "lat": "-14.6585",
+      "lng": "17.69099"
+    },
+    {
+      "country": "AO",
+      "name": "Luena",
+      "lat": "-11.78333",
+      "lng": "19.91667"
+    },
+    {
+      "country": "AO",
+      "name": "Lubango",
+      "lat": "-14.91717",
+      "lng": "13.4925"
+    },
+    {
+      "country": "AO",
+      "name": "Longonjo",
+      "lat": "-12.90667",
+      "lng": "15.25333"
+    },
+    {
+      "country": "AO",
+      "name": "Lobito",
+      "lat": "-12.3644",
+      "lng": "13.53601"
+    },
+    {
+      "country": "AO",
+      "name": "Cuito",
+      "lat": "-12.38333",
+      "lng": "16.93333"
+    },
+    {
+      "country": "AO",
+      "name": "Huambo",
+      "lat": "-12.77611",
+      "lng": "15.73917"
+    },
+    {
+      "country": "AO",
+      "name": "Chissamba",
+      "lat": "-12.16667",
+      "lng": "17.33333"
+    },
+    {
+      "country": "AO",
+      "name": "Catumbela",
+      "lat": "-12.43002",
+      "lng": "13.54677"
+    },
+    {
+      "country": "AO",
+      "name": "Catabola",
+      "lat": "-12.15",
+      "lng": "17.28333"
+    },
+    {
+      "country": "AO",
+      "name": "Camacupa",
+      "lat": "-12.01667",
+      "lng": "17.48333"
+    },
+    {
+      "country": "AO",
+      "name": "Caluquembe",
+      "lat": "-13.78333",
+      "lng": "14.68333"
+    },
+    {
+      "country": "AO",
+      "name": "Caconda",
+      "lat": "-13.73333",
+      "lng": "15.06667"
+    },
+    {
+      "country": "AO",
+      "name": "Caála",
+      "lat": "-12.8525",
+      "lng": "15.56056"
+    },
+    {
+      "country": "AO",
+      "name": "Benguela",
+      "lat": "-12.57626",
+      "lng": "13.40547"
+    },
+    {
+      "country": "AO",
+      "name": "Chela",
+      "lat": "-12.30261",
+      "lng": "15.43358"
+    },
+    {
+      "country": "AO",
+      "name": "Chinjenje",
+      "lat": "-12.93244",
+      "lng": "14.99238"
+    },
+    {
+      "country": "AQ",
+      "name": "McMurdo Station",
+      "lat": "-77.846",
+      "lng": "166.676"
+    },
+    {
+      "country": "AW",
+      "name": "Oranjestad",
+      "lat": "12.52398",
+      "lng": "-70.02703"
+    },
+    {
+      "country": "AX",
+      "name": "Vårdö",
+      "lat": "60.25",
+      "lng": "20.38333"
+    },
+    {
+      "country": "AX",
+      "name": "Sund",
+      "lat": "60.25",
+      "lng": "20.11667"
+    },
+    {
+      "country": "AX",
+      "name": "Sottunga",
+      "lat": "60.13023",
+      "lng": "20.66683"
+    },
+    {
+      "country": "AX",
+      "name": "Saltvik",
+      "lat": "60.28333",
+      "lng": "20.05"
+    },
+    {
+      "country": "AX",
+      "name": "Lumparland",
+      "lat": "60.11695",
+      "lng": "20.25819"
+    },
+    {
+      "country": "AX",
+      "name": "Lemland",
+      "lat": "60.07178",
+      "lng": "20.08472"
+    },
+    {
+      "country": "AX",
+      "name": "Kumlinge",
+      "lat": "60.26013",
+      "lng": "20.77892"
+    },
+    {
+      "country": "AX",
+      "name": "Kökar",
+      "lat": "59.92051",
+      "lng": "20.90883"
+    },
+    {
+      "country": "AX",
+      "name": "Föglö",
+      "lat": "60.01667",
+      "lng": "20.41667"
+    },
+    {
+      "country": "AX",
+      "name": "Brändö",
+      "lat": "60.41165",
+      "lng": "21.04534"
+    },
+    {
+      "country": "AX",
+      "name": "Mariehamn",
+      "lat": "60.09726",
+      "lng": "19.93481"
+    },
+    {
+      "country": "AX",
+      "name": "Jomala",
+      "lat": "60.14902",
+      "lng": "19.951"
+    },
+    {
+      "country": "AX",
+      "name": "Hammarland",
+      "lat": "60.21667",
+      "lng": "19.75"
+    },
+    {
+      "country": "AX",
+      "name": "Geta",
+      "lat": "60.37453",
+      "lng": "19.84455"
+    },
+    {
+      "country": "AX",
+      "name": "Finström",
+      "lat": "60.26667",
+      "lng": "19.93333"
+    },
+    {
+      "country": "AX",
+      "name": "Eckerö",
+      "lat": "60.21249",
+      "lng": "19.61442"
+    },
+    {
+      "country": "AZ",
+      "name": "Sharur City",
+      "lat": "39.55298",
+      "lng": "44.97993"
+    },
+    {
+      "country": "AZ",
+      "name": "Prishibinskoye",
+      "lat": "39.11998",
+      "lng": "48.59383"
+    },
+    {
+      "country": "AZ",
+      "name": "Zangilan",
+      "lat": "39.0884",
+      "lng": "46.6513"
+    },
+    {
+      "country": "AZ",
+      "name": "Yaycı",
+      "lat": "38.94052",
+      "lng": "45.73244"
+    },
+    {
+      "country": "AZ",
+      "name": "Yardımlı",
+      "lat": "38.90771",
+      "lng": "48.24052"
+    },
+    {
+      "country": "AZ",
+      "name": "Novyy Karanlug",
+      "lat": "39.79546",
+      "lng": "47.10989"
+    },
+    {
+      "country": "AZ",
+      "name": "Xankandi",
+      "lat": "39.8177",
+      "lng": "46.7528"
+    },
+    {
+      "country": "AZ",
+      "name": "Əhmədbəyli",
+      "lat": "39.88074",
+      "lng": "48.39158"
+    },
+    {
+      "country": "AZ",
+      "name": "Shushi",
+      "lat": "39.76006",
+      "lng": "46.74989"
+    },
+    {
+      "country": "AZ",
+      "name": "Salyan",
+      "lat": "39.59621",
+      "lng": "48.98479"
+    },
+    {
+      "country": "AZ",
+      "name": "Şahbuz",
+      "lat": "39.40722",
+      "lng": "45.57389"
+    },
+    {
+      "country": "AZ",
+      "name": "Sedarak",
+      "lat": "39.71427",
+      "lng": "44.88455"
+    },
+    {
+      "country": "AZ",
+      "name": "Sumbatan-diza",
+      "lat": "38.94804",
+      "lng": "45.82572"
+    },
+    {
+      "country": "AZ",
+      "name": "Saatlı",
+      "lat": "39.93214",
+      "lng": "48.36892"
+    },
+    {
+      "country": "AZ",
+      "name": "Qubadlı",
+      "lat": "39.34441",
+      "lng": "46.58183"
+    },
+    {
+      "country": "AZ",
+      "name": "Qaraçala",
+      "lat": "39.81614",
+      "lng": "48.93792"
+    },
+    {
+      "country": "AZ",
+      "name": "Orjonikidze",
+      "lat": "39.63571",
+      "lng": "47.71199"
+    },
+    {
+      "country": "AZ",
+      "name": "Ordubad",
+      "lat": "38.90961",
+      "lng": "46.02274"
+    },
+    {
+      "country": "AZ",
+      "name": "Neftçala",
+      "lat": "39.3768",
+      "lng": "49.247"
+    },
+    {
+      "country": "AZ",
+      "name": "Nakhchivan",
+      "lat": "39.20889",
+      "lng": "45.41222"
+    },
+    {
+      "country": "AZ",
+      "name": "Mincivan",
+      "lat": "39.03058",
+      "lng": "46.7214"
+    },
+    {
+      "country": "AZ",
+      "name": "Masally",
+      "lat": "39.03532",
+      "lng": "48.6654"
+    },
+    {
+      "country": "AZ",
+      "name": "Lerik",
+      "lat": "38.77388",
+      "lng": "48.41497"
+    },
+    {
+      "country": "AZ",
+      "name": "Lankaran",
+      "lat": "38.75428",
+      "lng": "48.85062"
+    },
+    {
+      "country": "AZ",
+      "name": "Laçın",
+      "lat": "39.59881",
+      "lng": "46.55045"
+    },
+    {
+      "country": "AZ",
+      "name": "Qıvraq",
+      "lat": "39.39939",
+      "lng": "45.11513"
+    },
+    {
+      "country": "AZ",
+      "name": "Qırmızı Bazar",
+      "lat": "39.67833",
+      "lng": "46.94884"
+    },
+    {
+      "country": "AZ",
+      "name": "Kizhaba",
+      "lat": "38.53461",
+      "lng": "48.80546"
+    },
+    {
+      "country": "AZ",
+      "name": "Xocalı",
+      "lat": "39.91297",
+      "lng": "46.79028"
+    },
+    {
+      "country": "AZ",
+      "name": "Xıllı",
+      "lat": "39.43012",
+      "lng": "49.10166"
+    },
+    {
+      "country": "AZ",
+      "name": "Imishli",
+      "lat": "39.87095",
+      "lng": "48.05995"
+    },
+    {
+      "country": "AZ",
+      "name": "Horadiz",
+      "lat": "39.44877",
+      "lng": "47.33531"
+    },
+    {
+      "country": "AZ",
+      "name": "Haftoni",
+      "lat": "38.76325",
+      "lng": "48.76223"
+    },
+    {
+      "country": "AZ",
+      "name": "Hadrut",
+      "lat": "39.52002",
+      "lng": "47.0318"
+    },
+    {
+      "country": "AZ",
+      "name": "Fizuli",
+      "lat": "39.60094",
+      "lng": "47.14529"
+    },
+    {
+      "country": "AZ",
+      "name": "Jebrail",
+      "lat": "39.39917",
+      "lng": "47.02835"
+    },
+    {
+      "country": "AZ",
+      "name": "Dünyamalılar",
+      "lat": "39.77278",
+      "lng": "47.75889"
+    },
+    {
+      "country": "AZ",
+      "name": "Deste",
+      "lat": "38.88375",
+      "lng": "45.90963"
+    },
+    {
+      "country": "AZ",
+      "name": "Culfa",
+      "lat": "38.95397",
+      "lng": "45.62961"
+    },
+    {
+      "country": "AZ",
+      "name": "Jalilabad",
+      "lat": "39.20963",
+      "lng": "48.49186"
+    },
+    {
+      "country": "AZ",
+      "name": "Cahri",
+      "lat": "39.34837",
+      "lng": "45.41557"
+    },
+    {
+      "country": "AZ",
+      "name": "Boradigah",
+      "lat": "38.93013",
+      "lng": "48.7092"
+    },
+    {
+      "country": "AZ",
+      "name": "Pushkino",
+      "lat": "39.45833",
+      "lng": "48.545"
+    },
+    {
+      "country": "AZ",
+      "name": "Beylagan",
+      "lat": "39.77556",
+      "lng": "47.61861"
+    },
+    {
+      "country": "AZ",
+      "name": "Severo-Vostotchnyi Bank",
+      "lat": "39.41117",
+      "lng": "49.24792"
+    },
+    {
+      "country": "AZ",
+      "name": "Tazakend",
+      "lat": "39.15459",
+      "lng": "45.44282"
+    },
+    {
+      "country": "AZ",
+      "name": "Astara",
+      "lat": "38.45598",
+      "lng": "48.87498"
+    },
+    {
+      "country": "AZ",
+      "name": "Askyaran",
+      "lat": "39.93667",
+      "lng": "46.83278"
+    },
+    {
+      "country": "AZ",
+      "name": "Şirvan",
+      "lat": "39.93778",
+      "lng": "48.929"
+    },
+    {
+      "country": "AZ",
+      "name": "Ağdam",
+      "lat": "39.99096",
+      "lng": "46.92736"
+    },
+    {
+      "country": "AZ",
+      "name": "Sovetabad",
+      "lat": "39.33667",
+      "lng": "49.21414"
+    },
+    {
+      "country": "AZ",
+      "name": "Avşar",
+      "lat": "39.97389",
+      "lng": "47.42389"
+    },
+    {
+      "country": "AZ",
+      "name": "Birinci Aşıqlı",
+      "lat": "39.81917",
+      "lng": "47.67944"
+    },
+    {
+      "country": "AZ",
+      "name": "Yuxarı Aran",
+      "lat": "39.73361",
+      "lng": "47.655"
+    },
+    {
+      "country": "AZ",
+      "name": "Çalxanqala",
+      "lat": "39.44167",
+      "lng": "45.28333"
+    },
+    {
+      "country": "AZ",
+      "name": "Oğlanqala",
+      "lat": "39.58694",
+      "lng": "45.04611"
+    },
+    {
+      "country": "AZ",
+      "name": "Zyrya",
+      "lat": "40.36613",
+      "lng": "50.29198"
+    },
+    {
+      "country": "AZ",
+      "name": "Zardob",
+      "lat": "40.21991",
+      "lng": "47.70997"
+    },
+    {
+      "country": "AZ",
+      "name": "Zaqatala",
+      "lat": "41.6316",
+      "lng": "46.64479"
+    },
+    {
+      "country": "AZ",
+      "name": "Zabrat",
+      "lat": "40.47746",
+      "lng": "49.94174"
+    },
+    {
+      "country": "AZ",
+      "name": "Yevlakh",
+      "lat": "40.61832",
+      "lng": "47.15014"
+    },
+    {
+      "country": "AZ",
+      "name": "Yanıqlı",
+      "lat": "40.8432",
+      "lng": "45.6803"
+    },
+    {
+      "country": "AZ",
+      "name": "Xudat",
+      "lat": "41.63052",
+      "lng": "48.68161"
+    },
+    {
+      "country": "AZ",
+      "name": "Yelenendorf",
+      "lat": "40.58584",
+      "lng": "46.3189"
+    },
+    {
+      "country": "AZ",
+      "name": "Xaçmaz",
+      "lat": "41.46426",
+      "lng": "48.80565"
+    },
+    {
+      "country": "AZ",
+      "name": "Verkhniy Dashkesan",
+      "lat": "40.49357",
+      "lng": "46.07175"
+    },
+    {
+      "country": "AZ",
+      "name": "Vank",
+      "lat": "40.05275",
+      "lng": "46.54419"
+    },
+    {
+      "country": "AZ",
+      "name": "Ujar",
+      "lat": "40.51902",
+      "lng": "47.65423"
+    },
+    {
+      "country": "AZ",
+      "name": "Türkan",
+      "lat": "40.3646",
+      "lng": "50.22075"
+    },
+    {
+      "country": "AZ",
+      "name": "Tovuz",
+      "lat": "40.99249",
+      "lng": "45.62838"
+    },
+    {
+      "country": "AZ",
+      "name": "Terter",
+      "lat": "40.34201",
+      "lng": "46.93161"
+    },
+    {
+      "country": "AZ",
+      "name": "Sumqayıt",
+      "lat": "40.58972",
+      "lng": "49.66861"
+    },
+    {
+      "country": "AZ",
+      "name": "Kyzyl-Burun",
+      "lat": "41.07811",
+      "lng": "49.11564"
+    },
+    {
+      "country": "AZ",
+      "name": "Şuraabad",
+      "lat": "40.81943",
+      "lng": "49.46787"
+    },
+    {
+      "country": "AZ",
+      "name": "Qaraçuxur",
+      "lat": "40.39667",
+      "lng": "49.97361"
+    },
+    {
+      "country": "AZ",
+      "name": "Saray",
+      "lat": "40.53299",
+      "lng": "49.71681"
+    },
+    {
+      "country": "AZ",
+      "name": "Samur",
+      "lat": "41.63671",
+      "lng": "48.43028"
+    },
+    {
+      "country": "AZ",
+      "name": "Shamkhor",
+      "lat": "40.82975",
+      "lng": "46.0178"
+    },
+    {
+      "country": "AZ",
+      "name": "Shamakhi",
+      "lat": "40.63141",
+      "lng": "48.64137"
+    },
+    {
+      "country": "AZ",
+      "name": "Saloğlu",
+      "lat": "41.27524",
+      "lng": "45.35293"
+    },
+    {
+      "country": "AZ",
+      "name": "Sheki",
+      "lat": "41.19194",
+      "lng": "47.17056"
+    },
+    {
+      "country": "AZ",
+      "name": "Samux",
+      "lat": "40.76485",
+      "lng": "46.40868"
+    },
+    {
+      "country": "AZ",
+      "name": "Sabunçu",
+      "lat": "40.4425",
+      "lng": "49.94806"
+    },
+    {
+      "country": "AZ",
+      "name": "Sabirabad",
+      "lat": "40.00869",
+      "lng": "48.47701"
+    },
+    {
+      "country": "AZ",
+      "name": "Qusar",
+      "lat": "41.4275",
+      "lng": "48.4302"
+    },
+    {
+      "country": "AZ",
+      "name": "Quba",
+      "lat": "41.36108",
+      "lng": "48.51341"
+    },
+    {
+      "country": "AZ",
+      "name": "Qobustan",
+      "lat": "40.08238",
+      "lng": "49.41205"
+    },
+    {
+      "country": "AZ",
+      "name": "Hacıqabul",
+      "lat": "40.03874",
+      "lng": "48.94286"
+    },
+    {
+      "country": "AZ",
+      "name": "Qazax",
+      "lat": "41.09246",
+      "lng": "45.36561"
+    },
+    {
+      "country": "AZ",
+      "name": "Qax",
+      "lat": "41.41826",
+      "lng": "46.92043"
+    },
+    {
+      "country": "AZ",
+      "name": "Qasım İsmayılov",
+      "lat": "40.81156",
+      "lng": "46.26112"
+    },
+    {
+      "country": "AZ",
+      "name": "Qutqashen",
+      "lat": "40.98247",
+      "lng": "47.84909"
+    },
+    {
+      "country": "AZ",
+      "name": "Puta",
+      "lat": "40.29667",
+      "lng": "49.66028"
+    },
+    {
+      "country": "AZ",
+      "name": "Oğuz",
+      "lat": "41.07128",
+      "lng": "47.46528"
+    },
+    {
+      "country": "AZ",
+      "name": "Novosaratovka",
+      "lat": "40.59811",
+      "lng": "45.60079"
+    },
+    {
+      "country": "AZ",
+      "name": "Hacı Zeynalabdin",
+      "lat": "40.62333",
+      "lng": "49.55861"
+    },
+    {
+      "country": "AZ",
+      "name": "Nardaran",
+      "lat": "40.55611",
+      "lng": "50.00556"
+    },
+    {
+      "country": "AZ",
+      "name": "Naftalan",
+      "lat": "40.50821",
+      "lng": "46.8203"
+    },
+    {
+      "country": "AZ",
+      "name": "Mingelchaur",
+      "lat": "40.76395",
+      "lng": "47.05953"
+    },
+    {
+      "country": "AZ",
+      "name": "Maştağa",
+      "lat": "40.52983",
+      "lng": "50.00616"
+    },
+    {
+      "country": "AZ",
+      "name": "Mardakan",
+      "lat": "40.49182",
+      "lng": "50.14292"
+    },
+    {
+      "country": "AZ",
+      "name": "Qobustan",
+      "lat": "40.5336",
+      "lng": "48.92819"
+    },
+    {
+      "country": "AZ",
+      "name": "Mamrux",
+      "lat": "41.54243",
+      "lng": "46.767"
+    },
+    {
+      "country": "AZ",
+      "name": "Lökbatan",
+      "lat": "40.3256",
+      "lng": "49.73376"
+    },
+    {
+      "country": "AZ",
+      "name": "Qızılhacılı",
+      "lat": "40.57362",
+      "lng": "46.849"
+    },
+    {
+      "country": "AZ",
+      "name": "Kyurdarmir",
+      "lat": "40.34532",
+      "lng": "48.15085"
+    },
+    {
+      "country": "AZ",
+      "name": "Qobu",
+      "lat": "40.40472",
+      "lng": "49.71306"
+    },
+    {
+      "country": "AZ",
+      "name": "Kilyazi",
+      "lat": "40.87098",
+      "lng": "49.34233"
+    },
+    {
+      "country": "AZ",
+      "name": "Khyzy",
+      "lat": "40.90576",
+      "lng": "49.08127"
+    },
+    {
+      "country": "AZ",
+      "name": "Khirdalan",
+      "lat": "40.44808",
+      "lng": "49.75502"
+    },
+    {
+      "country": "AZ",
+      "name": "Khodzhi-Gasan",
+      "lat": "40.41293",
+      "lng": "49.76904"
+    },
+    {
+      "country": "AZ",
+      "name": "Korgöz",
+      "lat": "40.30446",
+      "lng": "49.6236"
+    },
+    {
+      "country": "AZ",
+      "name": "Qarayeri",
+      "lat": "40.78718",
+      "lng": "46.31714"
+    },
+    {
+      "country": "AZ",
+      "name": "Heydarabad",
+      "lat": "39.72286",
+      "lng": "44.84846"
+    },
+    
+    {
+      "country": "BY",
+      "name": "Peramoga",
+      "lat": "52.3973",
+      "lng": "31.071"
+    },
+    {
+      "country": "BY",
+      "name": "Borovlyany",
+      "lat": "54.0022",
+      "lng": "27.6754"
+    },
+    {
+      "country": "BY",
+      "name": "Chyst’",
+      "lat": "54.2698",
+      "lng": "27.1067"
+    },
+    {
+      "country": "BY",
+      "name": "Lyeskawka",
+      "lat": "54.0024",
+      "lng": "27.7108"
+    },
+    {
+      "country": "BY",
+      "name": "Lyasny",
+      "lat": "54.0072",
+      "lng": "27.6963"
+    },
+    {
+      "country": "BY",
+      "name": "Bal’shavik",
+      "lat": "54.0036",
+      "lng": "27.5669"
+    },
+    {
+      "country": "BY",
+      "name": "Usiazh",
+      "lat": "54.07598",
+      "lng": "28.00698"
+    },
+    {
+      "country": "BY",
+      "name": "Октябрьский",
+      "lat": "54.04059",
+      "lng": "28.19813"
+    },
+    {
+      "country": "BY",
+      "name": "Michanovichi",
+      "lat": "53.73937",
+      "lng": "27.69276"
+    },
+    {
+      "country": "BY",
+      "name": "Posëlok Voskhod",
+      "lat": "53.7766",
+      "lng": "30.3497"
+    },
+    {
+      "country": "BZ",
+      "name": "Shipyard",
+      "lat": "17.89382",
+      "lng": "-88.65452"
+    },
+    {
+      "country": "BZ",
+      "name": "San Pedro",
+      "lat": "17.91598",
+      "lng": "-87.9659"
+    },
+    {
+      "country": "BZ",
+      "name": "San Ignacio",
+      "lat": "17.1588",
+      "lng": "-89.0696"
+    },
+    {
+      "country": "BZ",
+      "name": "Punta Gorda",
+      "lat": "16.09835",
+      "lng": "-88.8097"
+    },
+    {
+      "country": "BZ",
+      "name": "Placencia",
+      "lat": "16.51419",
+      "lng": "-88.36647"
+    },
+    {
+      "country": "BZ",
+      "name": "Orange Walk",
+      "lat": "18.08124",
+      "lng": "-88.56328"
+    },
+    {
+      "country": "BZ",
+      "name": "Dangriga",
+      "lat": "16.9697",
+      "lng": "-88.23313"
+    },
+    {
+      "country": "BZ",
+      "name": "Corozal",
+      "lat": "18.39375",
+      "lng": "-88.38849"
+    },
+    {
+      "country": "BZ",
+      "name": "Benque Viejo el Carmen",
+      "lat": "17.075",
+      "lng": "-89.13917"
+    },
+    {
+      "country": "BZ",
+      "name": "Belmopan",
+      "lat": "17.25",
+      "lng": "-88.76667"
+    },
+    {
+      "country": "BZ",
+      "name": "Belize City",
+      "lat": "17.49952",
+      "lng": "-88.19756"
+    },
+    {
+      "country": "BZ",
+      "name": "Valley of Peace",
+      "lat": "17.33472",
+      "lng": "-88.83472"
+    },
+    {
+      "country": "CA",
+      "name": "Abbotsford",
+      "lat": "49.05798",
+      "lng": "-122.25257"
+    },
+    {
+      "country": "CA",
+      "name": "Acton Vale",
+      "lat": "45.65007",
+      "lng": "-72.56582"
+    },
+    {
+      "country": "CA",
+      "name": "Adstock",
+      "lat": "46.05007",
+      "lng": "-71.08235"
+    },
+    {
+      "country": "CA",
+      "name": "Agassiz",
+      "lat": "49.23298",
+      "lng": "-121.76926"
+    },
+    {
+      "country": "CA",
+      "name": "Airdrie",
+      "lat": "51.30011",
+      "lng": "-114.03528"
+    },
+    {
+      "country": "CA",
+      "name": "Ajax",
+      "lat": "43.85012",
+      "lng": "-79.03288"
+    },
+    {
+      "country": "CA",
+      "name": "Albanel",
+      "lat": "48.88324",
+      "lng": "-72.44867"
+    },
+    {
+      "country": "CA",
+      "name": "Alberton",
+      "lat": "46.81685",
+      "lng": "-64.06542"
+    },
+    {
+      "country": "CA",
+      "name": "Alma",
+      "lat": "48.55009",
+      "lng": "-71.6491"
+    },
+    {
+      "country": "CA",
+      "name": "Altona",
+      "lat": "49.10469",
+      "lng": "-97.55961"
+    },
+    {
+      "country": "CA",
+      "name": "Amherst",
+      "lat": "45.83345",
+      "lng": "-64.19874"
+    },
+    {
+      "country": "CA",
+      "name": "Amherstburg",
+      "lat": "42.11679",
+      "lng": "-83.04985"
+    },
+    {
+      "country": "CA",
+      "name": "Amos",
+      "lat": "48.56688",
+      "lng": "-78.11624"
+    },
+    {
+      "country": "CA",
+      "name": "Ange-Gardien",
+      "lat": "45.35008",
+      "lng": "-72.93244"
+    },
+    {
+      "country": "CA",
+      "name": "Angus",
+      "lat": "44.31681",
+      "lng": "-79.88295"
+    },
+    {
+      "country": "CA",
+      "name": "Anmore",
+      "lat": "49.31637",
+      "lng": "-122.85263"
+    },
+    {
+      "country": "CA",
+      "name": "Antigonish",
+      "lat": "45.61685",
+      "lng": "-61.99858"
+    },
+    {
+      "country": "CA",
+      "name": "Armstrong",
+      "lat": "50.44979",
+      "lng": "-119.20235"
+    },
+    {
+      "country": "CA",
+      "name": "Arnprior",
+      "lat": "45.43341",
+      "lng": "-76.34939"
+    },
+    {
+      "country": "CA",
+      "name": "Asbestos",
+      "lat": "45.76678",
+      "lng": "-71.9324"
+    },
+    {
+      "country": "CA",
+      "name": "Ashcroft",
+      "lat": "50.72372",
+      "lng": "-121.28207"
+    },
+    {
+      "country": "CA",
+      "name": "Assiniboia",
+      "lat": "49.63336",
+      "lng": "-105.98446"
+    },
+    {
+      "country": "CA",
+      "name": "Athabasca",
+      "lat": "54.71687",
+      "lng": "-113.28537"
+    },
+    {
+      "country": "CA",
+      "name": "Atikokan",
+      "lat": "48.75667",
+      "lng": "-91.62409"
+    },
+    {
+      "country": "CA",
+      "name": "Aylmer",
+      "lat": "42.76679",
+      "lng": "-80.98302"
+    },
+    {
+      "country": "CA",
+      "name": "Baie-Comeau",
+      "lat": "49.21679",
+      "lng": "-68.14894"
+    },
+    {
+      "country": "CA",
+      "name": "Baie-D'Urfé",
+      "lat": "45.41397",
+      "lng": "-73.91586"
+    },
+    {
+      "country": "CA",
+      "name": "Bancroft",
+      "lat": "45.05752",
+      "lng": "-77.85702"
+    },
+    {
+      "country": "CA",
+      "name": "Banff",
+      "lat": "51.17622",
+      "lng": "-115.56982"
+    },
+    {
+      "country": "CA",
+      "name": "Barraute",
+      "lat": "48.43349",
+      "lng": "-77.63279"
+    },
+    {
+      "country": "CA",
+      "name": "Barrhead",
+      "lat": "54.13345",
+      "lng": "-114.40211"
+    },
+    {
+      "country": "CA",
+      "name": "Barrie",
+      "lat": "44.40011",
+      "lng": "-79.66634"
+    },
+    {
+      "country": "CA",
+      "name": "Bassano",
+      "lat": "50.78342",
+      "lng": "-112.46854"
+    },
+    {
+    "country": "IN",
+    "name": "Sherkot",
+    "lat": "29.32704",
+    "lng": "78.57429"
+    },
+    {
+    "country": "IN",
+    "name": "Sherghāti",
+    "lat": "24.5595",
+    "lng": "84.79162"
+    },
+    {
+    "country": "IN",
+    "name": "Shergarh",
+    "lat": "28.65128",
+    "lng": "79.36815"
+    },
+    {
+    "country": "IN",
+    "name": "Sheopur",
+    "lat": "25.66472",
+    "lng": "76.69616"
+    },
+    {
+    "country": "IN",
+    "name": "Sheohar",
+    "lat": "26.51393",
+    "lng": "85.29341"
+    },
+    {
+    "country": "IN",
+    "name": "Sheoganj",
+    "lat": "25.13915",
+    "lng": "73.06784"
+    },
+    {
+    "country": "IN",
+    "name": "Shegaon",
+    "lat": "20.7932",
+    "lng": "76.69921"
+    },
+    {
+    "country": "IN",
+    "name": "Shāntipur",
+    "lat": "23.24723",
+    "lng": "88.43302"
+    },
+    {
+    "country": "IN",
+    "name": "Shankargarh",
+    "lat": "25.182",
+    "lng": "81.61769"
+    },
+    {
+    "country": "IN",
+    "name": "Shamsābād",
+    "lat": "27.5371",
+    "lng": "79.43796"
+    },
+    {
+    "country": "IN",
+    "name": "Shamsābād",
+    "lat": "27.01718",
+    "lng": "78.12358"
+    },
+    {
+    "country": "IN",
+    "name": "Shāmli",
+    "lat": "29.4497",
+    "lng": "77.30959"
+    },
+    {
+    "country": "IN",
+    "name": "Shāmgarh",
+    "lat": "24.18817",
+    "lng": "75.63903"
+    },
+    {
+    "country": "IN",
+    "name": "Shām Churāsi",
+    "lat": "31.50028",
+    "lng": "75.74917"
+    },
+    {
+    "country": "IN",
+    "name": "Shājāpur",
+    "lat": "23.42637",
+    "lng": "76.27775"
+    },
+    {
+    "country": "IN",
+    "name": "Sheikhpura",
+    "lat": "25.13994",
+    "lng": "85.84096"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpura",
+    "lat": "27.3912",
+    "lng": "75.95956"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpura",
+    "lat": "25.62094",
+    "lng": "74.92487"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpura",
+    "lat": "23.13663",
+    "lng": "79.66402"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "29.3501",
+    "lng": "77.5516"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "25.60293",
+    "lng": "84.40412"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "23.89371",
+    "lng": "79.05074"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "23.02446",
+    "lng": "81.0038"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "22.19526",
+    "lng": "77.90682"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "22.15611",
+    "lng": "70.77068"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "21.23742",
+    "lng": "76.22558"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhpur",
+    "lat": "16.69605",
+    "lng": "76.8422"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhkot",
+    "lat": "31.08173",
+    "lng": "75.33708"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhjānpur",
+    "lat": "27.88165",
+    "lng": "79.90918"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhi",
+    "lat": "28.55023",
+    "lng": "79.31761"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhgarh",
+    "lat": "24.31365",
+    "lng": "79.11806"
+    },
+    {
+    "country": "IN",
+    "name": "Shāhganj",
+    "lat": "26.04965",
+    "lng": "82.68423"
+    },
+    {
+    "country": "IN",
+    "name": "Qāzigund",
+    "lat": "33.63828",
+    "lng": "75.14261"
+    },
+    {
+    "country": "IN",
+    "name": "Kasba",
+    "lat": "25.85643",
+    "lng": "87.53836"
+    },
+    {
+    "country": "IN",
+    "name": "Qādiān",
+    "lat": "31.82198",
+    "lng": "75.37663"
+    },
+    {
+    "country": "IN",
+    "name": "Puttūr",
+    "lat": "13.44189",
+    "lng": "79.55314"
+    },
+    {
+    "country": "IN",
+    "name": "Puttūr",
+    "lat": "12.75975",
+    "lng": "75.20169"
+    },
+    {
+    "country": "IN",
+    "name": "Pushkar",
+    "lat": "26.49022",
+    "lng": "74.55211"
+    },
+    {
+    "country": "IN",
+    "name": "Pusad",
+    "lat": "19.91274",
+    "lng": "77.57838"
+    },
+    {
+    "country": "IN",
+    "name": "Purwā",
+    "lat": "26.45756",
+    "lng": "80.77403"
+    },
+    {
+    "country": "IN",
+    "name": "Purushottampur",
+    "lat": "19.52024",
+    "lng": "84.88514"
+    },
+    {
+    "country": "IN",
+    "name": "Puruliya",
+    "lat": "23.33062",
+    "lng": "86.36303"
+    },
+    {
+    "country": "IN",
+    "name": "Purnia",
+    "lat": "25.77895",
+    "lng": "87.47422"
+    },
+    {
+    "country": "IN",
+    "name": "Pūrna",
+    "lat": "19.1817",
+    "lng": "77.02566"
+    },
+    {
+    "country": "IN",
+    "name": "Puri",
+    "lat": "19.79825",
+    "lng": "85.82494"
+    },
+    {
+    "country": "IN",
+    "name": "Pūranpur",
+    "lat": "28.51283",
+    "lng": "80.14829"
+    },
+    {
+    "country": "IN",
+    "name": "Pupri",
+    "lat": "26.47079",
+    "lng": "85.70311"
+    },
+    {
+    "country": "IN",
+    "name": "Punjai Puliyampatti",
+    "lat": "11.35163",
+    "lng": "77.16671"
+    },
+    {
+    "country": "IN",
+    "name": "Punganūru",
+    "lat": "13.36672",
+    "lng": "78.57186"
+    },
+    {
+    "country": "IN",
+    "name": "Pune",
+    "lat": "18.51957",
+    "lng": "73.85535"
+    },
+    {
+    "country": "IN",
+    "name": "Pūndri",
+    "lat": "29.76096",
+    "lng": "76.56034"
+    },
+    {
+    "country": "IN",
+    "name": "Punāsa",
+    "lat": "22.23507",
+    "lng": "76.39335"
+    },
+    {
+    "country": "IN",
+    "name": "Punalūr",
+    "lat": "9.01956",
+    "lng": "76.92261"
+    },
+    {
+    "country": "IN",
+    "name": "Pūnāhāna",
+    "lat": "27.86371",
+    "lng": "77.20432"
+    },
+    {
+    "country": "IN",
+    "name": "Pulwama",
+    "lat": "33.87405",
+    "lng": "74.89955"
+    },
+    {
+    "country": "IN",
+    "name": "Pullambādi",
+    "lat": "10.9411",
+    "lng": "78.91041"
+    },
+    {
+    "country": "IN",
+    "name": "Puliyūr",
+    "lat": "10.63375",
+    "lng": "78.84139"
+    },
+    {
+    "country": "IN",
+    "name": "Puliyangudi",
+    "lat": "9.17489",
+    "lng": "77.39799"
+    },
+    {
+    "country": "IN",
+    "name": "Pulivendla",
+    "lat": "14.42139",
+    "lng": "78.22502"
+    },
+    {
+    "country": "IN",
+    "name": "Pulgaon",
+    "lat": "20.72204",
+    "lng": "78.32056"
+    },
+    {
+    "country": "IN",
+    "name": "Pukhrāyān",
+    "lat": "26.22375",
+    "lng": "79.83739"
+    },
+    {
+    "country": "IN",
+    "name": "Puduvāyal",
+    "lat": "13.33015",
+    "lng": "80.14577"
+    },
+    {
+    "country": "IN",
+    "name": "Pudūr",
+    "lat": "12.99801",
+    "lng": "79.14352"
+    },
+    {
+    "country": "IN",
+    "name": "Pudūr",
+    "lat": "9.29169",
+    "lng": "78.13848"
+    },
+    {
+    "country": "IN",
+    "name": "Puduppatti",
+    "lat": "11.15217",
+    "lng": "78.21205"
+    },
+    {
+    "country": "IN",
+    "name": "Pudukkottai",
+    "lat": "10.38128",
+    "lng": "78.82141"
+    },
+    {
+    "country": "IN",
+    "name": "Proddatūr",
+    "lat": "14.7502",
+    "lng": "78.54813"
+    },
+    {
+    "country": "IN",
+    "name": "Pratāpgarh",
+    "lat": "25.89509",
+    "lng": "81.9424"
+    },
+    {
+    "country": "IN",
+    "name": "Pratāpgarh",
+    "lat": "24.03215",
+    "lng": "74.78162"
+    },
+    {
+    "country": "IN",
+    "name": "Port Blair",
+    "lat": "11.66613",
+    "lng": "92.74635"
+    },
+    {
+    "country": "IN",
+    "name": "Porsa",
+    "lat": "26.67444",
+    "lng": "78.37081"
+    },
+    {
+    "country": "IN",
+    "name": "Porbandar",
+    "lat": "21.64219",
+    "lng": "69.60929"
+    },
+    {
+    "country": "IN",
+    "name": "Poonamalle",
+    "lat": "13.04888",
+    "lng": "80.11488"
+    },
+    {
+    "country": "IN",
+    "name": "Ponnūru",
+    "lat": "16.06547",
+    "lng": "80.55203"
+    },
+    {
+    "country": "IN",
+    "name": "Ponneri",
+    "lat": "13.33868",
+    "lng": "80.19487"
+    },
+    {
+    "country": "IN",
+    "name": "Ponnāni",
+    "lat": "10.76695",
+    "lng": "75.92523"
+    },
+    {
+    "country": "IN",
+    "name": "Ponnampet",
+    "lat": "12.14473",
+    "lng": "75.94514"
+    },
+    {
+    "country": "IN",
+    "name": "Ponnamarāvati",
+    "lat": "10.28032",
+    "lng": "78.53601"
+    },
+    {
+    "country": "IN",
+    "name": "Puducherry",
+    "lat": "11.93381",
+    "lng": "79.82979"
+    },
+    {
+    "country": "IN",
+    "name": "Ponda",
+    "lat": "15.40341",
+    "lng": "74.01519"
+    },
+    {
+    "country": "IN",
+    "name": "Polūr",
+    "lat": "12.51217",
+    "lng": "79.12405"
+    },
+    {
+    "country": "IN",
+    "name": "Pollachi",
+    "lat": "10.65825",
+    "lng": "77.0085"
+    },
+    {
+    "country": "IN",
+    "name": "Polavaram",
+    "lat": "17.24754",
+    "lng": "81.64372"
+    },
+    {
+    "country": "IN",
+    "name": "Polasara",
+    "lat": "19.69386",
+    "lng": "84.81401"
+    },
+    {
+    "country": "IN",
+    "name": "Pokaran",
+    "lat": "26.92007",
+    "lng": "71.91631"
+    },
+    {
+    "country": "IN",
+    "name": "Pithorāgarh",
+    "lat": "29.58349",
+    "lng": "80.20947"
+    },
+    {
+    "country": "IN",
+    "name": "Pithora",
+    "lat": "21.25021",
+    "lng": "82.51707"
+    },
+    {
+    "country": "IN",
+    "name": "Pithāpuram",
+    "lat": "17.1168",
+    "lng": "82.25284"
+    },
+    {
+    "country": "IN",
+    "name": "Piro",
+    "lat": "25.33218",
+    "lng": "84.40454"
+    },
+    {
+    "country": "IN",
+    "name": "Piriyāpatna",
+    "lat": "12.33497",
+    "lng": "76.10073"
+    },
+    {
+    "country": "IN",
+    "name": "Pirāwa",
+    "lat": "24.15506",
+    "lng": "76.02728"
+    },
+    {
+    "country": "IN",
+    "name": "Piravam",
+    "lat": "9.86667",
+    "lng": "76.5"
+    },
+    {
+    "country": "IN",
+    "name": "Pīpri",
+    "lat": "19.79371",
+    "lng": "75.53519"
+    },
+    {
+    "country": "IN",
+    "name": "Pipraich",
+    "lat": "26.82745",
+    "lng": "83.52632"
+    },
+    {
+    "country": "IN",
+    "name": "Pippara",
+    "lat": "16.71667",
+    "lng": "81.55"
+    },
+    {
+    "country": "IN",
+    "name": "Piploda",
+    "lat": "23.35",
+    "lng": "75.43333"
+    },
+    {
+    "country": "IN",
+    "name": "Pipili",
+    "lat": "20.11357",
+    "lng": "85.83147"
+    },
+    {
+    "country": "IN",
+    "name": "Pīpār",
+    "lat": "26.38441",
+    "lng": "73.54394"
+    },
+    {
+    "country": "IN",
+    "name": "Pīpalkoti",
+    "lat": "30.42553",
+    "lng": "79.43066"
+    },
+    {
+    "country": "IN",
+    "name": "Pinjaur",
+    "lat": "30.79873",
+    "lng": "76.91822"
+    },
+    {
+    "country": "IN",
+    "name": "Pindwāra",
+    "lat": "24.79749",
+    "lng": "73.05505"
+    },
+    {
+    "country": "IN",
+    "name": "Pināhat",
+    "lat": "26.88487",
+    "lng": "78.37647"
+    },
+    {
+    "country": "IN",
+    "name": "Pimpri",
+    "lat": "18.62292",
+    "lng": "73.80696"
+    },
+    {
+    "country": "IN",
+    "name": "Pilkhua",
+    "lat": "28.71271",
+    "lng": "77.656"
+    },
+    {
+    "country": "IN",
+    "name": "Pīlibhīt",
+    "lat": "28.63124",
+    "lng": "79.80436"
+    },
+    {
+    "country": "IN",
+    "name": "Pilibangan",
+    "lat": "29.44964",
+    "lng": "74.10093"
+    },
+    {
+    "country": "IN",
+    "name": "Pilāni",
+    "lat": "28.36725",
+    "lng": "75.60352"
+    },
+    {
+    "country": "IN",
+    "name": "Pihānī",
+    "lat": "27.61987",
+    "lng": "80.20343"
+    },
+    {
+    "country": "IN",
+    "name": "Phūlpur",
+    "lat": "26.07779",
+    "lng": "82.87608"
+    },
+    {
+    "country": "IN",
+    "name": "Phulpur",
+    "lat": "25.54895",
+    "lng": "82.0895"
+    },
+    {
+    "country": "IN",
+    "name": "Phulera",
+    "lat": "26.87401",
+    "lng": "75.24171"
+    },
+    {
+    "country": "IN",
+    "name": "Phulbāni",
+    "lat": "20.48101",
+    "lng": "84.23063"
+    },
+    {
+    "country": "IN",
+    "name": "Phirangipuram",
+    "lat": "16.29078",
+    "lng": "80.26233"
+    },
+    {
+    "country": "IN",
+    "name": "Phillaur",
+    "lat": "31.01887",
+    "lng": "75.79111"
+    },
+    {
+    "country": "IN",
+    "name": "Phek",
+    "lat": "25.66667",
+    "lng": "94.5"
+    },
+    {
+    "country": "IN",
+    "name": "Pharihā",
+    "lat": "27.32166",
+    "lng": "78.47267"
+    },
+    {
+    "country": "IN",
+    "name": "Phaphūnd",
+    "lat": "26.59888",
+    "lng": "79.46437"
+    },
+    {
+    "country": "IN",
+    "name": "Phaltan",
+    "lat": "17.99113",
+    "lng": "74.43177"
+    },
+    {
+    "country": "IN",
+    "name": "Phalodi",
+    "lat": "27.13102",
+    "lng": "72.36826"
+    },
+    {
+    "country": "IN",
+    "name": "Phalauda",
+    "lat": "29.18824",
+    "lng": "77.82996"
+    },
+    {
+    "country": "IN",
+    "name": "Phagwāra",
+    "lat": "31.22452",
+    "lng": "75.77387"
+    },
+    {
+    "country": "IN",
+    "name": "Petlāwad",
+    "lat": "23.01102",
+    "lng": "74.79772"
+    },
+    {
+    "country": "IN",
+    "name": "Petlād",
+    "lat": "22.47681",
+    "lng": "72.79995"
+    },
+    {
+    "country": "IN",
+    "name": "Perūr",
+    "lat": "10.97519",
+    "lng": "76.91292"
+    },
+    {
+    "country": "IN",
+    "name": "Perundurai",
+    "lat": "11.27564",
+    "lng": "77.58794"
+    },
+    {
+    "country": "IN",
+    "name": "Perumpāvūr",
+    "lat": "10.11544",
+    "lng": "76.47611"
+    },
+    {
+    "country": "IN",
+    "name": "Pernem",
+    "lat": "15.723",
+    "lng": "73.79511"
+    },
+    {
+    "country": "IN",
+    "name": "Periyapatti",
+    "lat": "10.75812",
+    "lng": "77.27087"
+    },
+    {
+    "country": "IN",
+    "name": "Periyanegamam",
+    "lat": "10.74317",
+    "lng": "77.10296"
+    },
+    {
+    "country": "IN",
+    "name": "Periyanayakkanpalaiyam",
+    "lat": "11.15255",
+    "lng": "76.95159"
+    },
+    {
+    "country": "IN",
+    "name": "Periyakulam",
+    "lat": "10.12268",
+    "lng": "77.54372"
+    },
+    {
+    "country": "IN",
+    "name": "Perya",
+    "lat": "11.83334",
+    "lng": "75.85408"
+    },
+    {
+    "country": "IN",
+    "name": "Peravurani",
+    "lat": "10.29035",
+    "lng": "79.20156"
+    },
+    {
+    "country": "IN",
+    "name": "Peranāmpattu",
+    "lat": "12.9343",
+    "lng": "78.7189"
+    },
+    {
+    "country": "IN",
+    "name": "Peranamallūr",
+    "lat": "12.57052",
+    "lng": "79.43332"
+    },
+    {
+    "country": "IN",
+    "name": "Perambalur",
+    "lat": "11.23333",
+    "lng": "78.88333"
+    },
+    {
+    "country": "IN",
+    "name": "Peraiyur",
+    "lat": "9.73579",
+    "lng": "77.78955"
+    },
+    {
+    "country": "IN",
+    "name": "Penukonda",
+    "lat": "14.08286",
+    "lng": "77.59473"
+    },
+    {
+    "country": "IN",
+    "name": "Penugonda",
+    "lat": "16.65363",
+    "lng": "81.7455"
+    },
+    {
+    "country": "IN",
+    "name": "Pennāthur",
+    "lat": "12.24681",
+    "lng": "79.22592"
+    },
+    {
+    "country": "IN",
+    "name": "Pennāgaram",
+    "lat": "12.13433",
+    "lng": "77.89525"
+    },
+    {
+    "country": "IN",
+    "name": "Pennādam",
+    "lat": "11.40389",
+    "lng": "79.24156"
+    },
+    {
+    "country": "IN",
+    "name": "Pendra",
+    "lat": "22.77548",
+    "lng": "81.95968"
+    },
+    {
+    "country": "IN",
+    "name": "Pen",
+    "lat": "18.73734",
+    "lng": "73.09603"
+    },
+    {
+    "country": "IN",
+    "name": "Pehowa",
+    "lat": "29.97897",
+    "lng": "76.58249"
+    },
+    {
+    "country": "IN",
+    "name": "Peddāpuram",
+    "lat": "17.07701",
+    "lng": "82.13836"
+    },
+    {
+    "country": "IN",
+    "name": "Peddapalli",
+    "lat": "18.61357",
+    "lng": "79.37442"
+    },
+    {
+    "country": "IN",
+    "name": "Pedana",
+    "lat": "16.25582",
+    "lng": "81.14378"
+    },
+    {
+    "country": "IN",
+    "name": "Payyannūr",
+    "lat": "12.0935",
+    "lng": "75.20249"
+    },
+    {
+    "country": "IN",
+    "name": "Pawāyan",
+    "lat": "28.06626",
+    "lng": "80.10305"
+    },
+    {
+    "country": "IN",
+    "name": "Pawai",
+    "lat": "24.26635",
+    "lng": "80.16196"
+    },
+    {
+    "country": "IN",
+    "name": "Pāvugada",
+    "lat": "14.09953",
+    "lng": "77.28018"
+    },
+    {
+    "country": "IN",
+    "name": "Pauri",
+    "lat": "30.15286",
+    "lng": "78.7771"
+    },
+    {
+    "country": "IN",
+    "name": "Pawni",
+    "lat": "20.79229",
+    "lng": "79.63644"
+    },
+    {
+    "country": "IN",
+    "name": "Pātūr",
+    "lat": "20.46093",
+    "lng": "76.93725"
+    },
+    {
+    "country": "IN",
+    "name": "Pātuli",
+    "lat": "23.55286",
+    "lng": "88.26473"
+    },
+    {
+    "country": "IN",
+    "name": "Pattukkottai",
+    "lat": "10.42358",
+    "lng": "79.31949"
+    },
+    {
+    "country": "IN",
+    "name": "Patti",
+    "lat": "31.28092",
+    "lng": "74.85849"
+    },
+    {
+    "country": "IN",
+    "name": "Patti",
+    "lat": "25.9215",
+    "lng": "82.20048"
+    },
+    {
+    "country": "IN",
+    "name": "Pattan",
+    "lat": "34.16125",
+    "lng": "74.55634"
+    },
+    {
+    "country": "IN",
+    "name": "Panvel",
+    "lat": "18.98878",
+    "lng": "73.11013"
+    },
+    {
+    "country": "IN",
+    "name": "Pānsemāl",
+    "lat": "21.65981",
+    "lng": "74.69937"
+    },
+    {
+    "country": "IN",
+    "name": "Panruti",
+    "lat": "11.77662",
+    "lng": "79.55269"
+    },
+    {
+    "country": "IN",
+    "name": "Panna",
+    "lat": "24.72094",
+    "lng": "80.18772"
+    },
+    {
+    "country": "IN",
+    "name": "Ponmana",
+    "lat": "9.00798",
+    "lng": "76.52023"
+    },
+    {
+    "country": "IN",
+    "name": "Pānīpat",
+    "lat": "29.38747",
+    "lng": "76.96825"
+    },
+    {
+    "country": "IN",
+    "name": "Pānihāti",
+    "lat": "22.69089",
+    "lng": "88.37404"
+    },
+    {
+    "country": "IN",
+    "name": "Panhāla",
+    "lat": "16.8121",
+    "lng": "74.11007"
+    },
+    {
+    "country": "IN",
+    "name": "Pāngāla",
+    "lat": "13.25",
+    "lng": "74.75"
+    },
+    {
+    "country": "IN",
+    "name": "Pandua",
+    "lat": "23.07492",
+    "lng": "88.28637"
+    },
+    {
+    "country": "IN",
+    "name": "Pāndoh",
+    "lat": "31.66902",
+    "lng": "77.05359"
+    },
+    {
+    "country": "IN",
+    "name": "Pāndhurnā",
+    "lat": "21.59556",
+    "lng": "78.52628"
+    },
+    {
+    "country": "IN",
+    "name": "Pandharpur",
+    "lat": "17.67924",
+    "lng": "75.33098"
+    },
+    {
+    "country": "IN",
+    "name": "Pandhāna",
+    "lat": "21.69816",
+    "lng": "76.22487"
+    },
+    {
+    "country": "IN",
+    "name": "French Rocks",
+    "lat": "12.50094",
+    "lng": "76.67416"
+    },
+    {
+    "country": "IN",
+    "name": "Pāndātarai",
+    "lat": "22.18714",
+    "lng": "81.32815"
+    },
+    {
+    "country": "IN",
+    "name": "Pandaria",
+    "lat": "22.22495",
+    "lng": "81.40994"
+    },
+    {
+    "country": "IN",
+    "name": "Pānchgani",
+    "lat": "17.92449",
+    "lng": "73.8008"
+    },
+    {
+    "country": "IN",
+    "name": "Panara",
+    "lat": "22.20568",
+    "lng": "78.55093"
+    },
+    {
+    "country": "IN",
+    "name": "Panamaram",
+    "lat": "11.74014",
+    "lng": "76.07369"
+    },
+    {
+    "country": "IN",
+    "name": "Panaji",
+    "lat": "15.49574",
+    "lng": "73.82624"
+    },
+    {
+    "country": "IN",
+    "name": "Ozar",
+    "lat": "20.09473",
+    "lng": "73.92816"
+    },
+    {
+    "country": "IN",
+    "name": "Odugattūr",
+    "lat": "12.76793",
+    "lng": "78.88304"
+    },
+    {
+    "country": "IN",
+    "name": "Odlābāri",
+    "lat": "26.83644",
+    "lng": "88.62943"
+    },
+    {
+    "country": "IN",
+    "name": "Obra",
+    "lat": "24.41863",
+    "lng": "82.98797"
+    },
+    {
+    "country": "IN",
+    "name": "Nyāmti",
+    "lat": "14.14869",
+    "lng": "75.57641"
+    },
+    {
+    "country": "IN",
+    "name": "Nūzvīd",
+    "lat": "16.78854",
+    "lng": "80.84593"
+    },
+    {
+    "country": "IN",
+    "name": "Nūrpur Kalān",
+    "lat": "31.16667",
+    "lng": "76.48333"
+    },
+    {
+    "country": "IN",
+    "name": "Nūrpur",
+    "lat": "29.14956",
+    "lng": "78.4084"
+    },
+    {
+    "country": "IN",
+    "name": "Nūrmahal",
+    "lat": "31.09662",
+    "lng": "75.59386"
+    },
+    {
+    "country": "IN",
+    "name": "Numāligarh",
+    "lat": "26.62249",
+    "lng": "93.72225"
+    },
+    {
+    "country": "IN",
+    "name": "Nūh",
+    "lat": "28.10296",
+    "lng": "77.00144"
+    },
+    {
+    "country": "IN",
+    "name": "Nowrangapur",
+    "lat": "19.23114",
+    "lng": "82.54826"
+    },
+    {
+    "country": "IN",
+    "name": "North Vanlaiphai",
+    "lat": "23.13227",
+    "lng": "93.06532"
+    },
+    {
+    "country": "IN",
+    "name": "North Lakhimpur",
+    "lat": "27.23517",
+    "lng": "94.10357"
+    },
+    {
+    "country": "IN",
+    "name": "North Guwāhāti",
+    "lat": "26.19749",
+    "lng": "91.7202"
+    },
+    {
+    "country": "IN",
+    "name": "Nongstoin",
+    "lat": "25.51704",
+    "lng": "91.26484"
+    },
+    {
+    "country": "IN",
+    "name": "Nongpoh",
+    "lat": "25.9023",
+    "lng": "91.87694"
+    },
+    {
+    "country": "IN",
+    "name": "Nokha",
+    "lat": "27.56155",
+    "lng": "73.47141"
+    },
+    {
+    "country": "IN",
+    "name": "Nohar",
+    "lat": "29.18292",
+    "lng": "74.77064"
+    },
+    {
+    "country": "IN",
+    "name": "Noāmundi",
+    "lat": "22.16094",
+    "lng": "85.50416"
+    },
+    {
+    "country": "IN",
+    "name": "Nizāmābād",
+    "lat": "26.05295",
+    "lng": "83.05787"
+    },
+    {
+    "country": "IN",
+    "name": "Nizāmābād",
+    "lat": "18.67154",
+    "lng": "78.0988"
+    },
+    {
+    "country": "IN",
+    "name": "Niwāri",
+    "lat": "28.87611",
+    "lng": "77.5382"
+    },
+    {
+    "country": "IN",
+    "name": "Nirsā",
+    "lat": "23.78438",
+    "lng": "86.70692"
+    },
+    {
+    "country": "IN",
+    "name": "Nirmāli",
+    "lat": "26.31397",
+    "lng": "86.58537"
+    },
+    {
+    "country": "IN",
+    "name": "Nirmal",
+    "lat": "19.09685",
+    "lng": "78.34407"
+    },
+    {
+    "country": "IN",
+    "name": "Nipāni",
+    "lat": "16.399",
+    "lng": "74.38285"
+    },
+    {
+    "country": "IN",
+    "name": "Neem ka Thana",
+    "lat": "27.73976",
+    "lng": "75.78652"
+    },
+    {
+    "country": "IN",
+    "name": "Nīmbāhera",
+    "lat": "24.62166",
+    "lng": "74.67999"
+    },
+    {
+    "country": "IN",
+    "name": "Nimāparha",
+    "lat": "20.05756",
+    "lng": "86.00436"
+    },
+    {
+    "country": "IN",
+    "name": "Nīmāj",
+    "lat": "26.14995",
+    "lng": "74.00094"
+    },
+    {
+    "country": "IN",
+    "name": "Nīlokheri",
+    "lat": "29.83671",
+    "lng": "76.93191"
+    },
+    {
+    "country": "IN",
+    "name": "Nīlēshwar",
+    "lat": "12.25953",
+    "lng": "75.1352"
+    },
+    {
+    "country": "IN",
+    "name": "Nilanga",
+    "lat": "18.11675",
+    "lng": "76.75279"
+    },
+    {
+    "country": "IN",
+    "name": "Nilakottai",
+    "lat": "10.165",
+    "lng": "77.85024"
+    },
+    {
+    "country": "IN",
+    "name": "Nīlgiri",
+    "lat": "21.46235",
+    "lng": "86.76794"
+    },
+    {
+    "country": "IN",
+    "name": "Nihtaur",
+    "lat": "29.32416",
+    "lng": "78.38724"
+    },
+    {
+    "country": "IN",
+    "name": "Needamangalam",
+    "lat": "10.77378",
+    "lng": "79.41875"
+    },
+    {
+    "country": "IN",
+    "name": "Nidadavole",
+    "lat": "16.90572",
+    "lng": "81.67222"
+    },
+    {
+    "country": "IN",
+    "name": "Nichlaul",
+    "lat": "27.31247",
+    "lng": "83.7253"
+    },
+    {
+    "country": "IN",
+    "name": "Neyyāttinkara",
+    "lat": "8.39854",
+    "lng": "77.08586"
+    },
+    {
+    "country": "IN",
+    "name": "New Delhi",
+    "lat": "28.63576",
+    "lng": "77.22445"
+    },
+    {
+    "country": "IN",
+    "name": "Neturhāt",
+    "lat": "23.47457",
+    "lng": "84.2678"
+    },
+    {
+    "country": "IN",
+    "name": "Neral",
+    "lat": "19.02475",
+    "lng": "73.31688"
+    },
+    {
+    "country": "IN",
+    "name": "Nepānagar",
+    "lat": "21.4538",
+    "lng": "76.39335"
+    },
+    {
+    "country": "IN",
+    "name": "Nellore",
+    "lat": "14.44992",
+    "lng": "79.98697"
+    },
+    {
+    "country": "IN",
+    "name": "Nellikkuppam",
+    "lat": "11.77554",
+    "lng": "79.67016"
+    },
+    {
+    "country": "IN",
+    "name": "Nelamangala",
+    "lat": "13.09978",
+    "lng": "77.39364"
+    },
+    {
+    "country": "IN",
+    "name": "Nedumangād",
+    "lat": "8.60267",
+    "lng": "77.00139"
+    },
+    {
+    "country": "IN",
+    "name": "Nāzirā",
+    "lat": "26.91649",
+    "lng": "94.73611"
+    },
+    {
+    "country": "IN",
+    "name": "Nāyudupet",
+    "lat": "13.90742",
+    "lng": "79.89465"
+    },
+    {
+    "country": "IN",
+    "name": "Nayāgarh",
+    "lat": "20.12882",
+    "lng": "85.09626"
+    },
+    {
+    "country": "IN",
+    "name": "Naya Bāzār",
+    "lat": "27.13082",
+    "lng": "88.23972"
+    },
+    {
+    "country": "IN",
+    "name": "Nawanshahr",
+    "lat": "31.1245",
+    "lng": "76.11613"
+    },
+    {
+    "country": "IN",
+    "name": "Nawānshahr",
+    "lat": "32.76505",
+    "lng": "74.52772"
+    },
+    {
+    "country": "IN",
+    "name": "Nawalgarh",
+    "lat": "27.85161",
+    "lng": "75.27384"
+    },
+    {
+    "country": "IN",
+    "name": "Niwai",
+    "lat": "26.36073",
+    "lng": "75.91836"
+    },
+    {
+    "country": "IN",
+    "name": "Nawāda",
+    "lat": "24.8867",
+    "lng": "85.54364"
+    },
+    {
+    "country": "IN",
+    "name": "Nawābganj",
+    "lat": "26.49716",
+    "lng": "80.30934"
+    },
+    {
+    "country": "IN",
+    "name": "Nawābganj",
+    "lat": "28.54103",
+    "lng": "79.63462"
+    },
+    {
+    "country": "IN",
+    "name": "Nawābganj",
+    "lat": "26.93129",
+    "lng": "81.19841"
+    },
+    {
+    "country": "IN",
+    "name": "Nawābganj",
+    "lat": "26.86396",
+    "lng": "82.14103"
+    },
+    {
+    "country": "IN",
+    "name": "Nāwa",
+    "lat": "27.0195",
+    "lng": "75.00226"
+    },
+    {
+    "country": "IN",
+    "name": "Navelim",
+    "lat": "15.53333",
+    "lng": "73.98333"
+    },
+    {
+    "country": "IN",
+    "name": "Navalgund",
+    "lat": "15.55877",
+    "lng": "75.35305"
+    },
+    {
+    "country": "IN",
+    "name": "Navadwīp",
+    "lat": "23.4067",
+    "lng": "88.36861"
+    },
+    {
+    "country": "IN",
+    "name": "Nautanwa",
+    "lat": "27.42752",
+    "lng": "83.41789"
+    },
+    {
+    "country": "IN",
+    "name": "Naugachhia",
+    "lat": "25.38807",
+    "lng": "87.09906"
+    },
+    {
+    "country": "IN",
+    "name": "Nāttarasankottai",
+    "lat": "9.86905",
+    "lng": "78.55305"
+    },
+    {
+    "country": "IN",
+    "name": "Nattam",
+    "lat": "10.22776",
+    "lng": "78.22969"
+    },
+    {
+    "country": "IN",
+    "name": "Nāthdwāra",
+    "lat": "24.93805",
+    "lng": "73.82392"
+    },
+    {
+    "country": "IN",
+    "name": "Nasrullāhganj",
+    "lat": "22.6837",
+    "lng": "77.27069"
+    },
+    {
+    "country": "IN",
+    "name": "Nāsriganj",
+    "lat": "25.0514",
+    "lng": "84.32839"
+    },
+    {
+    "country": "IN",
+    "name": "Nāspur",
+    "lat": "18.84577",
+    "lng": "79.46165"
+    },
+    {
+    "country": "IN",
+    "name": "Nasīrābād",
+    "lat": "26.30473",
+    "lng": "74.73364"
+    },
+    {
+    "country": "IN",
+    "name": "Nashik",
+    "lat": "19.99727",
+    "lng": "73.79096"
+    },
+    {
+    "country": "IN",
+    "name": "Narwar",
+    "lat": "25.6439",
+    "lng": "77.9129"
+    },
+    {
+    "country": "IN",
+    "name": "Narwāna",
+    "lat": "29.59903",
+    "lng": "76.11927"
+    },
+    {
+    "country": "IN",
+    "name": "Narsīpatnam",
+    "lat": "17.66709",
+    "lng": "82.61245"
+    },
+    {
+    "country": "IN",
+    "name": "Nārsingi",
+    "lat": "18.04468",
+    "lng": "78.42516"
+    },
+    {
+    "country": "IN",
+    "name": "Narsinghgarh",
+    "lat": "23.70758",
+    "lng": "77.09319"
+    },
+    {
+    "country": "IN",
+    "name": "Narsimhapur",
+    "lat": "22.94936",
+    "lng": "79.18357"
+    },
+    {
+    "country": "IN",
+    "name": "Naroda",
+    "lat": "23.07041",
+    "lng": "72.65702"
+    },
+    {
+    "country": "IN",
+    "name": "Nārnaund",
+    "lat": "29.22047",
+    "lng": "76.14278"
+    },
+    {
+    "country": "IN",
+    "name": "Nārnaul",
+    "lat": "28.04444",
+    "lng": "76.10833"
+    },
+    {
+    "country": "IN",
+    "name": "Narharpur",
+    "lat": "20.44892",
+    "lng": "81.62004"
+    },
+    {
+    "country": "IN",
+    "name": "Nargund",
+    "lat": "15.72299",
+    "lng": "75.38666"
+    },
+    {
+    "country": "IN",
+    "name": "Narendranagar",
+    "lat": "30.16173",
+    "lng": "78.28712"
+    },
+    {
+    "country": "IN",
+    "name": "Naregal",
+    "lat": "15.57316",
+    "lng": "75.80805"
+    },
+    {
+    "country": "IN",
+    "name": "Nārāyanpet",
+    "lat": "16.74799",
+    "lng": "77.4954"
+    },
+    {
+    "country": "IN",
+    "name": "Narāyangarh",
+    "lat": "30.47798",
+    "lng": "77.12804"
+    },
+    {
+    "country": "IN",
+    "name": "Nārāyangarh",
+    "lat": "24.27083",
+    "lng": "75.05007"
+    },
+    {
+    "country": "IN",
+    "name": "Nārāyanavanam",
+    "lat": "13.42565",
+    "lng": "79.58881"
+    },
+    {
+    "country": "IN",
+    "name": "Nāravārikuppam",
+    "lat": "13.19133",
+    "lng": "80.18473"
+    },
+    {
+    "country": "IN",
+    "name": "Naraura",
+    "lat": "28.20147",
+    "lng": "78.38723"
+    },
+    {
+    "country": "IN",
+    "name": "Narauli",
+    "lat": "28.48547",
+    "lng": "78.71484"
+    },
+    {
+    "country": "IN",
+    "name": "Narasingāpuram",
+    "lat": "13.60759",
+    "lng": "79.31652"
+    },
+    {
+    "country": "IN",
+    "name": "Narasimharājapura",
+    "lat": "13.61075",
+    "lng": "75.512"
+    },
+    {
+    "country": "IN",
+    "name": "Narasaraopet",
+    "lat": "16.23488",
+    "lng": "80.04927"
+    },
+    {
+    "country": "IN",
+    "name": "Narasapur",
+    "lat": "16.43425",
+    "lng": "81.69845"
+    },
+    {
+    "country": "IN",
+    "name": "Narasannapeta",
+    "lat": "18.41428",
+    "lng": "84.04463"
+    },
+    {
+    "country": "IN",
+    "name": "Naraini",
+    "lat": "25.19033",
+    "lng": "80.475"
+    },
+    {
+    "country": "IN",
+    "name": "Naraina",
+    "lat": "26.79069",
+    "lng": "75.20608"
+    },
+    {
+    "country": "IN",
+    "name": "Napāsar",
+    "lat": "27.96059",
+    "lng": "73.55913"
+    },
+    {
+    "country": "IN",
+    "name": "Nānpāra",
+    "lat": "27.86459",
+    "lng": "81.50036"
+    },
+    {
+    "country": "IN",
+    "name": "Nannilam",
+    "lat": "10.87933",
+    "lng": "79.61062"
+    },
+    {
+    "country": "IN",
+    "name": "Nanjangūd",
+    "lat": "12.11764",
+    "lng": "76.68397"
+    },
+    {
+    "country": "IN",
+    "name": "Nanguneri",
+    "lat": "8.49326",
+    "lng": "77.65806"
+    },
+    {
+    "country": "IN",
+    "name": "Nāngloi Jāt",
+    "lat": "28.67957",
+    "lng": "77.06799"
+    },
+    {
+    "country": "IN",
+    "name": "Nangavalli",
+    "lat": "11.76189",
+    "lng": "77.89093"
+    },
+    {
+    "country": "IN",
+    "name": "Nangal",
+    "lat": "31.38966",
+    "lng": "76.37574"
+    },
+    {
+    "country": "IN",
+    "name": "Nandyāl",
+    "lat": "15.47799",
+    "lng": "78.4836"
+    },
+    {
+    "country": "IN",
+    "name": "Nandurbar",
+    "lat": "21.36671",
+    "lng": "74.24051"
+    },
+    {
+    "country": "IN",
+    "name": "Nāndūra Buzurg",
+    "lat": "20.83417",
+    "lng": "76.45924"
+    },
+    {
+    "country": "IN",
+    "name": "Nandikotkūr",
+    "lat": "15.85668",
+    "lng": "78.26569"
+    },
+    {
+    "country": "IN",
+    "name": "Nandigāma",
+    "lat": "16.7717",
+    "lng": "80.28596"
+    },
+    {
+    "country": "IN",
+    "name": "Nandgaon",
+    "lat": "27.71102",
+    "lng": "77.38653"
+    },
+    {
+    "country": "IN",
+    "name": "Nāndgaon",
+    "lat": "20.3068",
+    "lng": "74.65501"
+    },
+    {
+    "country": "IN",
+    "name": "Nanded",
+    "lat": "19.16023",
+    "lng": "77.31497"
+    },
+    {
+    "country": "IN",
+    "name": "Nanauta",
+    "lat": "29.71215",
+    "lng": "77.41728"
+    },
+    {
+    "country": "IN",
+    "name": "Nāmrup",
+    "lat": "27.19395",
+    "lng": "95.31929"
+    },
+    {
+    "country": "IN",
+    "name": "Namli",
+    "lat": "23.46115",
+    "lng": "75.06036"
+    },
+    {
+    "country": "IN",
+    "name": "Namchi",
+    "lat": "27.16494",
+    "lng": "88.3638"
+    },
+    {
+    "country": "IN",
+    "name": "Nambutalai",
+    "lat": "9.72766",
+    "lng": "79.00707"
+    },
+    {
+    "country": "IN",
+    "name": "Nambiyūr",
+    "lat": "11.35811",
+    "lng": "77.32115"
+    },
+    {
+    "country": "IN",
+    "name": "Nāmakkal",
+    "lat": "11.22126",
+    "lng": "78.16524"
+    },
+    {
+    "country": "IN",
+    "name": "Nāmagiripettai",
+    "lat": "11.45513",
+    "lng": "78.26818"
+    },
+    {
+    "country": "IN",
+    "name": "Naliya",
+    "lat": "23.26058",
+    "lng": "68.82655"
+    },
+    {
+    "country": "IN",
+    "name": "Nalhāti",
+    "lat": "24.29704",
+    "lng": "87.82899"
+    },
+    {
+    "country": "IN",
+    "name": "Nalgonda",
+    "lat": "17.05439",
+    "lng": "79.26707"
+    },
+    {
+    "country": "IN",
+    "name": "Naldurg",
+    "lat": "17.81667",
+    "lng": "76.28182"
+    },
+    {
+    "country": "IN",
+    "name": "Nālāgarh",
+    "lat": "31.04168",
+    "lng": "76.72285"
+    },
+    {
+    "country": "IN",
+    "name": "Nakūr",
+    "lat": "29.91964",
+    "lng": "77.30438"
+    },
+    {
+    "country": "IN",
+    "name": "Naksalbāri",
+    "lat": "26.6827",
+    "lng": "88.22001"
+    },
+    {
+    "country": "IN",
+    "name": "Nakodar",
+    "lat": "31.12586",
+    "lng": "75.47508"
+    },
+    {
+    "country": "IN",
+    "name": "Najībābād",
+    "lat": "29.61194",
+    "lng": "78.34274"
+    },
+    {
+    "country": "IN",
+    "name": "Nainwa",
+    "lat": "25.77145",
+    "lng": "75.84978"
+    },
+    {
+    "country": "IN",
+    "name": "Nainpur",
+    "lat": "22.42996",
+    "lng": "80.10561"
+    },
+    {
+    "country": "IN",
+    "name": "Naini Tāl",
+    "lat": "29.39743",
+    "lng": "79.44686"
+    },
+    {
+    "country": "IN",
+    "name": "Naihāti",
+    "lat": "22.89396",
+    "lng": "88.41521"
+    },
+    {
+    "country": "IN",
+    "name": "Naīgarhi",
+    "lat": "24.78686",
+    "lng": "81.77868"
+    },
+    {
+    "country": "IN",
+    "name": "Nahorkatiya",
+    "lat": "27.28912",
+    "lng": "95.3418"
+    },
+    {
+    "country": "IN",
+    "name": "Nāhan",
+    "lat": "30.56029",
+    "lng": "77.29426"
+    },
+    {
+    "country": "IN",
+    "name": "Nagrota",
+    "lat": "32.0571",
+    "lng": "76.09139"
+    },
+    {
+    "country": "IN",
+    "name": "Nagrām",
+    "lat": "26.61872",
+    "lng": "81.14043"
+    },
+    {
+    "country": "IN",
+    "name": "Nagpur",
+    "lat": "21.14631",
+    "lng": "79.08491"
+    },
+    {
+    "country": "IN",
+    "name": "Nāgothana",
+    "lat": "18.54225",
+    "lng": "73.13493"
+    },
+    {
+    "country": "IN",
+    "name": "Nāgod",
+    "lat": "24.56924",
+    "lng": "80.58809"
+    },
+    {
+    "country": "IN",
+    "name": "Nāgireddipalli",
+    "lat": "14.27005",
+    "lng": "79.10131"
+    },
+    {
+    "country": "IN",
+    "name": "Nagīna",
+    "lat": "29.44433",
+    "lng": "78.43646"
+    },
+    {
+    "country": "IN",
+    "name": "Nāgercoil",
+    "lat": "8.17899",
+    "lng": "77.43227"
+    },
+    {
+    "country": "IN",
+    "name": "Nagda",
+    "lat": "23.45834",
+    "lng": "75.41759"
+    },
+    {
+    "country": "IN",
+    "name": "Nāgaur",
+    "lat": "27.20201",
+    "lng": "73.73394"
+    },
+    {
+    "country": "IN",
+    "name": "Nāgar Karnūl",
+    "lat": "16.4821",
+    "lng": "78.32471"
+    },
+    {
+    "country": "IN",
+    "name": "Nagari",
+    "lat": "13.32139",
+    "lng": "79.58557"
+    },
+    {
+    "country": "IN",
+    "name": "Nagar",
+    "lat": "32.13808",
+    "lng": "77.17393"
+    },
+    {
+    "country": "IN",
+    "name": "Nagar",
+    "lat": "27.42397",
+    "lng": "77.09922"
+    },
+    {
+    "country": "IN",
+    "name": "Negapatam",
+    "lat": "10.76377",
+    "lng": "79.84313"
+    },
+    {
+    "country": "IN",
+    "name": "Nāgamangala",
+    "lat": "12.81939",
+    "lng": "76.75456"
+    },
+    {
+    "country": "IN",
+    "name": "Naduvattam",
+    "lat": "11.48075",
+    "lng": "76.54365"
+    },
+    {
+    "country": "IN",
+    "name": "Naduvannūr",
+    "lat": "11.48772",
+    "lng": "75.77511"
+    },
+    {
+    "country": "IN",
+    "name": "Nadīgaon",
+    "lat": "26.10784",
+    "lng": "79.02283"
+    },
+    {
+    "country": "IN",
+    "name": "Nadiād",
+    "lat": "22.69385",
+    "lng": "72.86157"
+    },
+    {
+    "country": "IN",
+    "name": "Nādbai",
+    "lat": "27.22288",
+    "lng": "77.19569"
+    },
+    {
+    "country": "IN",
+    "name": "Nādaun",
+    "lat": "31.78303",
+    "lng": "76.3431"
+    },
+    {
+    "country": "IN",
+    "name": "Nādāpuram",
+    "lat": "11.68465",
+    "lng": "75.65493"
+    },
+    {
+    "country": "IN",
+    "name": "Nabīnagar",
+    "lat": "24.60681",
+    "lng": "84.12624"
+    },
+    {
+    "country": "IN",
+    "name": "Nābha",
+    "lat": "30.37577",
+    "lng": "76.15292"
+    },
+    {
+    "country": "IN",
+    "name": "Mysore",
+    "lat": "12.29791",
+    "lng": "76.63925"
+    },
+    {
+    "country": "IN",
+    "name": "Muzaffarpur",
+    "lat": "26.12259",
+    "lng": "85.39055"
+    },
+    {
+    "country": "IN",
+    "name": "Muzaffarnagar",
+    "lat": "29.47091",
+    "lng": "77.70332"
+    },
+    {
+    "country": "IN",
+    "name": "Mūvattupula",
+    "lat": "9.98493",
+    "lng": "76.57728"
+    },
+    {
+    "country": "IN",
+    "name": "Muttupet",
+    "lat": "10.39505",
+    "lng": "79.49353"
+    },
+    {
+    "country": "IN",
+    "name": "Mustafābād",
+    "lat": "30.2022",
+    "lng": "77.14873"
+    },
+    {
+    "country": "IN",
+    "name": "Mussoorie",
+    "lat": "30.45498",
+    "lng": "78.07068"
+    },
+    {
+    "country": "IN",
+    "name": "Musiri",
+    "lat": "10.95299",
+    "lng": "78.44427"
+    },
+    {
+    "country": "IN",
+    "name": "Mushābani",
+    "lat": "22.51135",
+    "lng": "86.45713"
+    },
+    {
+    "country": "IN",
+    "name": "Musāfir-Khāna",
+    "lat": "26.37837",
+    "lng": "81.79607"
+    },
+    {
+    "country": "IN",
+    "name": "Murwāra",
+    "lat": "23.83776",
+    "lng": "80.39405"
+    },
+    {
+    "country": "IN",
+    "name": "Murud",
+    "lat": "18.32817",
+    "lng": "72.9621"
+    },
+    {
+    "country": "IN",
+    "name": "Murtajāpur",
+    "lat": "20.73299",
+    "lng": "77.36694"
+    },
+    {
+    "country": "IN",
+    "name": "Murshidābād",
+    "lat": "24.1839",
+    "lng": "88.27171"
+    },
+    {
+    "country": "IN",
+    "name": "Mursān",
+    "lat": "27.57788",
+    "lng": "77.94091"
+    },
+    {
+    "country": "IN",
+    "name": "Murlīganj",
+    "lat": "25.8969",
+    "lng": "86.99577"
+    },
+    {
+    "country": "IN",
+    "name": "Morinda",
+    "lat": "30.79014",
+    "lng": "76.49883"
+    },
+    {
+    "country": "IN",
+    "name": "Muri",
+    "lat": "23.37074",
+    "lng": "85.86236"
+    },
+    {
+    "country": "IN",
+    "name": "Murgūd",
+    "lat": "16.39604",
+    "lng": "74.19142"
+    },
+    {
+    "country": "IN",
+    "name": "Murbād",
+    "lat": "19.25395",
+    "lng": "73.38993"
+    },
+    {
+    "country": "IN",
+    "name": "Muragācha",
+    "lat": "23.53631",
+    "lng": "88.39425"
+    },
+    {
+    "country": "IN",
+    "name": "Murādnagar",
+    "lat": "28.78069",
+    "lng": "77.49865"
+    },
+    {
+    "country": "IN",
+    "name": "Munnar",
+    "lat": "10.08818",
+    "lng": "77.06239"
+    },
+    {
+    "country": "IN",
+    "name": "Munirābād",
+    "lat": "15.30928",
+    "lng": "76.3383"
+    },
+    {
+    "country": "IN",
+    "name": "Monghyr",
+    "lat": "25.37459",
+    "lng": "86.47455"
+    },
+    {
+    "country": "IN",
+    "name": "Mungeli",
+    "lat": "22.06566",
+    "lng": "81.68543"
+    },
+    {
+    "country": "IN",
+    "name": "Mungaoli",
+    "lat": "24.40837",
+    "lng": "78.09588"
+    },
+    {
+    "country": "IN",
+    "name": "Mūndwa",
+    "lat": "27.0631",
+    "lng": "73.82304"
+    },
+    {
+    "country": "IN",
+    "name": "Mundra",
+    "lat": "22.83918",
+    "lng": "69.7219"
+    },
+    {
+    "country": "IN",
+    "name": "Mundi",
+    "lat": "22.06693",
+    "lng": "76.49326"
+    },
+    {
+    "country": "IN",
+    "name": "Mundgod",
+    "lat": "14.97144",
+    "lng": "75.03658"
+    },
+    {
+    "country": "IN",
+    "name": "Mundargi",
+    "lat": "15.20677",
+    "lng": "75.8839"
+    },
+    {
+    "country": "IN",
+    "name": "Multai",
+    "lat": "21.77463",
+    "lng": "78.25756"
+    },
+    {
+    "country": "IN",
+    "name": "Mūlki",
+    "lat": "13.09101",
+    "lng": "74.79353"
+    },
+    {
+    "country": "IN",
+    "name": "Mulgund",
+    "lat": "15.2807",
+    "lng": "75.52132"
+    },
+    {
+    "country": "IN",
+    "name": "Mulbāgal",
+    "lat": "13.16352",
+    "lng": "78.39346"
+    },
+    {
+    "country": "IN",
+    "name": "Muluppilagadu",
+    "lat": "11.79788",
+    "lng": "75.45111"
+    },
+    {
+    "country": "IN",
+    "name": "Mūlanūr",
+    "lat": "10.79426",
+    "lng": "77.7115"
+    },
+    {
+    "country": "IN",
+    "name": "Mūl",
+    "lat": "20.06987",
+    "lng": "79.67826"
+    },
+    {
+    "country": "IN",
+    "name": "Muktsar",
+    "lat": "30.47426",
+    "lng": "74.5166"
+    },
+    {
+    "country": "IN",
+    "name": "Mukher",
+    "lat": "18.70636",
+    "lng": "77.36795"
+    },
+    {
+    "country": "IN",
+    "name": "Mukeriān",
+    "lat": "31.95394",
+    "lng": "75.61716"
+    },
+    {
+    "country": "IN",
+    "name": "Muhammadābād",
+    "lat": "27.30895",
+    "lng": "79.43252"
+    },
+    {
+    "country": "IN",
+    "name": "Muhammadābād",
+    "lat": "26.03404",
+    "lng": "83.38114"
+    },
+    {
+    "country": "IN",
+    "name": "Muhammadābād",
+    "lat": "25.61907",
+    "lng": "83.75576"
+    },
+    {
+    "country": "IN",
+    "name": "Mugma",
+    "lat": "23.77015",
+    "lng": "86.72746"
+    },
+    {
+    "country": "IN",
+    "name": "Mughal Sarāi",
+    "lat": "25.28307",
+    "lng": "83.11968"
+    },
+    {
+    "country": "IN",
+    "name": "Mudukulattūr",
+    "lat": "9.34169",
+    "lng": "78.51388"
+    },
+    {
+    "country": "IN",
+    "name": "Mudkhed",
+    "lat": "19.15657",
+    "lng": "77.50304"
+    },
+    {
+    "country": "IN",
+    "name": "Mudgere",
+    "lat": "13.13353",
+    "lng": "75.6416"
+    },
+    {
+    "country": "IN",
+    "name": "Mudhol",
+    "lat": "16.33354",
+    "lng": "75.28305"
+    },
+    {
+    "country": "IN",
+    "name": "Mudgal",
+    "lat": "16.01191",
+    "lng": "76.44203"
+    },
+    {
+    "country": "IN",
+    "name": "Muddebihāl",
+    "lat": "16.33782",
+    "lng": "76.13173"
+    },
+    {
+    "country": "IN",
+    "name": "Mūdbidri",
+    "lat": "13.06653",
+    "lng": "74.99525"
+    },
+    {
+    "country": "IN",
+    "name": "Mubārakpur",
+    "lat": "26.08866",
+    "lng": "83.29088"
+    },
+    {
+    "country": "IN",
+    "name": "Mowād",
+    "lat": "21.46475",
+    "lng": "78.45103"
+    },
+    {
+    "country": "IN",
+    "name": "Mothīhāri",
+    "lat": "26.64862",
+    "lng": "84.91656"
+    },
+    {
+    "country": "IN",
+    "name": "Moth",
+    "lat": "25.72595",
+    "lng": "78.95029"
+    },
+    {
+    "country": "IN",
+    "name": "Morwa",
+    "lat": "22.90469",
+    "lng": "73.83912"
+    },
+    {
+    "country": "IN",
+    "name": "Morsi",
+    "lat": "21.3403",
+    "lng": "78.01258"
+    },
+    {
+    "country": "IN",
+    "name": "Morjim",
+    "lat": "15.63097",
+    "lng": "73.73903"
+    },
+    {
+    "country": "IN",
+    "name": "Morena",
+    "lat": "26.49892",
+    "lng": "77.99534"
+    },
+    {
+    "country": "IN",
+    "name": "Morbi",
+    "lat": "22.81731",
+    "lng": "70.8377"
+    },
+    {
+    "country": "IN",
+    "name": "Morār",
+    "lat": "26.2264",
+    "lng": "78.22482"
+    },
+    {
+    "country": "IN",
+    "name": "Morānha",
+    "lat": "27.18735",
+    "lng": "94.91557"
+    },
+    {
+    "country": "IN",
+    "name": "Moram",
+    "lat": "17.78812",
+    "lng": "76.47077"
+    },
+    {
+    "country": "IN",
+    "name": "Morādābād",
+    "lat": "28.83893",
+    "lng": "78.77684"
+    },
+    {
+    "country": "IN",
+    "name": "Mon",
+    "lat": "26.73583",
+    "lng": "95.05841"
+    },
+    {
+    "country": "IN",
+    "name": "Mokokchūng",
+    "lat": "26.3248",
+    "lng": "94.51834"
+    },
+    {
+    "country": "IN",
+    "name": "Mokameh",
+    "lat": "25.39662",
+    "lng": "85.9219"
+    },
+    {
+    "country": "IN",
+    "name": "Moirāng",
+    "lat": "24.4975",
+    "lng": "93.77791"
+    },
+    {
+    "country": "IN",
+    "name": "Mohpa",
+    "lat": "21.31012",
+    "lng": "78.82969"
+    },
+    {
+    "country": "IN",
+    "name": "Mohiuddinnagar",
+    "lat": "25.57374",
+    "lng": "85.66944"
+    },
+    {
+    "country": "IN",
+    "name": "Mohgaon",
+    "lat": "21.63941",
+    "lng": "78.73638"
+    },
+    {
+    "country": "IN",
+    "name": "Mohanūr",
+    "lat": "11.05936",
+    "lng": "78.13965"
+    },
+    {
+    "country": "IN",
+    "name": "Mohanpur",
+    "lat": "28.25261",
+    "lng": "80.24498"
+    },
+    {
+    "country": "IN",
+    "name": "Mohān",
+    "lat": "26.78008",
+    "lng": "80.67497"
+    },
+    {
+    "country": "IN",
+    "name": "Moga",
+    "lat": "30.81383",
+    "lng": "75.16878"
+    },
+    {
+    "country": "IN",
+    "name": "Modāsa",
+    "lat": "23.46253",
+    "lng": "73.29857"
+    },
+    {
+    "country": "IN",
+    "name": "Meethari Marwar",
+    "lat": "27.57615",
+    "lng": "74.68661"
+    },
+    {
+    "country": "IN",
+    "name": "Misrikh",
+    "lat": "27.43137",
+    "lng": "80.53157"
+    },
+    {
+    "country": "IN",
+    "name": "Mirzāpur",
+    "lat": "25.1449",
+    "lng": "82.56534"
+    },
+    {
+    "country": "IN",
+    "name": "Mirik",
+    "lat": "26.88817",
+    "lng": "88.19007"
+    },
+    {
+    "country": "IN",
+    "name": "Miriālgūda",
+    "lat": "16.8722",
+    "lng": "79.56247"
+    },
+    {
+    "country": "IN",
+    "name": "Mīrganj",
+    "lat": "28.54012",
+    "lng": "79.20817"
+    },
+    {
+    "country": "IN",
+    "name": "Mīrānpur Katra",
+    "lat": "28.02963",
+    "lng": "79.66778"
+    },
+    {
+    "country": "IN",
+    "name": "Mīrānpur",
+    "lat": "29.29026",
+    "lng": "77.94939"
+    },
+    {
+    "country": "IN",
+    "name": "Mīnjūr",
+    "lat": "13.27951",
+    "lng": "80.25815"
+    },
+    {
+    "country": "IN",
+    "name": "Milak",
+    "lat": "28.61031",
+    "lng": "79.16997"
+    },
+    {
+    "country": "IN",
+    "name": "Mihona",
+    "lat": "26.28373",
+    "lng": "78.98048"
+    },
+    {
+    "country": "IN",
+    "name": "Mhāsvād",
+    "lat": "17.63359",
+    "lng": "74.78773"
+    },
+    {
+    "country": "IN",
+    "name": "Mhasla",
+    "lat": "18.1334",
+    "lng": "73.11162"
+    },
+    {
+    "country": "IN",
+    "name": "Mettur",
+    "lat": "11.78796",
+    "lng": "77.8008"
+    },
+    {
+    "country": "IN",
+    "name": "Mettupalayam",
+    "lat": "11.29971",
+    "lng": "76.93485"
+    },
+    {
+    "country": "IN",
+    "name": "Mettuppālaiyam",
+    "lat": "11.16806",
+    "lng": "78.44944"
+    },
+    {
+    "country": "IN",
+    "name": "Merta",
+    "lat": "26.64859",
+    "lng": "74.03414"
+    },
+    {
+    "country": "IN",
+    "name": "Mendarda",
+    "lat": "21.32112",
+    "lng": "70.44078"
+    },
+    {
+    "country": "IN",
+    "name": "Memāri",
+    "lat": "23.17647",
+    "lng": "88.09749"
+    },
+    {
+    "country": "IN",
+    "name": "Melur",
+    "lat": "10.03241",
+    "lng": "78.3393"
+    },
+    {
+    "country": "IN",
+    "name": "Melukote",
+    "lat": "12.66258",
+    "lng": "76.64861"
+    },
+    {
+    "country": "IN",
+    "name": "Mehndāwal",
+    "lat": "26.97579",
+    "lng": "83.10995"
+    },
+    {
+    "country": "IN",
+    "name": "Mehnagar",
+    "lat": "25.87889",
+    "lng": "83.11611"
+    },
+    {
+    "country": "IN",
+    "name": "Mehekar",
+    "lat": "20.1505",
+    "lng": "76.56841"
+    },
+    {
+    "country": "IN",
+    "name": "Meghraj",
+    "lat": "23.49805",
+    "lng": "73.51352"
+    },
+    {
+    "country": "IN",
+    "name": "Meerut",
+    "lat": "28.98002",
+    "lng": "77.70636"
+    },
+    {
+    "country": "IN",
+    "name": "Medinīpur",
+    "lat": "22.42114",
+    "lng": "87.32257"
+    },
+    {
+    "country": "IN",
+    "name": "Medchal",
+    "lat": "17.62972",
+    "lng": "78.48139"
+    },
+    {
+    "country": "IN",
+    "name": "Medak",
+    "lat": "18.04531",
+    "lng": "78.26078"
+    },
+    {
+    "country": "IN",
+    "name": "Mayiladuthurai",
+    "lat": "11.10354",
+    "lng": "79.655"
+    },
+    {
+    "country": "IN",
+    "name": "Mayāng Imphāl",
+    "lat": "24.60998",
+    "lng": "93.88873"
+    },
+    {
+    "country": "IN",
+    "name": "Māyakonda",
+    "lat": "14.28894",
+    "lng": "76.08305"
+    },
+    {
+    "country": "IN",
+    "name": "Mawāna",
+    "lat": "29.10288",
+    "lng": "77.92199"
+    },
+    {
+    "country": "IN",
+    "name": "Mavoor",
+    "lat": "11.26667",
+    "lng": "75.91667"
+    },
+    {
+    "country": "IN",
+    "name": "Māvelikara",
+    "lat": "9.25929",
+    "lng": "76.55642"
+    },
+    {
+    "country": "IN",
+    "name": "Maurānwān",
+    "lat": "26.42876",
+    "lng": "80.88008"
+    },
+    {
+    "country": "IN",
+    "name": "Maur",
+    "lat": "30.08333",
+    "lng": "75.25"
+    },
+    {
+    "country": "IN",
+    "name": "Mauganj",
+    "lat": "24.66721",
+    "lng": "81.87339"
+    },
+    {
+    "country": "IN",
+    "name": "Maudaha",
+    "lat": "25.68312",
+    "lng": "80.11419"
+    },
+    {
+    "country": "IN",
+    "name": "Mau Aimma",
+    "lat": "25.69515",
+    "lng": "81.92336"
+    },
+    {
+    "country": "IN",
+    "name": "Mau",
+    "lat": "26.26584",
+    "lng": "78.67108"
+    },
+    {
+    "country": "IN",
+    "name": "Mau",
+    "lat": "25.94167",
+    "lng": "83.56111"
+    },
+    {
+    "country": "IN",
+    "name": "Māttūr",
+    "lat": "11.32147",
+    "lng": "79.20245"
+    },
+    {
+    "country": "IN",
+    "name": "Mattanur",
+    "lat": "11.93018",
+    "lng": "75.57152"
+    },
+    {
+    "country": "IN",
+    "name": "Mathura",
+    "lat": "27.5035",
+    "lng": "77.67215"
+    },
+    {
+    "country": "IN",
+    "name": "Mātherān",
+    "lat": "18.98281",
+    "lng": "73.2652"
+    },
+    {
+    "country": "IN",
+    "name": "Mataundh",
+    "lat": "25.43594",
+    "lng": "80.15653"
+    },
+    {
+    "country": "IN",
+    "name": "Mātābhānga",
+    "lat": "26.34197",
+    "lng": "89.21555"
+    },
+    {
+    "country": "IN",
+    "name": "Masinigudi",
+    "lat": "11.56831",
+    "lng": "76.64087"
+    },
+    {
+    "country": "IN",
+    "name": "Masaurhi Buzurg",
+    "lat": "25.35417",
+    "lng": "85.03195"
+    },
+    {
+    "country": "IN",
+    "name": "Mormugao",
+    "lat": "15.38914",
+    "lng": "73.81491"
+    },
+    {
+    "country": "IN",
+    "name": "Mārkāpur",
+    "lat": "15.73534",
+    "lng": "79.26848"
+    },
+    {
+    "country": "IN",
+    "name": "Mariāni",
+    "lat": "26.65725",
+    "lng": "94.31529"
+    },
+    {
+    "country": "IN",
+    "name": "Mariāhu",
+    "lat": "25.60404",
+    "lng": "82.60379"
+    },
+    {
+    "country": "IN",
+    "name": "Marhaura",
+    "lat": "25.97349",
+    "lng": "84.86796"
+    },
+    {
+    "country": "IN",
+    "name": "Margherita",
+    "lat": "27.28482",
+    "lng": "95.66796"
+    },
+    {
+    "country": "IN",
+    "name": "Mārāndahalli",
+    "lat": "12.38826",
+    "lng": "78.00316"
+    },
+    {
+    "country": "IN",
+    "name": "Marakkanam",
+    "lat": "12.19214",
+    "lng": "79.94193"
+    },
+    {
+    "country": "IN",
+    "name": "Marayur",
+    "lat": "10.27641",
+    "lng": "77.16205"
+    },
+    {
+    "country": "IN",
+    "name": "Mārahra",
+    "lat": "27.7368",
+    "lng": "78.56891"
+    },
+    {
+    "country": "IN",
+    "name": "Māpuca",
+    "lat": "15.59154",
+    "lng": "73.80898"
+    },
+    {
+    "country": "IN",
+    "name": "Mānwat",
+    "lat": "19.30133",
+    "lng": "76.49735"
+    },
+    {
+    "country": "IN",
+    "name": "Mānvi",
+    "lat": "15.99126",
+    "lng": "77.05034"
+    },
+    {
+    "country": "IN",
+    "name": "Manthani",
+    "lat": "18.65087",
+    "lng": "79.66501"
+    },
+    {
+    "country": "IN",
+    "name": "Mansar",
+    "lat": "21.39602",
+    "lng": "79.2635"
+    },
+    {
+    "country": "IN",
+    "name": "Mānsa",
+    "lat": "29.98844",
+    "lng": "75.40167"
+    },
+    {
+    "country": "IN",
+    "name": "Mānsa",
+    "lat": "23.42564",
+    "lng": "72.65739"
+    },
+    {
+    "country": "IN",
+    "name": "Mānpur",
+    "lat": "22.43151",
+    "lng": "75.62107"
+    },
+    {
+    "country": "IN",
+    "name": "Manor",
+    "lat": "19.7244",
+    "lng": "72.90966"
+    },
+    {
+    "country": "IN",
+    "name": "Manohar Thāna",
+    "lat": "24.24",
+    "lng": "76.80182"
+    },
+    {
+    "country": "IN",
+    "name": "Manoharpur",
+    "lat": "27.29769",
+    "lng": "75.9495"
+    },
+    {
+    "country": "IN",
+    "name": "Manoharpur",
+    "lat": "22.37456",
+    "lng": "85.19234"
+    },
+    {
+    "country": "IN",
+    "name": "Mannargudi",
+    "lat": "10.66626",
+    "lng": "79.45064"
+    },
+    {
+    "country": "IN",
+    "name": "Mannārakkāt",
+    "lat": "10.99223",
+    "lng": "76.46418"
+    },
+    {
+    "country": "IN",
+    "name": "Manmād",
+    "lat": "20.25334",
+    "lng": "74.43755"
+    },
+    {
+    "country": "IN",
+    "name": "Mankāpur",
+    "lat": "27.05189",
+    "lng": "82.22961"
+    },
+    {
+    "country": "IN",
+    "name": "Mankāchar",
+    "lat": "25.53347",
+    "lng": "89.86373"
+    },
+    {
+    "country": "IN",
+    "name": "Mājalgaon",
+    "lat": "19.15988",
+    "lng": "76.20832"
+    },
+    {
+    "country": "IN",
+    "name": "Manjhanpur",
+    "lat": "25.53046",
+    "lng": "81.37566"
+    },
+    {
+    "country": "IN",
+    "name": "Manjēshvar",
+    "lat": "12.71287",
+    "lng": "74.88857"
+    },
+    {
+    "country": "IN",
+    "name": "Manjeri",
+    "lat": "11.12018",
+    "lng": "76.11996"
+    },
+    {
+    "country": "IN",
+    "name": "Manipala",
+    "lat": "13.35",
+    "lng": "74.78333"
+    },
+    {
+    "country": "IN",
+    "name": "Mānikpur",
+    "lat": "25.06083",
+    "lng": "81.09961"
+    },
+    {
+    "country": "IN",
+    "name": "Manihāri",
+    "lat": "25.33891",
+    "lng": "87.61998"
+    },
+    {
+    "country": "IN",
+    "name": "Maniar",
+    "lat": "25.98546",
+    "lng": "84.17233"
+    },
+    {
+    "country": "IN",
+    "name": "Mangrūl Pīr",
+    "lat": "20.31379",
+    "lng": "77.34178"
+    },
+    {
+    "country": "IN",
+    "name": "Māngrol",
+    "lat": "25.33061",
+    "lng": "76.50973"
+    },
+    {
+    "country": "IN",
+    "name": "Māngrol",
+    "lat": "21.12268",
+    "lng": "70.11484"
+    },
+    {
+    "country": "IN",
+    "name": "Manglaur",
+    "lat": "29.79094",
+    "lng": "77.87836"
+    },
+    {
+    "country": "IN",
+    "name": "Mangawān",
+    "lat": "24.66754",
+    "lng": "81.54644"
+    },
+    {
+    "country": "IN",
+    "name": "Mangan",
+    "lat": "27.50965",
+    "lng": "88.52206"
+    },
+    {
+    "country": "IN",
+    "name": "Mangalore",
+    "lat": "12.91723",
+    "lng": "74.85603"
+    },
+    {
+    "country": "IN",
+    "name": "Mangaldai",
+    "lat": "26.44212",
+    "lng": "92.03047"
+    },
+    {
+    "country": "IN",
+    "name": "Mangalam",
+    "lat": "9.76473",
+    "lng": "78.64037"
+    },
+    {
+    "country": "IN",
+    "name": "Mangalagiri",
+    "lat": "16.43083",
+    "lng": "80.56815"
+    },
+    {
+    "country": "IN",
+    "name": "Maner",
+    "lat": "25.64602",
+    "lng": "84.87291"
+    },
+    {
+    "country": "IN",
+    "name": "Mandya",
+    "lat": "12.5223",
+    "lng": "76.89746"
+    },
+    {
+    "country": "IN",
+    "name": "Māndvi",
+    "lat": "22.83282",
+    "lng": "69.35237"
+    },
+    {
+    "country": "IN",
+    "name": "Māndvi",
+    "lat": "21.25526",
+    "lng": "73.30412"
+    },
+    {
+    "country": "IN",
+    "name": "Mandsaur",
+    "lat": "24.07184",
+    "lng": "75.06986"
+    },
+    {
+    "country": "IN",
+    "name": "Māndleshwar",
+    "lat": "22.17598",
+    "lng": "75.65995"
+    },
+    {
+    "country": "IN",
+    "name": "Mandlā",
+    "lat": "22.59879",
+    "lng": "80.37115"
+    },
+    {
+    "country": "IN",
+    "name": "Mandi",
+    "lat": "31.71194",
+    "lng": "76.93273"
+    },
+    {
+    "country": "IN",
+    "name": "Mandholi Kalān",
+    "lat": "28.7085",
+    "lng": "75.68296"
+    },
+    {
+    "country": "IN",
+    "name": "Mandāwar",
+    "lat": "29.48655",
+    "lng": "78.12732"
+    },
+    {
+    "country": "IN",
+    "name": "Mandāwar",
+    "lat": "27.86374",
+    "lng": "76.54999"
+    },
+    {
+    "country": "IN",
+    "name": "Mandasa",
+    "lat": "18.8683",
+    "lng": "84.46296"
+    },
+    {
+    "country": "IN",
+    "name": "Mandapeta",
+    "lat": "16.86254",
+    "lng": "81.92921"
+    },
+    {
+    "country": "IN",
+    "name": "Mandapam",
+    "lat": "9.27571",
+    "lng": "79.12362"
+    },
+    {
+    "country": "IN",
+    "name": "Māndalgarh",
+    "lat": "25.19407",
+    "lng": "75.07215"
+    },
+    {
+    "country": "IN",
+    "name": "Māndal",
+    "lat": "25.44126",
+    "lng": "74.56979"
+    },
+    {
+    "country": "IN",
+    "name": "Māndal",
+    "lat": "23.28865",
+    "lng": "71.91854"
+    },
+    {
+    "country": "IN",
+    "name": "Mancherāl",
+    "lat": "18.87074",
+    "lng": "79.42863"
+    },
+    {
+    "country": "IN",
+    "name": "Manchar",
+    "lat": "19.00436",
+    "lng": "73.94346"
+    },
+    {
+    "country": "IN",
+    "name": "Manāwar",
+    "lat": "22.23566",
+    "lng": "75.08917"
+    },
+    {
+    "country": "IN",
+    "name": "Manavālakurichi",
+    "lat": "8.14776",
+    "lng": "77.30552"
+    },
+    {
+    "country": "IN",
+    "name": "Mānāvadar",
+    "lat": "21.49813",
+    "lng": "70.13775"
+    },
+    {
+    "country": "IN",
+    "name": "Manāsa",
+    "lat": "24.47764",
+    "lng": "75.14095"
+    },
+    {
+    "country": "IN",
+    "name": "Manapparai",
+    "lat": "10.60772",
+    "lng": "78.42582"
+    },
+    {
+    "country": "IN",
+    "name": "Manamadurai",
+    "lat": "9.67318",
+    "lng": "78.47096"
+    },
+    {
+    "country": "IN",
+    "name": "Manalūrpettai",
+    "lat": "12.00788",
+    "lng": "79.09184"
+    },
+    {
+    "country": "IN",
+    "name": "Manāli",
+    "lat": "32.2574",
+    "lng": "77.17481"
+    },
+    {
+    "country": "IN",
+    "name": "Manali",
+    "lat": "13.16667",
+    "lng": "80.26667"
+    },
+    {
+    "country": "IN",
+    "name": "Mamit",
+    "lat": "23.92703",
+    "lng": "92.48968"
+    },
+    {
+    "country": "IN",
+    "name": "Seven Pagodas",
+    "lat": "12.62091",
+    "lng": "80.19331"
+    },
+    {
+    "country": "IN",
+    "name": "Mālvan",
+    "lat": "16.05981",
+    "lng": "73.4629"
+    },
+    {
+    "country": "IN",
+    "name": "Mālūr",
+    "lat": "13.00322",
+    "lng": "77.93798"
+    },
+    {
+    "country": "IN",
+    "name": "Mālpura",
+    "lat": "26.2838",
+    "lng": "75.36458"
+    },
+    {
+    "country": "IN",
+    "name": "Mālpur",
+    "lat": "23.36035",
+    "lng": "73.46595"
+    },
+    {
+    "country": "IN",
+    "name": "Malpe",
+    "lat": "13.34962",
+    "lng": "74.70394"
+    },
+    {
+    "country": "IN",
+    "name": "Māllūr",
+    "lat": "11.54424",
+    "lng": "78.14078"
+    },
+    {
+    "country": "IN",
+    "name": "Mallasamudram",
+    "lat": "11.49333",
+    "lng": "78.03119"
+    },
+    {
+    "country": "IN",
+    "name": "Mallāpuram",
+    "lat": "11.98231",
+    "lng": "78.24796"
+    },
+    {
+    "country": "IN",
+    "name": "Malkera",
+    "lat": "23.78213",
+    "lng": "86.28767"
+    },
+    {
+    "country": "IN",
+    "name": "Malkāpur",
+    "lat": "20.88555",
+    "lng": "76.19932"
+    },
+    {
+    "country": "IN",
+    "name": "Malkāpur",
+    "lat": "16.91999",
+    "lng": "73.9347"
+    },
+    {
+    "country": "IN",
+    "name": "Malakanagiri",
+    "lat": "18.36428",
+    "lng": "81.888"
+    },
+    {
+    "country": "IN",
+    "name": "Malīhābād",
+    "lat": "26.92223",
+    "lng": "80.71078"
+    },
+    {
+    "country": "IN",
+    "name": "Malhārgarh",
+    "lat": "24.28286",
+    "lng": "74.99024"
+    },
+    {
+    "country": "IN",
+    "name": "Māler Kotla",
+    "lat": "30.5309",
+    "lng": "75.87949"
+    },
+    {
+    "country": "IN",
+    "name": "Mālegaon",
+    "lat": "20.54966",
+    "lng": "74.53462"
+    },
+    {
+    "country": "IN",
+    "name": "Malavalli",
+    "lat": "12.38556",
+    "lng": "77.06045"
+    },
+    {
+    "country": "IN",
+    "name": "Malaut",
+    "lat": "30.21121",
+    "lng": "74.4818"
+    },
+    {
+    "country": "IN",
+    "name": "Malappuram",
+    "lat": "11.04199",
+    "lng": "76.08154"
+    },
+    {
+    "country": "IN",
+    "name": "Mākum",
+    "lat": "27.48652",
+    "lng": "95.43646"
+    },
+    {
+    "country": "IN",
+    "name": "Maksi",
+    "lat": "23.25999",
+    "lng": "76.14567"
+    },
+    {
+    "country": "IN",
+    "name": "Makrāna",
+    "lat": "27.04361",
+    "lng": "74.72445"
+    },
+    {
+    "country": "IN",
+    "name": "Makhu",
+    "lat": "31.10335",
+    "lng": "74.99631"
+    },
+    {
+    "country": "IN",
+    "name": "Mākhjan",
+    "lat": "17.2698",
+    "lng": "73.50031"
+    },
+    {
+    "country": "IN",
+    "name": "Majītha",
+    "lat": "31.75711",
+    "lng": "74.95891"
+    },
+    {
+    "country": "IN",
+    "name": "Majholi",
+    "lat": "23.50114",
+    "lng": "79.92396"
+    },
+    {
+    "country": "IN",
+    "name": "Mairwa",
+    "lat": "26.23218",
+    "lng": "84.16349"
+    },
+    {
+    "country": "IN",
+    "name": "Mairang",
+    "lat": "25.56165",
+    "lng": "91.63602"
+    },
+    {
+    "country": "IN",
+    "name": "Mainpuri",
+    "lat": "27.22857",
+    "lng": "79.02882"
+    },
+    {
+    "country": "IN",
+    "name": "Maindargi",
+    "lat": "17.45739",
+    "lng": "76.2932"
+    },
+    {
+    "country": "IN",
+    "name": "Maināguri",
+    "lat": "26.56263",
+    "lng": "88.8204"
+    },
+    {
+    "country": "IN",
+    "name": "Mailāni",
+    "lat": "28.29088",
+    "lng": "80.3438"
+    },
+    {
+    "country": "IN",
+    "name": "Maihar",
+    "lat": "24.26594",
+    "lng": "80.76063"
+    },
+    {
+    "country": "IN",
+    "name": "Maibong",
+    "lat": "25.30125",
+    "lng": "93.13811"
+    },
+    {
+    "country": "IN",
+    "name": "Mahwah",
+    "lat": "27.04594",
+    "lng": "76.93152"
+    },
+    {
+    "country": "IN",
+    "name": "Mahur",
+    "lat": "25.18305",
+    "lng": "93.11342"
+    },
+    {
+    "country": "IN",
+    "name": "Mahudha",
+    "lat": "22.82082",
+    "lng": "72.94032"
+    },
+    {
+    "country": "IN",
+    "name": "Mahroni",
+    "lat": "24.58624",
+    "lng": "78.72771"
+    },
+    {
+    "country": "IN",
+    "name": "Maholi",
+    "lat": "27.66368",
+    "lng": "80.47371"
+    },
+    {
+    "country": "IN",
+    "name": "Mahobā",
+    "lat": "25.2905",
+    "lng": "79.87533"
+    },
+    {
+    "country": "IN",
+    "name": "Mahmudābād",
+    "lat": "27.29191",
+    "lng": "81.11775"
+    },
+    {
+    "country": "IN",
+    "name": "Mahīshādal",
+    "lat": "22.18616",
+    "lng": "87.98072"
+    },
+    {
+    "country": "IN",
+    "name": "Mahgawān",
+    "lat": "26.49471",
+    "lng": "78.61593"
+    },
+    {
+    "country": "IN",
+    "name": "Maheshwar",
+    "lat": "22.17592",
+    "lng": "75.58715"
+    },
+    {
+    "country": "IN",
+    "name": "Mahendragarh",
+    "lat": "28.26935",
+    "lng": "76.15253"
+    },
+    {
+    "country": "IN",
+    "name": "Mahemdāvād",
+    "lat": "22.82359",
+    "lng": "72.75551"
+    },
+    {
+    "country": "IN",
+    "name": "Mahē",
+    "lat": "11.70172",
+    "lng": "75.53474"
+    },
+    {
+    "country": "IN",
+    "name": "Mahbūbnagar",
+    "lat": "16.74385",
+    "lng": "77.98597"
+    },
+    {
+    "country": "IN",
+    "name": "Mahbūbābād",
+    "lat": "17.59728",
+    "lng": "80.00207"
+    },
+    {
+    "country": "IN",
+    "name": "Mahāsamund",
+    "lat": "21.10743",
+    "lng": "82.0948"
+    },
+    {
+    "country": "IN",
+    "name": "Mahārāganj",
+    "lat": "27.14456",
+    "lng": "83.56214"
+    },
+    {
+    "country": "IN",
+    "name": "Mahārājganj",
+    "lat": "26.38126",
+    "lng": "81.27436"
+    },
+    {
+    "country": "IN",
+    "name": "Bishunpur Urf Mahārājganj",
+    "lat": "26.25914",
+    "lng": "83.11643"
+    },
+    {
+    "country": "IN",
+    "name": "Mahārājgani",
+    "lat": "26.11017",
+    "lng": "84.50365"
+    },
+    {
+    "country": "IN",
+    "name": "Maham",
+    "lat": "28.96912",
+    "lng": "76.29495"
+    },
+    {
+    "country": "IN",
+    "name": "Mahālingpur",
+    "lat": "16.3888",
+    "lng": "75.10873"
+    },
+    {
+    "country": "IN",
+    "name": "Mahād",
+    "lat": "18.08333",
+    "lng": "73.41667"
+    },
+    {
+    "country": "IN",
+    "name": "Mahāban",
+    "lat": "27.43262",
+    "lng": "77.74338"
+    },
+    {
+    "country": "IN",
+    "name": "Mahābaleshwar",
+    "lat": "17.56",
+    "lng": "73.4"
+    },
+    {
+    "country": "IN",
+    "name": "Maghar",
+    "lat": "26.75586",
+    "lng": "83.12773"
+    },
+    {
+    "country": "IN",
+    "name": "Māgām",
+    "lat": "34.09256",
+    "lng": "74.59016"
+    },
+    {
+    "country": "IN",
+    "name": "Māgadi",
+    "lat": "12.95706",
+    "lng": "77.22374"
+    },
+    {
+    "country": "IN",
+    "name": "Madurāntakam",
+    "lat": "12.51167",
+    "lng": "79.88485"
+    },
+    {
+    "country": "IN",
+    "name": "Madurai",
+    "lat": "9.91769",
+    "lng": "78.11898"
+    },
+    {
+    "country": "IN",
+    "name": "Madukkūr",
+    "lat": "10.48098",
+    "lng": "79.39939"
+    },
+    {
+    "country": "IN",
+    "name": "Madukkarai",
+    "lat": "10.90568",
+    "lng": "76.96344"
+    },
+    {
+    "country": "IN",
+    "name": "Mādugula",
+    "lat": "17.91589",
+    "lng": "82.81578"
+    },
+    {
+    "country": "IN",
+    "name": "Chennai",
+    "lat": "13.08784",
+    "lng": "80.27847"
+    },
+    {
+    "country": "IN",
+    "name": "Madikeri",
+    "lat": "12.42602",
+    "lng": "75.7382"
+    },
+    {
+    "country": "IN",
+    "name": "Madhyamgram",
+    "lat": "22.68944",
+    "lng": "88.44594"
+    },
+    {
+    "country": "IN",
+    "name": "Madhupur",
+    "lat": "24.27419",
+    "lng": "86.63929"
+    },
+    {
+    "country": "IN",
+    "name": "Maddagiri",
+    "lat": "13.66035",
+    "lng": "77.21239"
+    },
+    {
+    "country": "IN",
+    "name": "Madhubani",
+    "lat": "26.35367",
+    "lng": "86.07169"
+    },
+    {
+    "country": "IN",
+    "name": "Mādhogarh",
+    "lat": "26.27522",
+    "lng": "79.1859"
+    },
+    {
+    "country": "IN",
+    "name": "Madhogarh",
+    "lat": "24.56401",
+    "lng": "80.91126"
+    },
+    {
+    "country": "IN",
+    "name": "Mādhoganj",
+    "lat": "27.11807",
+    "lng": "80.14058"
+    },
+    {
+    "country": "IN",
+    "name": "Madhipura",
+    "lat": "25.92127",
+    "lng": "86.79271"
+    },
+    {
+    "country": "IN",
+    "name": "Madgaon",
+    "lat": "15.27501",
+    "lng": "73.95786"
+    },
+    {
+    "country": "IN",
+    "name": "Maddūr",
+    "lat": "12.58283",
+    "lng": "77.04294"
+    },
+    {
+    "country": "IN",
+    "name": "Madanpur",
+    "lat": "23.00589",
+    "lng": "88.49168"
+    },
+    {
+    "country": "IN",
+    "name": "Madanapalle",
+    "lat": "13.5503",
+    "lng": "78.50288"
+    },
+    {
+    "country": "IN",
+    "name": "Machilīpatnam",
+    "lat": "16.18747",
+    "lng": "81.13888"
+    },
+    {
+    "country": "IN",
+    "name": "Machhlīshahr",
+    "lat": "25.68564",
+    "lng": "82.41106"
+    },
+    {
+    "country": "IN",
+    "name": "Māchhīwāra",
+    "lat": "30.91557",
+    "lng": "76.20016"
+    },
+    {
+    "country": "IN",
+    "name": "Mācherla",
+    "lat": "16.47635",
+    "lng": "79.43533"
+    },
+    {
+    "country": "IN",
+    "name": "Māchalpur",
+    "lat": "24.12767",
+    "lng": "76.31672"
+    },
+    {
+    "country": "IN",
+    "name": "Lunglei",
+    "lat": "22.89247",
+    "lng": "92.74218"
+    },
+    {
+    "country": "IN",
+    "name": "Lūnāvāda",
+    "lat": "23.12841",
+    "lng": "73.61043"
+    },
+    {
+    "country": "IN",
+    "name": "Ludhiāna",
+    "lat": "30.91204",
+    "lng": "75.85379"
+    },
+    {
+    "country": "IN",
+    "name": "Lucknow",
+    "lat": "26.83928",
+    "lng": "80.92313"
+    },
+    {
+    "country": "IN",
+    "name": "Luckeesarai",
+    "lat": "25.1765",
+    "lng": "86.0947"
+    },
+    {
+    "country": "IN",
+    "name": "Losal",
+    "lat": "27.4",
+    "lng": "74.91667"
+    },
+    {
+    "country": "IN",
+    "name": "Lormi",
+    "lat": "22.27434",
+    "lng": "81.70181"
+    },
+    {
+    "country": "IN",
+    "name": "Loni",
+    "lat": "28.75143",
+    "lng": "77.29023"
+    },
+    {
+    "country": "IN",
+    "name": "Londa",
+    "lat": "15.46907",
+    "lng": "74.51906"
+    },
+    {
+    "country": "IN",
+    "name": "Lonavla",
+    "lat": "18.75275",
+    "lng": "73.40575"
+    },
+    {
+    "country": "IN",
+    "name": "Lonār",
+    "lat": "19.98533",
+    "lng": "76.52046"
+    },
+    {
+    "country": "IN",
+    "name": "Lohogaon",
+    "lat": "18.59921",
+    "lng": "73.92701"
+    },
+    {
+    "country": "IN",
+    "name": "Lohāru",
+    "lat": "28.42993",
+    "lng": "75.80779"
+    },
+    {
+    "country": "IN",
+    "name": "Lohārdagā",
+    "lat": "23.43305",
+    "lng": "84.67992"
+    },
+    {
+    "country": "IN",
+    "name": "Lohaghāt",
+    "lat": "29.40356",
+    "lng": "80.08965"
+    },
+    {
+    "country": "IN",
+    "name": "Lodhīkheda",
+    "lat": "21.58235",
+    "lng": "78.85911"
+    },
+    {
+    "country": "IN",
+    "name": "Lingsugūr",
+    "lat": "16.15876",
+    "lng": "76.52174"
+    },
+    {
+    "country": "IN",
+    "name": "Limbdi",
+    "lat": "22.56507",
+    "lng": "71.81076"
+    },
+    {
+    "country": "IN",
+    "name": "Leteri",
+    "lat": "24.05979",
+    "lng": "77.40858"
+    },
+    {
+    "country": "IN",
+    "name": "Leh",
+    "lat": "34.16504",
+    "lng": "77.58402"
+    },
+    {
+    "country": "IN",
+    "name": "Lāwar Khās",
+    "lat": "29.11091",
+    "lng": "77.77767"
+    },
+    {
+    "country": "IN",
+    "name": "Laungowāl",
+    "lat": "30.19393",
+    "lng": "75.68089"
+    },
+    {
+    "country": "IN",
+    "name": "Latur",
+    "lat": "18.39721",
+    "lng": "76.56784"
+    },
+    {
+    "country": "IN",
+    "name": "Lāthi",
+    "lat": "21.7231",
+    "lng": "71.38843"
+    },
+    {
+    "country": "IN",
+    "name": "Lātehār",
+    "lat": "23.74423",
+    "lng": "84.49984"
+    },
+    {
+    "country": "IN",
+    "name": "Lāsalgaon",
+    "lat": "20.1427",
+    "lng": "74.23946"
+    },
+    {
+    "country": "IN",
+    "name": "Lar",
+    "lat": "26.20394",
+    "lng": "83.96906"
+    },
+    {
+    "country": "IN",
+    "name": "Lansdowne",
+    "lat": "29.84183",
+    "lng": "78.68014"
+    },
+    {
+    "country": "IN",
+    "name": "Lānja",
+    "lat": "16.86086",
+    "lng": "73.54993"
+    },
+    {
+    "country": "IN",
+    "name": "Lālsot",
+    "lat": "26.55951",
+    "lng": "76.32915"
+    },
+    {
+    "country": "IN",
+    "name": "Lālpur",
+    "lat": "22.19073",
+    "lng": "69.96351"
+    },
+    {
+    "country": "IN",
+    "name": "Lalitpur",
+    "lat": "24.69007",
+    "lng": "78.41915"
+    },
+    {
+    "country": "IN",
+    "name": "Lalgudi",
+    "lat": "10.87419",
+    "lng": "78.81935"
+    },
+    {
+    "country": "IN",
+    "name": "Lālgola",
+    "lat": "24.42244",
+    "lng": "88.25238"
+    },
+    {
+    "country": "IN",
+    "name": "Lālganj",
+    "lat": "25.93182",
+    "lng": "81.70478"
+    },
+    {
+    "country": "IN",
+    "name": "Lālganj",
+    "lat": "25.86894",
+    "lng": "85.17394"
+    },
+    {
+    "country": "IN",
+    "name": "Lālam",
+    "lat": "9.71667",
+    "lng": "76.7"
+    },
+    {
+    "country": "IN",
+    "name": "Lāla",
+    "lat": "24.55418",
+    "lng": "92.61592"
+    },
+    {
+    "country": "IN",
+    "name": "Lakshmeshwar",
+    "lat": "15.12689",
+    "lng": "75.46935"
+    },
+    {
+    "country": "IN",
+    "name": "Lakshettipet",
+    "lat": "18.86667",
+    "lng": "79.21667"
+    },
+    {
+    "country": "IN",
+    "name": "Laksar",
+    "lat": "29.7587",
+    "lng": "78.04148"
+    },
+    {
+    "country": "IN",
+    "name": "Lakhyabad",
+    "lat": "23.66667",
+    "lng": "86.66667"
+    },
+    {
+    "country": "IN",
+    "name": "Lakhtar",
+    "lat": "22.85683",
+    "lng": "71.78844"
+    },
+    {
+    "country": "IN",
+    "name": "Lakhnādon",
+    "lat": "22.60049",
+    "lng": "79.60094"
+    },
+    {
+    "country": "IN",
+    "name": "Lakhnā",
+    "lat": "26.64822",
+    "lng": "79.1477"
+    },
+    {
+    "country": "IN",
+    "name": "Lakhipur",
+    "lat": "26.03001",
+    "lng": "90.30611"
+    },
+    {
+    "country": "IN",
+    "name": "Lakhipur",
+    "lat": "24.79281",
+    "lng": "93.0091"
+    },
+    {
+    "country": "IN",
+    "name": "Lakhīmpur",
+    "lat": "27.94822",
+    "lng": "80.77935"
+    },
+    {
+    "country": "IN",
+    "name": "Lākheri",
+    "lat": "25.67237",
+    "lng": "76.17692"
+    },
+    {
+    "country": "IN",
+    "name": "Lāharpur",
+    "lat": "27.70827",
+    "lng": "80.90256"
+    },
+    {
+    "country": "IN",
+    "name": "Lahār",
+    "lat": "26.19401",
+    "lng": "78.94137"
+    },
+    {
+    "country": "IN",
+    "name": "Lādwa",
+    "lat": "29.9935",
+    "lng": "77.04563"
+    },
+    {
+    "country": "IN",
+    "name": "Lādnūn",
+    "lat": "27.65312",
+    "lng": "74.39993"
+    },
+    {
+    "country": "IN",
+    "name": "Lachhmangarh Sīkar",
+    "lat": "27.82294",
+    "lng": "75.02754"
+    },
+    {
+    "country": "IN",
+    "name": "Kyelang",
+    "lat": "32.5717",
+    "lng": "77.02448"
+    },
+    {
+    "country": "IN",
+    "name": "Kuzhithurai",
+    "lat": "8.31792",
+    "lng": "77.19192"
+    },
+    {
+    "country": "IN",
+    "name": "Koothanallur",
+    "lat": "10.7199",
+    "lng": "79.5157"
+    },
+    {
+    "country": "IN",
+    "name": "Kuttampuzha",
+    "lat": "10.15033",
+    "lng": "76.73544"
+    },
+    {
+    "country": "IN",
+    "name": "Kuttālam",
+    "lat": "8.9303",
+    "lng": "77.26951"
+    },
+    {
+    "country": "IN",
+    "name": "Kutiyāna",
+    "lat": "21.6241",
+    "lng": "69.98494"
+    },
+    {
+    "country": "IN",
+    "name": "Kutiatodu",
+    "lat": "9.8",
+    "lng": "76.33333"
+    },
+    {
+    "country": "IN",
+    "name": "Kushtagi",
+    "lat": "15.75623",
+    "lng": "76.19112"
+    },
+    {
+    "country": "IN",
+    "name": "Kushālnagar",
+    "lat": "12.45795",
+    "lng": "75.95904"
+    },
+    {
+    "country": "IN",
+    "name": "Kushālgarh",
+    "lat": "23.19899",
+    "lng": "74.45074"
+    },
+    {
+    "country": "IN",
+    "name": "Kurud",
+    "lat": "20.83073",
+    "lng": "81.72212"
+    },
+    {
+    "country": "IN",
+    "name": "Kurnool",
+    "lat": "15.82887",
+    "lng": "78.03602"
+    },
+    {
+    "country": "IN",
+    "name": "Kurinjippādi",
+    "lat": "11.55028",
+    "lng": "79.59066"
+    },
+    {
+    "country": "IN",
+    "name": "Kurgunta",
+    "lat": "17.19321",
+    "lng": "77.35772"
+    },
+    {
+    "country": "IN",
+    "name": "Kurduvādi",
+    "lat": "18.09339",
+    "lng": "75.41567"
+    },
+    {
+    "country": "IN",
+    "name": "Kurāra",
+    "lat": "25.98046",
+    "lng": "79.98984"
+    },
+    {
+    "country": "IN",
+    "name": "Kurandvād",
+    "lat": "16.68317",
+    "lng": "74.58892"
+    },
+    {
+    "country": "IN",
+    "name": "Kuppam",
+    "lat": "12.74931",
+    "lng": "78.34189"
+    },
+    {
+    "country": "IN",
+    "name": "Kunnattūr",
+    "lat": "12.34782",
+    "lng": "78.51046"
+    },
+    {
+    "country": "IN",
+    "name": "Kunnamkulam",
+    "lat": "10.64667",
+    "lng": "76.06695"
+    },
+    {
+    "country": "IN",
+    "name": "Kunnamangalam",
+    "lat": "11.30459",
+    "lng": "75.87772"
+    },
+    {
+    "country": "IN",
+    "name": "Kunigal",
+    "lat": "13.02319",
+    "lng": "77.02518"
+    },
+    {
+    "country": "IN",
+    "name": "Kundla",
+    "lat": "21.34222",
+    "lng": "71.30633"
+    },
+    {
+    "country": "IN",
+    "name": "Kundgol",
+    "lat": "15.25612",
+    "lng": "75.24735"
+    },
+    {
+    "country": "IN",
+    "name": "Kundarkhi",
+    "lat": "28.68304",
+    "lng": "78.78559"
+    },
+    {
+    "country": "IN",
+    "name": "Kunda",
+    "lat": "25.71702",
+    "lng": "81.51396"
+    },
+    {
+    "country": "IN",
+    "name": "Kumta",
+    "lat": "14.42853",
+    "lng": "74.4189"
+    },
+    {
+    "country": "IN",
+    "name": "Kumsi",
+    "lat": "14.05455",
+    "lng": "75.39992"
+    },
+    {
+    "country": "IN",
+    "name": "Kūmher",
+    "lat": "27.31657",
+    "lng": "77.37079"
+    },
+    {
+    "country": "IN",
+    "name": "Kumhāri",
+    "lat": "21.26667",
+    "lng": "81.51667"
+    },
+    {
+    "country": "IN",
+    "name": "Kumbhrāj",
+    "lat": "24.37338",
+    "lng": "77.04841"
+    },
+    {
+    "country": "IN",
+    "name": "Kumbakonam",
+    "lat": "10.96209",
+    "lng": "79.39124"
+    },
+    {
+    "country": "IN",
+    "name": "Kumaralingam",
+    "lat": "10.48936",
+    "lng": "77.3499"
+    },
+    {
+    "country": "IN",
+    "name": "Kulu",
+    "lat": "31.95835",
+    "lng": "77.10823"
+    },
+    {
+    "country": "IN",
+    "name": "Kulti",
+    "lat": "23.73166",
+    "lng": "86.84372"
+    },
+    {
+    "country": "IN",
+    "name": "Kulpahār",
+    "lat": "25.32007",
+    "lng": "79.63931"
+    },
+    {
+    "country": "IN",
+    "name": "Kulittalai",
+    "lat": "10.93487",
+    "lng": "78.41251"
+    },
+    {
+    "country": "IN",
+    "name": "Kulgam",
+    "lat": "33.64456",
+    "lng": "75.01923"
+    },
+    {
+    "country": "IN",
+    "name": "Kulattūr",
+    "lat": "9.0032",
+    "lng": "78.1928"
+    },
+    {
+    "country": "IN",
+    "name": "Kukshi",
+    "lat": "22.20677",
+    "lng": "74.75788"
+    },
+    {
+    "country": "IN",
+    "name": "Kūkatpalli",
+    "lat": "17.48486",
+    "lng": "78.41376"
+    },
+    {
+    "country": "IN",
+    "name": "Kuju",
+    "lat": "23.72536",
+    "lng": "85.51023"
+    },
+    {
+    "country": "IN",
+    "name": "Kūdligi",
+    "lat": "14.905",
+    "lng": "76.38527"
+    },
+    {
+    "country": "IN",
+    "name": "Kudāl",
+    "lat": "16.01148",
+    "lng": "73.68867"
+    },
+    {
+    "country": "IN",
+    "name": "Kudachi",
+    "lat": "16.62784",
+    "lng": "74.85408"
+    },
+    {
+    "country": "IN",
+    "name": "Kūd",
+    "lat": "33.07246",
+    "lng": "75.28727"
+    },
+    {
+    "country": "IN",
+    "name": "Kuchera",
+    "lat": "26.98747",
+    "lng": "73.97108"
+    },
+    {
+    "country": "IN",
+    "name": "Kuchāman",
+    "lat": "27.14745",
+    "lng": "74.85655"
+    },
+    {
+    "country": "IN",
+    "name": "Kuchaiburi",
+    "lat": "22.26675",
+    "lng": "86.17385"
+    },
+    {
+    "country": "IN",
+    "name": "Krishnarājpet",
+    "lat": "12.66621",
+    "lng": "76.4877"
+    },
+    {
+    "country": "IN",
+    "name": "Krishnanagar",
+    "lat": "23.40576",
+    "lng": "88.49073"
+    },
+    {
+    "country": "IN",
+    "name": "Krishnagiri",
+    "lat": "12.51921",
+    "lng": "78.21382"
+    },
+    {
+    "country": "IN",
+    "name": "Kozhikode",
+    "lat": "11.24802",
+    "lng": "75.7804"
+    },
+    {
+    "country": "IN",
+    "name": "Koynanagar",
+    "lat": "17.4",
+    "lng": "73.76667"
+    },
+    {
+    "country": "IN",
+    "name": "Kovvūr",
+    "lat": "17.0162",
+    "lng": "81.72934"
+    },
+    {
+    "country": "IN",
+    "name": "Kovūr",
+    "lat": "14.5005",
+    "lng": "79.98518"
+    },
+    {
+    "country": "IN",
+    "name": "Kovilpatti",
+    "lat": "9.17167",
+    "lng": "77.86989"
+    },
+    {
+    "country": "IN",
+    "name": "Kovalam",
+    "lat": "8.36667",
+    "lng": "76.99667"
+    },
+    {
+    "country": "IN",
+    "name": "Kotwa",
+    "lat": "25.0308",
+    "lng": "81.31908"
+    },
+    {
+    "country": "IN",
+    "name": "Kottūru",
+    "lat": "14.82442",
+    "lng": "76.22005"
+    },
+    {
+    "country": "IN",
+    "name": "Kottayam",
+    "lat": "9.58692",
+    "lng": "76.52132"
+    },
+    {
+    "country": "IN",
+    "name": "Kottapalli",
+    "lat": "18.49543",
+    "lng": "79.0943"
+    },
+    {
+    "country": "IN",
+    "name": "Kottaiyūr",
+    "lat": "10.10956",
+    "lng": "78.7956"
+    },
+    {
+    "country": "IN",
+    "name": "Kottagūdem",
+    "lat": "17.55106",
+    "lng": "80.61779"
+    },
+    {
+    "country": "IN",
+    "name": "Kotra",
+    "lat": "25.8077",
+    "lng": "79.30909"
+    },
+    {
+    "country": "IN",
+    "name": "Kotputli",
+    "lat": "27.70207",
+    "lng": "76.19911"
+    },
+    {
+    "country": "IN",
+    "name": "Kotma",
+    "lat": "23.20383",
+    "lng": "81.97904"
+    },
+    {
+    "country": "IN",
+    "name": "Kotla",
+    "lat": "32.25",
+    "lng": "76.03333"
+    },
+    {
+    "country": "IN",
+    "name": "Kotkhai",
+    "lat": "31.11728",
+    "lng": "77.53936"
+    },
+    {
+    "country": "IN",
+    "name": "Kot Īsa Khān",
+    "lat": "30.94659",
+    "lng": "75.1378"
+    },
+    {
+    "country": "IN",
+    "name": "Kothi",
+    "lat": "24.7526",
+    "lng": "80.77751"
+    },
+    {
+    "country": "IN",
+    "name": "Kothāpet",
+    "lat": "19.35176",
+    "lng": "79.48323"
+    },
+    {
+    "country": "IN",
+    "name": "Kotdwāra",
+    "lat": "29.74612",
+    "lng": "78.52219"
+    },
+    {
+    "country": "IN",
+    "name": "Kotār",
+    "lat": "24.69802",
+    "lng": "80.98073"
+    },
+    {
+    "country": "IN",
+    "name": "Kotapārh",
+    "lat": "19.14256",
+    "lng": "82.32536"
+    },
+    {
+    "country": "IN",
+    "name": "Kotamangalam",
+    "lat": "10.06435",
+    "lng": "76.62843"
+    },
+    {
+    "country": "IN",
+    "name": "Kotagiri",
+    "lat": "11.42072",
+    "lng": "76.86035"
+    },
+    {
+    "country": "IN",
+    "name": "Kota",
+    "lat": "25.18254",
+    "lng": "75.83907"
+    },
+    {
+    "country": "IN",
+    "name": "Kota",
+    "lat": "24.44643",
+    "lng": "83.13063"
+    },
+    {
+    "country": "IN",
+    "name": "Kotā",
+    "lat": "22.29507",
+    "lng": "82.02366"
+    },
+    {
+    "country": "IN",
+    "name": "Kosigi",
+    "lat": "15.8551",
+    "lng": "77.24463"
+    },
+    {
+    "country": "IN",
+    "name": "Kosi",
+    "lat": "27.79449",
+    "lng": "77.4368"
+    },
+    {
+    "country": "IN",
+    "name": "Kosamba",
+    "lat": "21.46202",
+    "lng": "72.95842"
+    },
+    {
+    "country": "IN",
+    "name": "Korwai",
+    "lat": "24.11774",
+    "lng": "78.04007"
+    },
+    {
+    "country": "IN",
+    "name": "Korukollu",
+    "lat": "16.5",
+    "lng": "81.25"
+    },
+    {
+    "country": "IN",
+    "name": "Koregaon",
+    "lat": "18.64573",
+    "lng": "74.05909"
+    },
+    {
+    "country": "IN",
+    "name": "Korba",
+    "lat": "22.3458",
+    "lng": "82.69633"
+    },
+    {
+    "country": "IN",
+    "name": "Koratla",
+    "lat": "18.82154",
+    "lng": "78.71186"
+    },
+    {
+    "country": "IN",
+    "name": "Koratagere",
+    "lat": "13.522",
+    "lng": "77.2373"
+    },
+    {
+    "country": "IN",
+    "name": "Korāput",
+    "lat": "18.81199",
+    "lng": "82.71048"
+    },
+    {
+    "country": "IN",
+    "name": "Korampallam",
+    "lat": "8.77506",
+    "lng": "78.09158"
+    },
+    {
+    "country": "IN",
+    "name": "Korādi",
+    "lat": "21.24758",
+    "lng": "79.10575"
+    },
+    {
+    "country": "IN",
+    "name": "Koradāchcheri",
+    "lat": "10.77019",
+    "lng": "79.49158"
+    },
+    {
+    "country": "IN",
+    "name": "Koppal",
+    "lat": "15.34522",
+    "lng": "76.15478"
+    },
+    {
+    "country": "IN",
+    "name": "Koppa",
+    "lat": "13.53044",
+    "lng": "75.36329"
+    },
+    {
+    "country": "IN",
+    "name": "Kopargaon",
+    "lat": "19.88239",
+    "lng": "74.47605"
+    },
+    {
+    "country": "IN",
+    "name": "Kopāganj",
+    "lat": "26.01923",
+    "lng": "83.5663"
+    },
+    {
+    "country": "IN",
+    "name": "Konnūr",
+    "lat": "16.20138",
+    "lng": "74.74886"
+    },
+    {
+    "country": "IN",
+    "name": "Konnagar",
+    "lat": "22.70508",
+    "lng": "88.34446"
+    },
+    {
+    "country": "IN",
+    "name": "Konganāpuram",
+    "lat": "11.57105",
+    "lng": "77.9004"
+    },
+    {
+    "country": "IN",
+    "name": "Kondapalle",
+    "lat": "16.61989",
+    "lng": "80.54244"
+    },
+    {
+    "country": "IN",
+    "name": "Kondalwādi",
+    "lat": "18.80727",
+    "lng": "77.77031"
+    },
+    {
+    "country": "IN",
+    "name": "Kondagaon",
+    "lat": "19.59083",
+    "lng": "81.664"
+    },
+    {
+    "country": "IN",
+    "name": "Konch",
+    "lat": "25.99451",
+    "lng": "79.15127"
+    },
+    {
+    "country": "IN",
+    "name": "Konārka",
+    "lat": "19.89758",
+    "lng": "86.11413"
+    },
+    {
+    "country": "IN",
+    "name": "Konanūr",
+    "lat": "12.63016",
+    "lng": "76.05037"
+    },
+    {
+    "country": "IN",
+    "name": "Kombai",
+    "lat": "9.84745",
+    "lng": "77.29603"
+    },
+    {
+    "country": "IN",
+    "name": "Kolasib",
+    "lat": "24.22388",
+    "lng": "92.67869"
+    },
+    {
+    "country": "IN",
+    "name": "Kollegāl",
+    "lat": "12.15449",
+    "lng": "77.11051"
+    },
+    {
+    "country": "IN",
+    "name": "Kolhāpur",
+    "lat": "16.69563",
+    "lng": "74.23167"
+    },
+    {
+    "country": "IN",
+    "name": "Kolāras",
+    "lat": "25.21928",
+    "lng": "77.61167"
+    },
+    {
+    "country": "IN",
+    "name": "Kolār",
+    "lat": "13.13768",
+    "lng": "78.12999"
+    },
+    {
+    "country": "IN",
+    "name": "Kolanukonda",
+    "lat": "16.45392",
+    "lng": "80.61046"
+    },
+    {
+    "country": "IN",
+    "name": "Colachel",
+    "lat": "8.17938",
+    "lng": "77.25818"
+    },
+    {
+    "country": "IN",
+    "name": "Kokrajhar",
+    "lat": "26.40107",
+    "lng": "90.27286"
+    },
+    {
+    "country": "IN",
+    "name": "Kohima",
+    "lat": "25.67467",
+    "lng": "94.11099"
+    },
+    {
+    "country": "IN",
+    "name": "Koelwār",
+    "lat": "25.58055",
+    "lng": "84.79751"
+    },
+    {
+    "country": "IN",
+    "name": "Kodungallūr",
+    "lat": "10.23263",
+    "lng": "76.19513"
+    },
+    {
+    "country": "IN",
+    "name": "Kodumudi",
+    "lat": "11.07751",
+    "lng": "77.88363"
+    },
+    {
+    "country": "IN",
+    "name": "Kodoli",
+    "lat": "16.87639",
+    "lng": "74.1909"
+    },
+    {
+    "country": "IN",
+    "name": "Kodlipet",
+    "lat": "12.80087",
+    "lng": "75.88662"
+    },
+    {
+    "country": "IN",
+    "name": "Kodīnar",
+    "lat": "20.79393",
+    "lng": "70.70216"
+    },
+    {
+    "country": "IN",
+    "name": "Kodigenahalli",
+    "lat": "13.72136",
+    "lng": "77.38629"
+    },
+    {
+    "country": "IN",
+    "name": "Kodarmā",
+    "lat": "24.46753",
+    "lng": "85.59397"
+    },
+    {
+    "country": "IN",
+    "name": "Kodār",
+    "lat": "16.9985",
+    "lng": "79.9656"
+    },
+    {
+    "country": "IN",
+    "name": "Kodala",
+    "lat": "19.62425",
+    "lng": "84.94075"
+    },
+    {
+    "country": "IN",
+    "name": "Kodaikānāl",
+    "lat": "10.23925",
+    "lng": "77.48932"
+    },
+    {
+    "country": "IN",
+    "name": "Kuchinda",
+    "lat": "21.74356",
+    "lng": "84.34848"
+    },
+    {
+    "country": "IN",
+    "name": "Koch Bihār",
+    "lat": "26.32539",
+    "lng": "89.44508"
+    },
+    {
+    "country": "IN",
+    "name": "Koāth",
+    "lat": "25.32643",
+    "lng": "84.25983"
+    },
+    {
+    "country": "IN",
+    "name": "Kizhake Chālakudi",
+    "lat": "10.30067",
+    "lng": "76.33763"
+    },
+    {
+    "country": "IN",
+    "name": "Kithor",
+    "lat": "28.86684",
+    "lng": "77.93861"
+    },
+    {
+    "country": "IN",
+    "name": "Kishtwār",
+    "lat": "33.31346",
+    "lng": "75.76726"
+    },
+    {
+    "country": "IN",
+    "name": "Kishni",
+    "lat": "27.02487",
+    "lng": "79.262"
+    },
+    {
+    "country": "IN",
+    "name": "Kishanpur",
+    "lat": "25.64232",
+    "lng": "81.0227"
+    },
+    {
+    "country": "IN",
+    "name": "Kishangarh",
+    "lat": "27.81889",
+    "lng": "76.72972"
+    },
+    {
+    "country": "IN",
+    "name": "Kishangarh",
+    "lat": "26.59006",
+    "lng": "74.85397"
+    },
+    {
+    "country": "IN",
+    "name": "Kishanganj",
+    "lat": "26.10224",
+    "lng": "87.95534"
+    },
+    {
+    "country": "IN",
+    "name": "Kiri Buru",
+    "lat": "22.08333",
+    "lng": "85.35"
+    },
+    {
+    "country": "IN",
+    "name": "Kīratpur",
+    "lat": "29.50671",
+    "lng": "78.20613"
+    },
+    {
+    "country": "IN",
+    "name": "Kiraoli",
+    "lat": "27.13768",
+    "lng": "77.78516"
+    },
+    {
+    "country": "IN",
+    "name": "Kīranūr",
+    "lat": "10.59395",
+    "lng": "77.50315"
+    },
+    {
+    "country": "IN",
+    "name": "Kīranūr",
+    "lat": "10.56988",
+    "lng": "78.78682"
+    },
+    {
+    "country": "IN",
+    "name": "Kirākat",
+    "lat": "25.63745",
+    "lng": "82.91596"
+    },
+    {
+    "country": "IN",
+    "name": "Kinwat",
+    "lat": "19.62557",
+    "lng": "78.1987"
+    },
+    {
+    "country": "IN",
+    "name": "Kilvelur",
+    "lat": "10.76721",
+    "lng": "79.74186"
+    },
+    {
+    "country": "IN",
+    "name": "Kichha",
+    "lat": "28.91154",
+    "lng": "79.52009"
+    },
+    {
+    "country": "IN",
+    "name": "Khūtār",
+    "lat": "28.20307",
+    "lng": "80.27046"
+    },
+    {
+    "country": "IN",
+    "name": "Khusropur",
+    "lat": "25.48174",
+    "lng": "85.38492"
+    },
+    {
+    "country": "IN",
+    "name": "Khurja",
+    "lat": "28.25382",
+    "lng": "77.85535"
+    },
+    {
+    "country": "IN",
+    "name": "Khurda",
+    "lat": "20.18268",
+    "lng": "85.61629"
+    },
+    {
+    "country": "IN",
+    "name": "Khurai",
+    "lat": "24.04372",
+    "lng": "78.33014"
+    },
+    {
+    "country": "IN",
+    "name": "Khunti",
+    "lat": "23.07602",
+    "lng": "85.27818"
+    },
+    {
+    "country": "IN",
+    "name": "Khuldābād",
+    "lat": "20.00671",
+    "lng": "75.19245"
+    },
+    {
+    "country": "IN",
+    "name": "Khujner",
+    "lat": "23.78597",
+    "lng": "76.61773"
+    },
+    {
+    "country": "IN",
+    "name": "Khudāganj",
+    "lat": "28.14607",
+    "lng": "79.71472"
+    },
+    {
+    "country": "IN",
+    "name": "Khowai",
+    "lat": "24.07964",
+    "lng": "91.59972"
+    },
+    {
+    "country": "IN",
+    "name": "Khopoli",
+    "lat": "18.78562",
+    "lng": "73.34589"
+    },
+    {
+    "country": "IN",
+    "name": "Khonsa",
+    "lat": "27.01667",
+    "lng": "95.56667"
+    },
+    {
+    "country": "IN",
+    "name": "Khirkiyān",
+    "lat": "22.16732",
+    "lng": "76.86137"
+    },
+    {
+    "country": "IN",
+    "name": "Khilchipur",
+    "lat": "24.03943",
+    "lng": "76.578"
+    },
+    {
+    "country": "IN",
+    "name": "Khetri",
+    "lat": "28.00069",
+    "lng": "75.78644"
+    },
+    {
+    "country": "IN",
+    "name": "Khetia",
+    "lat": "21.67124",
+    "lng": "74.58535"
+    },
+    {
+    "country": "IN",
+    "name": "Kheri",
+    "lat": "27.90354",
+    "lng": "80.79754"
+    },
+    {
+    "country": "IN",
+    "name": "Kherālu",
+    "lat": "23.88534",
+    "lng": "72.61869"
+    },
+    {
+    "country": "IN",
+    "name": "Khem Karan",
+    "lat": "31.14443",
+    "lng": "74.55938"
+    },
+    {
+    "country": "IN",
+    "name": "Khekra",
+    "lat": "28.86586",
+    "lng": "77.2841"
+    },
+    {
+    "country": "IN",
+    "name": "Khedbrahma",
+    "lat": "24.0299",
+    "lng": "73.04632"
+    },
+    {
+    "country": "IN",
+    "name": "Kheda",
+    "lat": "22.75218",
+    "lng": "72.68533"
+    },
+    {
+    "country": "IN",
+    "name": "Khed",
+    "lat": "18.33811",
+    "lng": "73.84677"
+    },
+    {
+    "country": "IN",
+    "name": "Khed",
+    "lat": "17.71888",
+    "lng": "73.39693"
+    },
+    {
+    "country": "IN",
+    "name": "Khawhai",
+    "lat": "23.37807",
+    "lng": "93.12797"
+    },
+    {
+    "country": "IN",
+    "name": "Khaur",
+    "lat": "32.6027",
+    "lng": "74.80918"
+    },
+    {
+    "country": "IN",
+    "name": "Khātra",
+    "lat": "22.97617",
+    "lng": "86.85462"
+    },
+    {
+    "country": "IN",
+    "name": "Khatīma",
+    "lat": "28.92134",
+    "lng": "79.97075"
+    },
+    {
+    "country": "IN",
+    "name": "Khātegaon",
+    "lat": "22.59573",
+    "lng": "76.9133"
+    },
+    {
+    "country": "IN",
+    "name": "Khatauli",
+    "lat": "29.27844",
+    "lng": "77.73302"
+    },
+    {
+    "country": "IN",
+    "name": "Khārupatia",
+    "lat": "26.51839",
+    "lng": "92.14722"
+    },
+    {
+    "country": "IN",
+    "name": "Kharsia",
+    "lat": "21.98953",
+    "lng": "83.10476"
+    },
+    {
+    "country": "IN",
+    "name": "Kharsāwān",
+    "lat": "22.79093",
+    "lng": "85.83102"
+    },
+    {
+    "country": "IN",
+    "name": "Kharod",
+    "lat": "21.7442",
+    "lng": "82.5788"
+    },
+    {
+    "country": "IN",
+    "name": "Kharkhauda",
+    "lat": "28.8787",
+    "lng": "76.91069"
+    },
+    {
+    "country": "IN",
+    "name": "Kharkhauda",
+    "lat": "28.83644",
+    "lng": "77.74159"
+    },
+    {
+    "country": "IN",
+    "name": "Kharhiāl",
+    "lat": "20.28845",
+    "lng": "82.7606"
+    },
+    {
+    "country": "IN",
+    "name": "Khargupur",
+    "lat": "27.37611",
+    "lng": "81.9882"
+    },
+    {
+    "country": "IN",
+    "name": "Khargone",
+    "lat": "21.82292",
+    "lng": "75.61394"
+    },
+    {
+    "country": "IN",
+    "name": "Khargāpur",
+    "lat": "24.823",
+    "lng": "79.144"
+    },
+    {
+    "country": "IN",
+    "name": "Kharela",
+    "lat": "25.54277",
+    "lng": "79.81235"
+    },
+    {
+    "country": "IN",
+    "name": "Khardah",
+    "lat": "22.71861",
+    "lng": "88.37806"
+    },
+    {
+    "country": "IN",
+    "name": "Kharar",
+    "lat": "30.74632",
+    "lng": "76.64689"
+    },
+    {
+    "country": "IN",
+    "name": "Kharar",
+    "lat": "22.72211",
+    "lng": "87.67824"
+    },
+    {
+    "country": "IN",
+    "name": "Kharakvasla",
+    "lat": "18.43997",
+    "lng": "73.77545"
+    },
+    {
+    "country": "IN",
+    "name": "Kharagpur",
+    "lat": "25.12446",
+    "lng": "86.55578"
+    },
+    {
+    "country": "IN",
+    "name": "Kharagpur",
+    "lat": "22.33971",
+    "lng": "87.32501"
+    },
+    {
+    "country": "IN",
+    "name": "Khāpa",
+    "lat": "21.42243",
+    "lng": "78.98168"
+    },
+    {
+    "country": "IN",
+    "name": "Khānpur",
+    "lat": "28.53446",
+    "lng": "78.06546"
+    },
+    {
+    "country": "IN",
+    "name": "Khānpur",
+    "lat": "24.73241",
+    "lng": "76.39601"
+    },
+    {
+    "country": "IN",
+    "name": "Khanna",
+    "lat": "30.70547",
+    "lng": "76.22196"
+    },
+    {
+    "country": "IN",
+    "name": "Khandwa",
+    "lat": "21.82427",
+    "lng": "76.35086"
+    },
+    {
+    "country": "IN",
+    "name": "Khandela",
+    "lat": "27.60499",
+    "lng": "75.502"
+    },
+    {
+    "country": "IN",
+    "name": "Khānāpur",
+    "lat": "15.63969",
+    "lng": "74.50847"
+    },
+    {
+    "country": "IN",
+    "name": "Khammam",
+    "lat": "17.24767",
+    "lng": "80.14368"
+    },
+    {
+    "country": "IN",
+    "name": "Khamharia",
+    "lat": "20.976",
+    "lng": "82.25116"
+    },
+    {
+    "country": "IN",
+    "name": "Khāmgaon",
+    "lat": "20.70738",
+    "lng": "76.56827"
+    },
+    {
+    "country": "IN",
+    "name": "Khambhāt",
+    "lat": "22.31744",
+    "lng": "72.61916"
+    },
+    {
+    "country": "IN",
+    "name": "Khambhāliya",
+    "lat": "22.20685",
+    "lng": "69.65031"
+    },
+    {
+    "country": "IN",
+    "name": "Khamaria",
+    "lat": "23.22558",
+    "lng": "79.88007"
+    },
+    {
+    "country": "IN",
+    "name": "Khamānon Kalān",
+    "lat": "30.81725",
+    "lng": "76.35478"
+    },
+    {
+    "country": "IN",
+    "name": "Khallikot",
+    "lat": "19.60908",
+    "lng": "85.08609"
+    },
+    {
+    "country": "IN",
+    "name": "Khalīlābād",
+    "lat": "26.77268",
+    "lng": "83.07179"
+    },
+    {
+    "country": "IN",
+    "name": "Khajuraho Group of Monuments",
+    "lat": "24.84809",
+    "lng": "79.93351"
+    },
+    {
+    "country": "IN",
+    "name": "Khairāgarh",
+    "lat": "26.94269",
+    "lng": "77.8189"
+    },
+    {
+    "country": "IN",
+    "name": "Khairāgarh",
+    "lat": "21.41859",
+    "lng": "80.97942"
+    },
+    {
+    "country": "IN",
+    "name": "Khairābād",
+    "lat": "27.52698",
+    "lng": "80.75461"
+    },
+    {
+    "country": "IN",
+    "name": "Khair",
+    "lat": "27.94195",
+    "lng": "77.84243"
+    },
+    {
+    "country": "IN",
+    "name": "Khailār",
+    "lat": "25.34127",
+    "lng": "78.53133"
+    },
+    {
+    "country": "IN",
+    "name": "Khagaul",
+    "lat": "25.57898",
+    "lng": "85.04564"
+    },
+    {
+    "country": "IN",
+    "name": "Khagaria",
+    "lat": "25.5022",
+    "lng": "86.46708"
+    },
+    {
+    "country": "IN",
+    "name": "Khāga",
+    "lat": "25.77215",
+    "lng": "81.10393"
+    },
+    {
+    "country": "IN",
+    "name": "Khadki",
+    "lat": "18.5635",
+    "lng": "73.85205"
+    },
+    {
+    "country": "IN",
+    "name": "Khada",
+    "lat": "27.18333",
+    "lng": "83.88333"
+    },
+    {
+    "country": "IN",
+    "name": "Khāchrod",
+    "lat": "23.42322",
+    "lng": "75.28185"
+    },
+    {
+    "country": "IN",
+    "name": "Kesinga",
+    "lat": "20.18778",
+    "lng": "83.21949"
+    },
+    {
+    "country": "IN",
+    "name": "Keshorai Pātan",
+    "lat": "25.29275",
+    "lng": "75.93948"
+    },
+    {
+    "country": "IN",
+    "name": "Keshod",
+    "lat": "21.30328",
+    "lng": "70.24861"
+    },
+    {
+    "country": "IN",
+    "name": "Kerūr",
+    "lat": "16.01384",
+    "lng": "75.54631"
+    },
+    {
+    "country": "IN",
+    "name": "Kenduadīh",
+    "lat": "23.77574",
+    "lng": "86.37609"
+    },
+    {
+    "country": "IN",
+    "name": "Kendrāparha",
+    "lat": "20.50166",
+    "lng": "86.42227"
+    },
+    {
+    "country": "IN",
+    "name": "Kenda",
+    "lat": "23.1959",
+    "lng": "86.51499"
+    },
+    {
+    "country": "IN",
+    "name": "Kemrī",
+    "lat": "28.80673",
+    "lng": "79.2048"
+    },
+    {
+    "country": "IN",
+    "name": "Kelamangalam",
+    "lat": "12.60307",
+    "lng": "77.85193"
+    },
+    {
+    "country": "IN",
+    "name": "Kekri",
+    "lat": "25.97132",
+    "lng": "75.14992"
+    },
+    {
+    "country": "IN",
+    "name": "Kayattār",
+    "lat": "8.94834",
+    "lng": "77.77424"
+    },
+    {
+    "country": "IN",
+    "name": "Kāyankulam",
+    "lat": "9.18173",
+    "lng": "76.50093"
+    },
+    {
+    "country": "IN",
+    "name": "Kayalpattinam",
+    "lat": "8.57143",
+    "lng": "78.11992"
+    },
+    {
+    "country": "IN",
+    "name": "Kawardha",
+    "lat": "22.00853",
+    "lng": "81.23148"
+    },
+    {
+    "country": "IN",
+    "name": "Kawānt",
+    "lat": "22.09282",
+    "lng": "74.05078"
+    },
+    {
+    "country": "IN",
+    "name": "Kāveripatnam",
+    "lat": "12.42186",
+    "lng": "78.2188"
+    },
+    {
+    "country": "IN",
+    "name": "Kavaratti",
+    "lat": "10.56688",
+    "lng": "72.64203"
+    },
+    {
+    "country": "IN",
+    "name": "Kavalūr",
+    "lat": "15.28829",
+    "lng": "75.9433"
+    },
+    {
+    "country": "IN",
+    "name": "Kāvali",
+    "lat": "14.9163",
+    "lng": "79.99449"
+    },
+    {
+    "country": "IN",
+    "name": "Kāttupputtūr",
+    "lat": "10.99385",
+    "lng": "78.21929"
+    },
+    {
+    "country": "IN",
+    "name": "Kattivākkam",
+    "lat": "13.21667",
+    "lng": "80.31667"
+    },
+    {
+    "country": "IN",
+    "name": "Kattanam",
+    "lat": "9.17614",
+    "lng": "76.56325"
+    },
+    {
+    "country": "IN",
+    "name": "Kātrās",
+    "lat": "23.79752",
+    "lng": "86.29834"
+    },
+    {
+    "country": "IN",
+    "name": "Katra",
+    "lat": "32.99167",
+    "lng": "74.93195"
+    },
+    {
+    "country": "IN",
+    "name": "Katra",
+    "lat": "27.50871",
+    "lng": "82.02636"
+    },
+    {
+    "country": "IN",
+    "name": "Katpur",
+    "lat": "21.05869",
+    "lng": "71.79457"
+    },
+    {
+    "country": "IN",
+    "name": "Kātpādi",
+    "lat": "12.96951",
+    "lng": "79.14552"
+    },
+    {
+    "country": "IN",
+    "name": "Kātoya",
+    "lat": "23.64558",
+    "lng": "88.13258"
+    },
+    {
+    "country": "IN",
+    "name": "Kātol",
+    "lat": "21.27388",
+    "lng": "78.5858"
+    },
+    {
+    "country": "IN",
+    "name": "Katihar",
+    "lat": "25.53852",
+    "lng": "87.57044"
+    },
+    {
+    "country": "IN",
+    "name": "Kāti",
+    "lat": "17.96137",
+    "lng": "75.88895"
+    },
+    {
+    "country": "IN",
+    "name": "Kathua",
+    "lat": "32.36941",
+    "lng": "75.52539"
+    },
+    {
+    "country": "IN",
+    "name": "Kāthor",
+    "lat": "21.28854",
+    "lng": "72.9407"
+    },
+    {
+    "country": "IN",
+    "name": "Katghora",
+    "lat": "22.50247",
+    "lng": "82.54279"
+    },
+    {
+    "country": "IN",
+    "name": "Katangi",
+    "lat": "23.44124",
+    "lng": "79.79621"
+    },
+    {
+    "country": "IN",
+    "name": "Katangi",
+    "lat": "21.77369",
+    "lng": "79.80513"
+    },
+    {
+    "country": "IN",
+    "name": "Kasrāwad",
+    "lat": "22.12745",
+    "lng": "75.61101"
+    },
+    {
+    "country": "IN",
+    "name": "Kashipur",
+    "lat": "29.21399",
+    "lng": "78.95693"
+    },
+    {
+    "country": "IN",
+    "name": "Kāsganj",
+    "lat": "27.80882",
+    "lng": "78.64579"
+    },
+    {
+    "country": "IN",
+    "name": "Kasauli",
+    "lat": "30.89856",
+    "lng": "76.96587"
+    },
+    {
+    "country": "IN",
+    "name": "Kāsaragod",
+    "lat": "12.49838",
+    "lng": "74.98959"
+    },
+    {
+    "country": "IN",
+    "name": "Karwar",
+    "lat": "14.81361",
+    "lng": "74.12972"
+    },
+    {
+    "country": "IN",
+    "name": "Karur",
+    "lat": "10.95771",
+    "lng": "78.08095"
+    },
+    {
+    "country": "IN",
+    "name": "Karumbākkam",
+    "lat": "12.70203",
+    "lng": "80.0911"
+    },
+    {
+    "country": "IN",
+    "name": "Kartārpur",
+    "lat": "31.44268",
+    "lng": "75.49847"
+    },
+    {
+    "country": "IN",
+    "name": "Kārsiyāng",
+    "lat": "26.88251",
+    "lng": "88.27729"
+    },
+    {
+    "country": "IN",
+    "name": "Karrāpur",
+    "lat": "23.94891",
+    "lng": "78.86584"
+    },
+    {
+    "country": "IN",
+    "name": "Karol Bāgh",
+    "lat": "28.65136",
+    "lng": "77.19072"
+    },
+    {
+    "country": "IN",
+    "name": "Karnāl",
+    "lat": "29.69197",
+    "lng": "76.98448"
+    },
+    {
+    "country": "IN",
+    "name": "Karmāla",
+    "lat": "18.4077",
+    "lng": "75.19386"
+    },
+    {
+    "country": "IN",
+    "name": "Kārkala",
+    "lat": "13.21428",
+    "lng": "74.99234"
+    },
+    {
+    "country": "IN",
+    "name": "Karjat",
+    "lat": "18.9107",
+    "lng": "73.32354"
+    },
+    {
+    "country": "IN",
+    "name": "Kariapatti",
+    "lat": "9.67505",
+    "lng": "78.09992"
+    },
+    {
+    "country": "IN",
+    "name": "Karīmpur",
+    "lat": "23.97594",
+    "lng": "88.61917"
+    },
+    {
+    "country": "IN",
+    "name": "Karīmnagar",
+    "lat": "18.43915",
+    "lng": "79.12856"
+    },
+    {
+    "country": "IN",
+    "name": "Karīmganj",
+    "lat": "24.86919",
+    "lng": "92.35543"
+    },
+    {
+    "country": "IN",
+    "name": "Karhal",
+    "lat": "27.00089",
+    "lng": "78.93935"
+    },
+    {
+    "country": "IN",
+    "name": "Kargil",
+    "lat": "34.55765",
+    "lng": "76.12622"
+    },
+    {
+    "country": "IN",
+    "name": "Karera",
+    "lat": "25.45815",
+    "lng": "78.13583"
+    },
+    {
+    "country": "IN",
+    "name": "Kareli",
+    "lat": "22.91533",
+    "lng": "79.06378"
+    },
+    {
+    "country": "IN",
+    "name": "Karauli",
+    "lat": "26.49831",
+    "lng": "77.02755"
+    },
+    {
+    "country": "IN",
+    "name": "Karārī",
+    "lat": "25.45241",
+    "lng": "81.42675"
+    },
+    {
+    "country": "IN",
+    "name": "Kāranja",
+    "lat": "20.48273",
+    "lng": "77.48857"
+    },
+    {
+    "country": "IN",
+    "name": "Karamsad",
+    "lat": "22.54243",
+    "lng": "72.90392"
+    },
+    {
+    "country": "IN",
+    "name": "Karambakkudi",
+    "lat": "10.45866",
+    "lng": "79.14101"
+    },
+    {
+    "country": "IN",
+    "name": "Kāramadai",
+    "lat": "11.24058",
+    "lng": "76.96009"
+    },
+    {
+    "country": "IN",
+    "name": "Kāraikkudi",
+    "lat": "10.06615",
+    "lng": "78.76784"
+    },
+    {
+    "country": "IN",
+    "name": "Kāraikāl",
+    "lat": "10.91667",
+    "lng": "79.83333"
+    },
+    {
+    "country": "IN",
+    "name": "Karād",
+    "lat": "17.28937",
+    "lng": "74.18183"
+    },
+    {
+    "country": "IN",
+    "name": "Kapūrthala",
+    "lat": "31.38011",
+    "lng": "75.38105"
+    },
+    {
+    "country": "IN",
+    "name": "Captainganj",
+    "lat": "26.9264",
+    "lng": "83.71334"
+    },
+    {
+    "country": "IN",
+    "name": "Kāpren",
+    "lat": "25.40529",
+    "lng": "76.07431"
+    },
+    {
+    "country": "IN",
+    "name": "Kapadvanj",
+    "lat": "23.02302",
+    "lng": "73.07113"
+    },
+    {
+    "country": "IN",
+    "name": "Kantilo",
+    "lat": "20.36152",
+    "lng": "85.19212"
+    },
+    {
+    "country": "IN",
+    "name": "Kānth",
+    "lat": "29.05939",
+    "lng": "78.62951"
+    },
+    {
+    "country": "IN",
+    "name": "Kantābānji",
+    "lat": "20.46709",
+    "lng": "82.92042"
+    },
+    {
+    "country": "IN",
+    "name": "Kānt",
+    "lat": "27.81049",
+    "lng": "79.79185"
+    },
+    {
+    "country": "IN",
+    "name": "Kanpur",
+    "lat": "26.46523",
+    "lng": "80.34975"
+    },
+    {
+    "country": "IN",
+    "name": "Kānor",
+    "lat": "24.43437",
+    "lng": "74.26546"
+    },
+    {
+    "country": "IN",
+    "name": "Kānodar",
+    "lat": "24.08932",
+    "lng": "72.39354"
+    },
+    {
+    "country": "IN",
+    "name": "Kannod",
+    "lat": "22.66764",
+    "lng": "76.74286"
+    },
+    {
+    "country": "IN",
+    "name": "Kanniyākumāri",
+    "lat": "8.09008",
+    "lng": "77.53841"
+    },
+    {
+    "country": "IN",
+    "name": "Kannavam",
+    "lat": "11.8445",
+    "lng": "75.66266"
+    },
+    {
+    "country": "IN",
+    "name": "Kannauj",
+    "lat": "27.05524",
+    "lng": "79.9188"
+    },
+    {
+    "country": "IN",
+    "name": "Kānnangād",
+    "lat": "12.30814",
+    "lng": "75.10632"
+    },
+    {
+    "country": "IN",
+    "name": "Kannad",
+    "lat": "20.25684",
+    "lng": "75.13786"
+    },
+    {
+    "country": "IN",
+    "name": "Kānkon",
+    "lat": "15.02698",
+    "lng": "74.04617"
+    },
+    {
+    "country": "IN",
+    "name": "Kankipādu",
+    "lat": "16.4353",
+    "lng": "80.76715"
+    },
+    {
+    "country": "IN",
+    "name": "Kānker",
+    "lat": "20.27193",
+    "lng": "81.49177"
+    },
+    {
+    "country": "IN",
+    "name": "Kānke",
+    "lat": "23.43478",
+    "lng": "85.32059"
+    },
+    {
+    "country": "IN",
+    "name": "Kankauli",
+    "lat": "16.26609",
+    "lng": "73.71217"
+    },
+    {
+    "country": "IN",
+    "name": "Kanigiri",
+    "lat": "15.40555",
+    "lng": "79.50694"
+    },
+    {
+    "country": "IN",
+    "name": "Kāngar",
+    "lat": "32.09135",
+    "lng": "76.26267"
+    },
+    {
+    "country": "IN",
+    "name": "Kāngpokpi",
+    "lat": "25.15273",
+    "lng": "93.97167"
+    },
+    {
+    "country": "IN",
+    "name": "Kangayam",
+    "lat": "11.00599",
+    "lng": "77.5609"
+    },
+    {
+    "country": "IN",
+    "name": "Kandukūr",
+    "lat": "15.21542",
+    "lng": "79.9039"
+    },
+    {
+    "country": "IN",
+    "name": "Kāndri",
+    "lat": "21.4203",
+    "lng": "79.27663"
+    },
+    {
+    "country": "IN",
+    "name": "Kāndra",
+    "lat": "22.8517",
+    "lng": "86.05192"
+    },
+    {
+    "country": "IN",
+    "name": "Kāndla",
+    "lat": "23.03333",
+    "lng": "70.21667"
+    },
+    {
+    "country": "IN",
+    "name": "Kāndi",
+    "lat": "23.95946",
+    "lng": "88.04018"
+    },
+    {
+    "country": "IN",
+    "name": "Kāndhla",
+    "lat": "29.32104",
+    "lng": "77.27101"
+    },
+    {
+    "country": "IN",
+    "name": "Kānchipuram",
+    "lat": "12.83515",
+    "lng": "79.70006"
+    },
+    {
+    "country": "IN",
+    "name": "Kānkānhalli",
+    "lat": "12.54654",
+    "lng": "77.42005"
+    },
+    {
+    "country": "IN",
+    "name": "Kanadukattan",
+    "lat": "10.17209",
+    "lng": "78.77935"
+    },
+    {
+    "country": "IN",
+    "name": "Kamuthi",
+    "lat": "9.40732",
+    "lng": "78.37337"
+    },
+    {
+    "country": "IN",
+    "name": "Kāmthi",
+    "lat": "21.21615",
+    "lng": "79.1973"
+    },
+    {
+    "country": "IN",
+    "name": "Kampli",
+    "lat": "15.40626",
+    "lng": "76.60013"
+    },
+    {
+    "country": "IN",
+    "name": "Kampil",
+    "lat": "27.61268",
+    "lng": "79.27687"
+    },
+    {
+    "country": "IN",
+    "name": "Cumbum",
+    "lat": "9.73647",
+    "lng": "77.2847"
+    },
+    {
+    "country": "IN",
+    "name": "Kāmārhāti",
+    "lat": "22.67111",
+    "lng": "88.37472"
+    },
+    {
+    "country": "IN",
+    "name": "Kāmāreddi",
+    "lat": "18.32001",
+    "lng": "78.34177"
+    },
+    {
+    "country": "IN",
+    "name": "Kāman",
+    "lat": "27.65791",
+    "lng": "77.26908"
+    },
+    {
+    "country": "IN",
+    "name": "Kamalpur",
+    "lat": "24.19593",
+    "lng": "91.83438"
+    },
+    {
+    "country": "IN",
+    "name": "Kamalganj",
+    "lat": "27.26181",
+    "lng": "79.63134"
+    },
+    {
+    "country": "IN",
+    "name": "Kāmalāpuram",
+    "lat": "14.5983",
+    "lng": "78.66948"
+    },
+    {
+    "country": "IN",
+    "name": "Kāmākhyānagar",
+    "lat": "20.93385",
+    "lng": "85.54489"
+    },
+    {
+    "country": "IN",
+    "name": "Kalyani",
+    "lat": "22.98333",
+    "lng": "88.48333"
+    },
+    {
+    "country": "IN",
+    "name": "Kalyān",
+    "lat": "19.2437",
+    "lng": "73.13554"
+    },
+    {
+    "country": "IN",
+    "name": "Kālundri",
+    "lat": "18.9802",
+    "lng": "73.12708"
+    },
+    {
+    "country": "IN",
+    "name": "Kalugumalai",
+    "lat": "9.14941",
+    "lng": "77.70569"
+    },
+    {
+    "country": "IN",
+    "name": "Kālpi",
+    "lat": "26.11667",
+    "lng": "79.73333"
+    },
+    {
+    "country": "IN",
+    "name": "Kalpatta",
+    "lat": "11.60871",
+    "lng": "76.08343"
+    },
+    {
+    "country": "IN",
+    "name": "Kālol",
+    "lat": "22.60777",
+    "lng": "73.46272"
+    },
+    {
+    "country": "IN",
+    "name": "Kālna",
+    "lat": "23.21944",
+    "lng": "88.36295"
+    },
+    {
+    "country": "IN",
+    "name": "Kalmeshwar",
+    "lat": "21.23219",
+    "lng": "78.91988"
+    },
+    {
+    "country": "IN",
+    "name": "Kallupatti",
+    "lat": "9.71667",
+    "lng": "77.86667"
+    },
+    {
+    "country": "IN",
+    "name": "Kallidaikurichi",
+    "lat": "8.68591",
+    "lng": "77.46592"
+    },
+    {
+    "country": "IN",
+    "name": "Kallakkurichchi",
+    "lat": "11.7404",
+    "lng": "78.959"
+    },
+    {
+    "country": "IN",
+    "name": "Kālka",
+    "lat": "30.83982",
+    "lng": "76.94065"
+    },
+    {
+    "country": "IN",
+    "name": "Kāliyāganj",
+    "lat": "25.63442",
+    "lng": "88.32665"
+    },
+    {
+    "country": "IN",
+    "name": "Kanīna Khās",
+    "lat": "28.33093",
+    "lng": "76.31099"
+    },
+    {
+    "country": "IN",
+    "name": "Kālīnagar",
+    "lat": "28.62019",
+    "lng": "80.08152"
+    },
+    {
+    "country": "IN",
+    "name": "Kālimpong",
+    "lat": "27.07059",
+    "lng": "88.47529"
+    },
+    {
+    "country": "IN",
+    "name": "Kālikāpur",
+    "lat": "22.61662",
+    "lng": "86.2881"
+    },
+    {
+    "country": "IN",
+    "name": "Kalghatgi",
+    "lat": "15.18315",
+    "lng": "74.97099"
+    },
+    {
+    "country": "IN",
+    "name": "Kalavai",
+    "lat": "12.77029",
+    "lng": "79.41999"
+    },
+    {
+    "country": "IN",
+    "name": "Kālāvad",
+    "lat": "22.20789",
+    "lng": "70.38343"
+    },
+    {
+    "country": "IN",
+    "name": "Kalas",
+    "lat": "18.17241",
+    "lng": "74.79045"
+    },
+    {
+    "country": "IN",
+    "name": "Kālānwāli",
+    "lat": "29.83573",
+    "lng": "74.9717"
+    },
+    {
+    "country": "IN",
+    "name": "Kalanaur",
+    "lat": "32.01227",
+    "lng": "75.15063"
+    },
+    {
+    "country": "IN",
+    "name": "Kalānaur",
+    "lat": "28.82823",
+    "lng": "76.3955"
+    },
+    {
+    "country": "IN",
+    "name": "Kalamnūri",
+    "lat": "19.67386",
+    "lng": "77.31149"
+    },
+    {
+    "country": "IN",
+    "name": "Kalamb",
+    "lat": "19.04437",
+    "lng": "73.95554"
+    },
+    {
+    "country": "IN",
+    "name": "Kalakkādu",
+    "lat": "8.5138",
+    "lng": "77.54944"
+    },
+    {
+    "country": "IN",
+    "name": "Kalaīkunda",
+    "lat": "22.3393",
+    "lng": "87.22637"
+    },
+    {
+    "country": "IN",
+    "name": "Kālāgarh Project Colony",
+    "lat": "29.4778",
+    "lng": "78.78449"
+    },
+    {
+    "country": "IN",
+    "name": "Kālādhūngi",
+    "lat": "29.28351",
+    "lng": "79.351"
+    },
+    {
+    "country": "IN",
+    "name": "Kakrāla",
+    "lat": "27.89269",
+    "lng": "79.1945"
+    },
+    {
+    "country": "IN",
+    "name": "Kākori",
+    "lat": "26.868",
+    "lng": "80.7857"
+    },
+    {
+    "country": "IN",
+    "name": "Kākināda",
+    "lat": "16.96036",
+    "lng": "82.23809"
+    },
+    {
+    "country": "IN",
+    "name": "Kakching",
+    "lat": "24.4982",
+    "lng": "93.98126"
+    },
+    {
+    "country": "IN",
+    "name": "Kaithal",
+    "lat": "29.80153",
+    "lng": "76.39959"
+    },
+    {
+    "country": "IN",
+    "name": "Kairāna",
+    "lat": "29.39541",
+    "lng": "77.2054"
+    },
+    {
+    "country": "IN",
+    "name": "Kaintragarh",
+    "lat": "20.72115",
+    "lng": "84.53514"
+    },
+    {
+    "country": "IN",
+    "name": "Kaimori",
+    "lat": "23.38465",
+    "lng": "79.7442"
+    },
+    {
+    "country": "IN",
+    "name": "Kaimganj",
+    "lat": "27.55441",
+    "lng": "79.33525"
+    },
+    {
+    "country": "IN",
+    "name": "Kailāshahar",
+    "lat": "24.33199",
+    "lng": "92.00391"
+    },
+    {
+    "country": "IN",
+    "name": "Kailāras",
+    "lat": "26.30498",
+    "lng": "77.616"
+    },
+    {
+    "country": "IN",
+    "name": "Kaikalūr",
+    "lat": "16.55154",
+    "lng": "81.214"
+    },
+    {
+    "country": "IN",
+    "name": "Kāgal",
+    "lat": "16.57702",
+    "lng": "74.31544"
+    },
+    {
+    "country": "IN",
+    "name": "Kadūr",
+    "lat": "13.55285",
+    "lng": "76.01164"
+    },
+    {
+    "country": "IN",
+    "name": "Kadod",
+    "lat": "21.21717",
+    "lng": "73.21972"
+    },
+    {
+    "country": "IN",
+    "name": "Kadiri",
+    "lat": "14.11168",
+    "lng": "78.15982"
+    },
+    {
+    "country": "IN",
+    "name": "Kādīpur",
+    "lat": "26.16779",
+    "lng": "82.37028"
+    },
+    {
+    "country": "IN",
+    "name": "Kadi",
+    "lat": "23.29908",
+    "lng": "72.33362"
+    },
+    {
+    "country": "IN",
+    "name": "Kadaura",
+    "lat": "25.98537",
+    "lng": "79.83842"
+    },
+    {
+    "country": "IN",
+    "name": "Kadambūr",
+    "lat": "8.99739",
+    "lng": "77.86191"
+    },
+    {
+    "country": "IN",
+    "name": "Kadayanallur",
+    "lat": "9.07277",
+    "lng": "77.34152"
+    },
+    {
+    "country": "IN",
+    "name": "Kānchrāpāra",
+    "lat": "22.95998",
+    "lng": "88.42849"
+    },
+    {
+    "country": "IN",
+    "name": "Kachhwa",
+    "lat": "25.20615",
+    "lng": "82.71442"
+    },
+    {
+    "country": "IN",
+    "name": "Kabrāi",
+    "lat": "25.40281",
+    "lng": "79.9997"
+    },
+    {
+    "country": "IN",
+    "name": "Jutogh",
+    "lat": "31.1",
+    "lng": "77.11667"
+    },
+    {
+    "country": "IN",
+    "name": "Junnar",
+    "lat": "19.20815",
+    "lng": "73.8752"
+    },
+    {
+    "country": "IN",
+    "name": "Jūnāgarh",
+    "lat": "19.85993",
+    "lng": "82.93385"
+    },
+    {
+    "country": "IN",
+    "name": "Jūnāgadh",
+    "lat": "21.51966",
+    "lng": "70.45981"
+    },
+    {
+    "country": "IN",
+    "name": "Jumri Tilaiyā",
+    "lat": "24.4349",
+    "lng": "85.52951"
+    },
+    {
+    "country": "IN",
+    "name": "Jalandhar",
+    "lat": "31.32556",
+    "lng": "75.57917"
+    },
+    {
+    "country": "IN",
+    "name": "Shādīpur Julāna",
+    "lat": "29.12368",
+    "lng": "76.40516"
+    },
+    {
+    "country": "IN",
+    "name": "Jugsālai",
+    "lat": "22.77668",
+    "lng": "86.18351"
+    },
+    {
+    "country": "IN",
+    "name": "Jubbal",
+    "lat": "31.10923",
+    "lng": "77.65085"
+    },
+    {
+    "country": "IN",
+    "name": "Jua",
+    "lat": "15.5307",
+    "lng": "73.95047"
+    },
+    {
+    "country": "IN",
+    "name": "Joshīmath",
+    "lat": "30.55543",
+    "lng": "79.56436"
+    },
+    {
+    "country": "IN",
+    "name": "Jorhāt",
+    "lat": "26.75751",
+    "lng": "94.20306"
+    },
+    {
+    "country": "IN",
+    "name": "Jora",
+    "lat": "26.34209",
+    "lng": "77.8092"
+    },
+    {
+    "country": "IN",
+    "name": "Jalārpet",
+    "lat": "12.57025",
+    "lng": "78.57318"
+    },
+    {
+    "country": "IN",
+    "name": "Jogindarnagar",
+    "lat": "31.98727",
+    "lng": "76.78906"
+    },
+    {
+    "country": "IN",
+    "name": "Jogīghopa",
+    "lat": "26.22646",
+    "lng": "90.57247"
+    },
+    {
+    "country": "IN",
+    "name": "Jogbani",
+    "lat": "26.39905",
+    "lng": "87.26525"
+    },
+    {
+    "country": "IN",
+    "name": "Jodiya Bandar",
+    "lat": "22.71667",
+    "lng": "70.28333"
+    },
+    {
+    "country": "IN",
+    "name": "Jodhpur",
+    "lat": "26.26841",
+    "lng": "73.00594"
+    },
+    {
+    "country": "IN",
+    "name": "Jodhpur",
+    "lat": "21.90174",
+    "lng": "70.0327"
+    },
+    {
+    "country": "IN",
+    "name": "Jobner",
+    "lat": "26.97257",
+    "lng": "75.38752"
+    },
+    {
+    "country": "IN",
+    "name": "Jobat",
+    "lat": "22.41599",
+    "lng": "74.56828"
+    },
+    {
+    "country": "IN",
+    "name": "Jīran",
+    "lat": "24.30871",
+    "lng": "74.89087"
+    },
+    {
+    "country": "IN",
+    "name": "Jintūr",
+    "lat": "19.61186",
+    "lng": "76.6874"
+    },
+    {
+    "country": "IN",
+    "name": "Jīnd",
+    "lat": "29.31577",
+    "lng": "76.31502"
+    },
+    {
+    "country": "IN",
+    "name": "Jhūsi",
+    "lat": "25.43745",
+    "lng": "81.9055"
+    },
+    {
+    "country": "IN",
+    "name": "Jhunjhunūn",
+    "lat": "28.12559",
+    "lng": "75.39797"
+    },
+    {
+    "country": "IN",
+    "name": "Jhinjhāna",
+    "lat": "29.52118",
+    "lng": "77.2247"
+    },
+    {
+    "country": "IN",
+    "name": "Jhīnjhak",
+    "lat": "26.56093",
+    "lng": "79.73423"
+    },
+    {
+    "country": "IN",
+    "name": "Jhārsugra",
+    "lat": "21.8624",
+    "lng": "84.01782"
+    },
+    {
+    "country": "IN",
+    "name": "Jharia",
+    "lat": "23.74079",
+    "lng": "86.41456"
+    },
+    {
+    "country": "IN",
+    "name": "Jhārgrām",
+    "lat": "22.45384",
+    "lng": "86.99497"
+    },
+    {
+    "country": "IN",
+    "name": "Jhānsi",
+    "lat": "25.45887",
+    "lng": "78.57994"
+    },
+    {
+    "country": "IN",
+    "name": "Jhanjhārpur",
+    "lat": "26.26467",
+    "lng": "86.27993"
+    },
+    {
+    "country": "IN",
+    "name": "Jhālu",
+    "lat": "29.33609",
+    "lng": "78.22608"
+    },
+    {
+    "country": "IN",
+    "name": "Jhālrapātan",
+    "lat": "24.54205",
+    "lng": "76.17242"
+    },
+    {
+    "country": "IN",
+    "name": "Jhalidā",
+    "lat": "23.36545",
+    "lng": "85.97643"
+    },
+    {
+    "country": "IN",
+    "name": "Jhālāwār",
+    "lat": "24.59633",
+    "lng": "76.16499"
+    },
+    {
+    "country": "IN",
+    "name": "Jhajjar",
+    "lat": "28.6063",
+    "lng": "76.6565"
+    },
+    {
+    "country": "IN",
+    "name": "Jhā-Jhā",
+    "lat": "24.77107",
+    "lng": "86.37888"
+    },
+    {
+    "country": "IN",
+    "name": "Jhābua",
+    "lat": "22.76772",
+    "lng": "74.59087"
+    },
+    {
+    "country": "IN",
+    "name": "Jewar",
+    "lat": "28.122",
+    "lng": "77.55734"
+    },
+    {
+    "country": "IN",
+    "name": "Jevargi",
+    "lat": "17.01394",
+    "lng": "76.77317"
+    },
+    {
+    "country": "IN",
+    "name": "Jetpur",
+    "lat": "22.34472",
+    "lng": "73.84093"
+    },
+    {
+    "country": "IN",
+    "name": "Jetpur",
+    "lat": "21.75482",
+    "lng": "70.62347"
+    },
+    {
+    "country": "IN",
+    "name": "Jetalsar",
+    "lat": "21.70891",
+    "lng": "70.57695"
+    },
+    {
+    "country": "IN",
+    "name": "Jejūri",
+    "lat": "18.27658",
+    "lng": "74.16008"
+    },
+    {
+    "country": "IN",
+    "name": "Jeypore",
+    "lat": "18.8563",
+    "lng": "82.5716"
+    },
+    {
+    "country": "IN",
+    "name": "Jaynagar",
+    "lat": "26.59048",
+    "lng": "86.13791"
+    },
+    {
+    "country": "IN",
+    "name": "Jaynagar-Majilpur",
+    "lat": "22.17583",
+    "lng": "88.41778"
+    },
+    {
+    "country": "IN",
+    "name": "Jayamkondacholapuram",
+    "lat": "11.21266",
+    "lng": "79.36369"
+    },
+    {
+    "country": "IN",
+    "name": "Jawhār",
+    "lat": "19.91213",
+    "lng": "73.22679"
+    },
+    {
+    "country": "IN",
+    "name": "Iāwar",
+    "lat": "23.00943",
+    "lng": "76.5007"
+    },
+    {
+    "country": "IN",
+    "name": "Jawāla Mukhi",
+    "lat": "31.87456",
+    "lng": "76.32013"
+    },
+    {
+    "country": "IN",
+    "name": "Jāwad",
+    "lat": "24.59916",
+    "lng": "74.86261"
+    },
+    {
+    "country": "IN",
+    "name": "Jaunpur",
+    "lat": "25.75356",
+    "lng": "82.68689"
+    },
+    {
+    "country": "IN",
+    "name": "Jatāra",
+    "lat": "25.00964",
+    "lng": "79.04869"
+    },
+    {
+    "country": "IN",
+    "name": "Jatani",
+    "lat": "20.15975",
+    "lng": "85.70742"
+    },
+    {
+    "country": "IN",
+    "name": "Jaswantnagar",
+    "lat": "26.88271",
+    "lng": "78.90256"
+    },
+    {
+    "country": "IN",
+    "name": "Jasrāna",
+    "lat": "27.23587",
+    "lng": "78.65244"
+    },
+    {
+    "country": "IN",
+    "name": "Jaspur",
+    "lat": "29.27919",
+    "lng": "78.82798"
+    },
+    {
+    "country": "IN",
+    "name": "Jasidih",
+    "lat": "24.51379",
+    "lng": "86.64576"
+    },
+    {
+    "country": "IN",
+    "name": "Jashpurnagar",
+    "lat": "22.88783",
+    "lng": "84.13864"
+    },
+    {
+    "country": "IN",
+    "name": "Jasdan",
+    "lat": "22.03709",
+    "lng": "71.20794"
+    },
+    {
+    "country": "IN",
+    "name": "Jarwal",
+    "lat": "27.1629",
+    "lng": "81.54179"
+    },
+    {
+    "country": "IN",
+    "name": "Jaorā",
+    "lat": "23.63783",
+    "lng": "75.12711"
+    },
+    {
+    "country": "IN",
+    "name": "Jānsath",
+    "lat": "29.32502",
+    "lng": "77.85044"
+    },
+    {
+    "country": "IN",
+    "name": "Jānjgīr",
+    "lat": "22.00922",
+    "lng": "82.5778"
+    },
+    {
+    "country": "IN",
+    "name": "Jangipur",
+    "lat": "24.47001",
+    "lng": "88.07659"
+    },
+    {
+    "country": "IN",
+    "name": "Jangaon",
+    "lat": "17.72602",
+    "lng": "79.15236"
+    },
+    {
+    "country": "IN",
+    "name": "Jandiāla Gurū",
+    "lat": "31.56198",
+    "lng": "75.0277"
+    },
+    {
+    "country": "IN",
+    "name": "Jandiāla",
+    "lat": "31.1593",
+    "lng": "75.61755"
+    },
+    {
+    "country": "IN",
+    "name": "Jāmuria",
+    "lat": "23.70468",
+    "lng": "87.07872"
+    },
+    {
+    "country": "IN",
+    "name": "Jamūī",
+    "lat": "24.92606",
+    "lng": "86.22531"
+    },
+    {
+    "country": "IN",
+    "name": "Jāmtāra",
+    "lat": "23.963",
+    "lng": "86.80285"
+    },
+    {
+    "country": "IN",
+    "name": "Jamshedpur",
+    "lat": "22.80278",
+    "lng": "86.18545"
+    },
+    {
+    "country": "IN",
+    "name": "Jamnagar",
+    "lat": "22.47292",
+    "lng": "70.06673"
+    },
+    {
+    "country": "IN",
+    "name": "Jammu",
+    "lat": "32.73569",
+    "lng": "74.86911"
+    },
+    {
+    "country": "IN",
+    "name": "Jammalamadugu",
+    "lat": "14.84677",
+    "lng": "78.38314"
+    },
+    {
+    "country": "IN",
+    "name": "Jamkhandi",
+    "lat": "16.50461",
+    "lng": "75.29146"
+    },
+    {
+    "country": "IN",
+    "name": "Jambusar",
+    "lat": "22.05236",
+    "lng": "72.80074"
+    },
+    {
+    "country": "IN",
+    "name": "Jamālpur",
+    "lat": "25.31258",
+    "lng": "86.48888"
+    },
+    {
+    "country": "IN",
+    "name": "Jāmai",
+    "lat": "22.19644",
+    "lng": "78.59191"
+    },
+    {
+    "country": "IN",
+    "name": "Jāmadoba",
+    "lat": "23.71667",
+    "lng": "86.4"
+    },
+    {
+    "country": "IN",
+    "name": "Jalpāiguri",
+    "lat": "26.51667",
+    "lng": "88.73333"
+    },
+    {
+    "country": "IN",
+    "name": "Jalor",
+    "lat": "25.34558",
+    "lng": "72.61559"
+    },
+    {
+    "country": "IN",
+    "name": "Jālna",
+    "lat": "19.84102",
+    "lng": "75.88636"
+    },
+    {
+    "country": "IN",
+    "name": "Jalgaon Jamod",
+    "lat": "21.05194",
+    "lng": "76.53464"
+    },
+    {
+    "country": "IN",
+    "name": "Jalgaon",
+    "lat": "21.00292",
+    "lng": "75.56602"
+    },
+    {
+    "country": "IN",
+    "name": "Jalgaon",
+    "lat": "17.74026",
+    "lng": "73.19087"
+    },
+    {
+    "country": "IN",
+    "name": "Jaleshwar",
+    "lat": "21.80176",
+    "lng": "87.2225"
+    },
+    {
+    "country": "IN",
+    "name": "Jalesar",
+    "lat": "27.47315",
+    "lng": "78.3031"
+    },
+    {
+    "country": "IN",
+    "name": "Jālaun",
+    "lat": "26.1451",
+    "lng": "79.3366"
+    },
+    {
+    "country": "IN",
+    "name": "Jalālpur",
+    "lat": "26.31162",
+    "lng": "82.73859"
+    },
+    {
+    "country": "IN",
+    "name": "Jalālpur",
+    "lat": "20.94896",
+    "lng": "72.89829"
+    },
+    {
+    "country": "IN",
+    "name": "Jalālī",
+    "lat": "27.8668",
+    "lng": "78.25267"
+    },
+    {
+    "country": "IN",
+    "name": "Jalālābād",
+    "lat": "30.60622",
+    "lng": "74.25727"
+    },
+    {
+    "country": "IN",
+    "name": "Jalālābad",
+    "lat": "29.61853",
+    "lng": "77.43908"
+    },
+    {
+    "country": "IN",
+    "name": "Jalālābād",
+    "lat": "27.72625",
+    "lng": "79.65523"
+    },
+    {
+    "country": "IN",
+    "name": "Jalakandapuram",
+    "lat": "11.69779",
+    "lng": "77.87298"
+    },
+    {
+    "country": "IN",
+    "name": "Jākhal",
+    "lat": "29.79627",
+    "lng": "75.82392"
+    },
+    {
+    "country": "IN",
+    "name": "Jājpur",
+    "lat": "20.84852",
+    "lng": "86.33729"
+    },
+    {
+    "country": "IN",
+    "name": "Jaito",
+    "lat": "30.45126",
+    "lng": "74.89189"
+    },
+    {
+    "country": "IN",
+    "name": "Jaithāri",
+    "lat": "23.20856",
+    "lng": "78.61487"
+    },
+    {
+    "country": "IN",
+    "name": "Jaitāran",
+    "lat": "26.20446",
+    "lng": "73.93676"
+    },
+    {
+    "country": "IN",
+    "name": "Jaisingpur",
+    "lat": "16.77639",
+    "lng": "74.55361"
+    },
+    {
+    "country": "IN",
+    "name": "Jaisinghnagar",
+    "lat": "23.68582",
+    "lng": "81.39085"
+    },
+    {
+    "country": "IN",
+    "name": "Jaisalmer",
+    "lat": "26.91763",
+    "lng": "70.90387"
+    },
+    {
+    "country": "IN",
+    "name": "Jais",
+    "lat": "26.2649",
+    "lng": "81.54855"
+    },
+    {
+    "country": "IN",
+    "name": "Jaipur",
+    "lat": "26.91962",
+    "lng": "75.78781"
+    },
+    {
+    "country": "IN",
+    "name": "Jainpur",
+    "lat": "26.15389",
+    "lng": "83.33505"
+    },
+    {
+    "country": "IN",
+    "name": "Jahāzpur",
+    "lat": "25.61994",
+    "lng": "75.27609"
+    },
+    {
+    "country": "IN",
+    "name": "Jahāngīrpur",
+    "lat": "28.17919",
+    "lng": "77.70501"
+    },
+    {
+    "country": "IN",
+    "name": "Jahāngīrābād",
+    "lat": "28.40549",
+    "lng": "78.10588"
+    },
+    {
+    "country": "IN",
+    "name": "Jahānābād",
+    "lat": "28.63025",
+    "lng": "79.71818"
+    },
+    {
+    "country": "IN",
+    "name": "Jahānābād",
+    "lat": "25.21368",
+    "lng": "84.9871"
+    },
+    {
+    "country": "IN",
+    "name": "Jagtiāl",
+    "lat": "18.79473",
+    "lng": "78.91661"
+    },
+    {
+    "country": "IN",
+    "name": "Jagraon",
+    "lat": "30.78783",
+    "lng": "75.47391"
+    },
+    {
+    "country": "IN",
+    "name": "Jagnair",
+    "lat": "26.8636",
+    "lng": "77.60231"
+    },
+    {
+    "country": "IN",
+    "name": "Jaggayyapeta",
+    "lat": "16.8938",
+    "lng": "80.09807"
+    },
+    {
+    "country": "IN",
+    "name": "Jagdīspur",
+    "lat": "25.46811",
+    "lng": "84.41939"
+    },
+    {
+    "country": "IN",
+    "name": "Jagdīshpur",
+    "lat": "26.74967",
+    "lng": "80.5451"
+    },
+    {
+    "country": "IN",
+    "name": "Jagdalpur",
+    "lat": "19.08136",
+    "lng": "82.02131"
+    },
+    {
+    "country": "IN",
+    "name": "Jagatsinghapur",
+    "lat": "20.2557",
+    "lng": "86.17112"
+    },
+    {
+    "country": "IN",
+    "name": "Jagannāthpur",
+    "lat": "22.22115",
+    "lng": "85.63917"
+    },
+    {
+    "country": "IN",
+    "name": "Jagalūr",
+    "lat": "14.51957",
+    "lng": "76.33915"
+    },
+    {
+    "country": "IN",
+    "name": "Jagādhri",
+    "lat": "30.16719",
+    "lng": "77.30367"
+    },
+    {
+    "country": "IN",
+    "name": "Jabalpur",
+    "lat": "23.16697",
+    "lng": "79.95006"
+    },
+    {
+    "country": "IN",
+    "name": "Itimādpur",
+    "lat": "27.23541",
+    "lng": "78.19829"
+    },
+    {
+    "country": "IN",
+    "name": "Itaunja",
+    "lat": "27.08347",
+    "lng": "80.89672"
+    },
+    {
+    "country": "IN",
+    "name": "Itārsi",
+    "lat": "22.61477",
+    "lng": "77.76222"
+    },
+    {
+    "country": "IN",
+    "name": "Itānagar",
+    "lat": "27.08694",
+    "lng": "93.60987"
+    },
+    {
+    "country": "IN",
+    "name": "Islāmpur",
+    "lat": "26.26541",
+    "lng": "88.18982"
+    },
+    {
+    "country": "IN",
+    "name": "Islāmpur",
+    "lat": "25.14075",
+    "lng": "85.20587"
+    },
+    {
+    "country": "IN",
+    "name": "Islāmnagar",
+    "lat": "28.32896",
+    "lng": "78.72524"
+    },
+    {
+    "country": "IN",
+    "name": "Isāgarh",
+    "lat": "24.83906",
+    "lng": "77.88274"
+    },
+    {
+    "country": "IN",
+    "name": "Irugūr",
+    "lat": "11.01782",
+    "lng": "77.06285"
+    },
+    {
+    "country": "IN",
+    "name": "Irinjālakuda",
+    "lat": "10.34238",
+    "lng": "76.21124"
+    },
+    {
+    "country": "IN",
+    "name": "Iringal",
+    "lat": "11.55929",
+    "lng": "75.61663"
+    },
+    {
+    "country": "IN",
+    "name": "Ingrāj Bāzār",
+    "lat": "25.00447",
+    "lng": "88.14573"
+    },
+    {
+    "country": "IN",
+    "name": "Indri",
+    "lat": "29.87999",
+    "lng": "77.05972"
+    },
+    {
+    "country": "IN",
+    "name": "Indore",
+    "lat": "22.71792",
+    "lng": "75.8333"
+    },
+    {
+    "country": "IN",
+    "name": "Indi",
+    "lat": "17.17735",
+    "lng": "75.9526"
+    },
+    {
+    "country": "IN",
+    "name": "Indergarh",
+    "lat": "26.93521",
+    "lng": "79.6712"
+    },
+    {
+    "country": "IN",
+    "name": "Indāpur",
+    "lat": "18.3",
+    "lng": "73.25"
+    },
+    {
+    "country": "IN",
+    "name": "Imphal",
+    "lat": "24.80805",
+    "lng": "93.9442"
+    },
+    {
+    "country": "IN",
+    "name": "Iluppūr",
+    "lat": "10.51347",
+    "lng": "78.62357"
+    },
+    {
+    "country": "IN",
+    "name": "Ilkal",
+    "lat": "15.95923",
+    "lng": "76.11351"
+    },
+    {
+    "country": "IN",
+    "name": "Ilampillai",
+    "lat": "11.60659",
+    "lng": "78.00676"
+    },
+    {
+    "country": "IN",
+    "name": "Iklehra",
+    "lat": "23.14667",
+    "lng": "76.39044"
+    },
+    {
+    "country": "IN",
+    "name": "Ikauna",
+    "lat": "27.53097",
+    "lng": "81.96917"
+    },
+    {
+    "country": "IN",
+    "name": "Iglās",
+    "lat": "27.711",
+    "lng": "77.93967"
+    },
+    {
+    "country": "IN",
+    "name": "Igatpuri",
+    "lat": "19.69522",
+    "lng": "73.5626"
+    },
+    {
+    "country": "IN",
+    "name": "Idukki",
+    "lat": "9.85",
+    "lng": "76.96667"
+    },
+    {
+    "country": "IN",
+    "name": "Idappadi",
+    "lat": "11.58624",
+    "lng": "77.83891"
+    },
+    {
+    "country": "IN",
+    "name": "Ichhāwar",
+    "lat": "23.02816",
+    "lng": "77.01729"
+    },
+    {
+    "country": "IN",
+    "name": "Ichchāpuram",
+    "lat": "19.11393",
+    "lng": "84.68721"
+    },
+    {
+    "country": "IN",
+    "name": "Ichalkaranji",
+    "lat": "16.69117",
+    "lng": "74.46054"
+    },
+    {
+    "country": "IN",
+    "name": "Hyderabad",
+    "lat": "17.38405",
+    "lng": "78.45636"
+    },
+    {
+    "country": "IN",
+    "name": "Hadagalli",
+    "lat": "15.02048",
+    "lng": "75.93185"
+    },
+    {
+    "country": "IN",
+    "name": "Husainābād",
+    "lat": "24.52849",
+    "lng": "84"
+    },
+    {
+    "country": "IN",
+    "name": "Hunsūr",
+    "lat": "12.30359",
+    "lng": "76.29275"
+    },
+    {
+    "country": "IN",
+    "name": "Hungund",
+    "lat": "16.06213",
+    "lng": "76.0586"
+    },
+    {
+    "country": "IN",
+    "name": "Hukeri",
+    "lat": "16.23082",
+    "lng": "74.60244"
+    },
+    {
+    "country": "IN",
+    "name": "Hugli",
+    "lat": "22.90877",
+    "lng": "88.39674"
+    },
+    {
+    "country": "IN",
+    "name": "Hubli",
+    "lat": "15.34776",
+    "lng": "75.13378"
+    },
+    {
+    "country": "IN",
+    "name": "Howli",
+    "lat": "26.42237",
+    "lng": "90.98004"
+    },
+    {
+    "country": "IN",
+    "name": "Hosūr",
+    "lat": "12.73647",
+    "lng": "77.83264"
+    },
+    {
+    "country": "IN",
+    "name": "Hospet",
+    "lat": "15.26954",
+    "lng": "76.3871"
+    },
+    {
+    "country": "IN",
+    "name": "Hoskote",
+    "lat": "13.0707",
+    "lng": "77.79814"
+    },
+    {
+    "country": "IN",
+    "name": "Hoshiārpur",
+    "lat": "31.53723",
+    "lng": "75.91269"
+    },
+    {
+    "country": "IN",
+    "name": "Hoshangābād",
+    "lat": "22.74747",
+    "lng": "77.72736"
+    },
+    {
+    "country": "IN",
+    "name": "Hosdurga",
+    "lat": "13.79631",
+    "lng": "76.28408"
+    },
+    {
+    "country": "IN",
+    "name": "Hosangadi",
+    "lat": "13.69756",
+    "lng": "74.95427"
+    },
+    {
+    "country": "IN",
+    "name": "Hosanagara",
+    "lat": "13.91387",
+    "lng": "75.06503"
+    },
+    {
+    "country": "IN",
+    "name": "Hosakote",
+    "lat": "14.27603",
+    "lng": "77.16827"
+    },
+    {
+    "country": "IN",
+    "name": "Honnāli",
+    "lat": "14.23976",
+    "lng": "75.64507"
+    },
+    {
+    "country": "IN",
+    "name": "Honāvar",
+    "lat": "14.28088",
+    "lng": "74.44497"
+    },
+    {
+    "country": "IN",
+    "name": "Homnābād",
+    "lat": "17.77074",
+    "lng": "77.12519"
+    },
+    {
+    "country": "IN",
+    "name": "Hole Narsipur",
+    "lat": "12.78635",
+    "lng": "76.24331"
+    },
+    {
+    "country": "IN",
+    "name": "Holalkere",
+    "lat": "14.04295",
+    "lng": "76.18496"
+    },
+    {
+    "country": "IN",
+    "name": "Hilsa",
+    "lat": "25.31642",
+    "lng": "85.28234"
+    },
+    {
+    "country": "IN",
+    "name": "Hesla",
+    "lat": "24.06313",
+    "lng": "85.87905"
+    },
+    {
+    "country": "IN",
+    "name": "Harbatpur",
+    "lat": "30.43863",
+    "lng": "77.74058"
+    },
+    {
+    "country": "IN",
+    "name": "Heggadadevankote",
+    "lat": "12.08809",
+    "lng": "76.32957"
+    },
+    {
+    "country": "IN",
+    "name": "Hazāribāgh",
+    "lat": "23.99241",
+    "lng": "85.36162"
+    },
+    {
+    "country": "IN",
+    "name": "Hayuliang",
+    "lat": "28.07301",
+    "lng": "96.54305"
+    },
+    {
+    "country": "IN",
+    "name": "Hāveri",
+    "lat": "14.79354",
+    "lng": "75.40448"
+    },
+    {
+    "country": "IN",
+    "name": "Hatta",
+    "lat": "24.13406",
+    "lng": "79.60119"
+    },
+    {
+    "country": "IN",
+    "name": "Hātod",
+    "lat": "22.79378",
+    "lng": "75.73928"
+    },
+    {
+    "country": "IN",
+    "name": "Hāthras",
+    "lat": "27.59551",
+    "lng": "78.05201"
+    },
+    {
+    "country": "IN",
+    "name": "Hātā",
+    "lat": "26.7412",
+    "lng": "83.74526"
+    },
+    {
+    "country": "IN",
+    "name": "Hastināpur",
+    "lat": "29.16042",
+    "lng": "78.00762"
+    },
+    {
+    "country": "IN",
+    "name": "Hassan",
+    "lat": "13.00715",
+    "lng": "76.0962"
+    },
+    {
+    "country": "IN",
+    "name": "Hāsimāra",
+    "lat": "26.7469",
+    "lng": "89.35385"
+    },
+    {
+    "country": "IN",
+    "name": "Hasanpur",
+    "lat": "28.72249",
+    "lng": "78.28436"
+    },
+    {
+    "country": "IN",
+    "name": "Hasanpur",
+    "lat": "27.96944",
+    "lng": "77.49544"
+    },
+    {
+    "country": "IN",
+    "name": "Harūr",
+    "lat": "12.05267",
+    "lng": "78.48023"
+    },
+    {
+    "country": "IN",
+    "name": "Harsūd",
+    "lat": "22.09947",
+    "lng": "76.73423"
+    },
+    {
+    "country": "IN",
+    "name": "Harrai",
+    "lat": "22.61428",
+    "lng": "79.22207"
+    },
+    {
+    "country": "IN",
+    "name": "Harpanahalli",
+    "lat": "14.78766",
+    "lng": "75.98863"
+    },
+    {
+    "country": "IN",
+    "name": "Harpālpur",
+    "lat": "25.28773",
+    "lng": "79.33279"
+    },
+    {
+    "country": "IN",
+    "name": "Harnai",
+    "lat": "17.8134",
+    "lng": "73.09668"
+    },
+    {
+    "country": "IN",
+    "name": "Haringhāta",
+    "lat": "22.96474",
+    "lng": "88.57451"
+    },
+    {
+    "country": "IN",
+    "name": "Hārij",
+    "lat": "23.69356",
+    "lng": "71.907"
+    },
+    {
+    "country": "IN",
+    "name": "Harihar",
+    "lat": "14.51288",
+    "lng": "75.80716"
+    },
+    {
+    "country": "IN",
+    "name": "Haridwar",
+    "lat": "29.94791",
+    "lng": "78.16025"
+    },
+    {
+    "country": "IN",
+    "name": "Hariāna",
+    "lat": "31.63512",
+    "lng": "75.83887"
+    },
+    {
+    "country": "IN",
+    "name": "Harduāganj",
+    "lat": "27.94361",
+    "lng": "78.15789"
+    },
+    {
+    "country": "IN",
+    "name": "Hardoī",
+    "lat": "27.39491",
+    "lng": "80.13165"
+    },
+    {
+    "country": "IN",
+    "name": "Harda Khās",
+    "lat": "22.34414",
+    "lng": "77.09536"
+    },
+    {
+    "country": "IN",
+    "name": "Haraiya",
+    "lat": "26.79477",
+    "lng": "82.46436"
+    },
+    {
+    "country": "IN",
+    "name": "Hāpur",
+    "lat": "28.72985",
+    "lng": "77.78068"
+    },
+    {
+    "country": "IN",
+    "name": "Hāora",
+    "lat": "22.57688",
+    "lng": "88.31857"
+    },
+    {
+    "country": "IN",
+    "name": "Hanumāngarh",
+    "lat": "29.58182",
+    "lng": "74.32938"
+    },
+    {
+    "country": "IN",
+    "name": "Hansot",
+    "lat": "21.58496",
+    "lng": "72.80764"
+    },
+    {
+    "country": "IN",
+    "name": "Hānsi",
+    "lat": "29.10239",
+    "lng": "75.96253"
+    },
+    {
+    "country": "IN",
+    "name": "Hāngal",
+    "lat": "14.76465",
+    "lng": "75.1246"
+    },
+    {
+    "country": "IN",
+    "name": "Handiā",
+    "lat": "25.36379",
+    "lng": "82.18655"
+    },
+    {
+    "country": "IN",
+    "name": "Hampi",
+    "lat": "15.3352",
+    "lng": "76.4603"
+    },
+    {
+    "country": "IN",
+    "name": "Hamīrpur",
+    "lat": "31.68411",
+    "lng": "76.52506"
+    },
+    {
+    "country": "IN",
+    "name": "Hamīrpur",
+    "lat": "25.9553",
+    "lng": "80.14842"
+    },
+    {
+    "country": "IN",
+    "name": "Halvad",
+    "lat": "23.01516",
+    "lng": "71.18029"
+    },
+    {
+    "country": "IN",
+    "name": "Hālol",
+    "lat": "22.50321",
+    "lng": "73.47242"
+    },
+    {
+    "country": "IN",
+    "name": "Haliyal",
+    "lat": "15.32864",
+    "lng": "74.75638"
+    },
+    {
+    "country": "IN",
+    "name": "Hālīsahar",
+    "lat": "22.93218",
+    "lng": "88.41859"
+    },
+    {
+    "country": "IN",
+    "name": "Haldwani",
+    "lat": "29.22254",
+    "lng": "79.5286"
+    },
+    {
+    "country": "IN",
+    "name": "Haldībāri",
+    "lat": "26.33887",
+    "lng": "88.7822"
+    },
+    {
+    "country": "IN",
+    "name": "Haldaur",
+    "lat": "29.28988",
+    "lng": "78.28437"
+    },
+    {
+    "country": "IN",
+    "name": "Hājo",
+    "lat": "26.2452",
+    "lng": "91.52525"
+    },
+    {
+    "country": "IN",
+    "name": "Hājipur",
+    "lat": "31.97714",
+    "lng": "75.75438"
+    },
+    {
+    "country": "IN",
+    "name": "Hājīpur",
+    "lat": "25.68544",
+    "lng": "85.20981"
+    },
+    {
+    "country": "IN",
+    "name": "Hājan",
+    "lat": "34.29895",
+    "lng": "74.61681"
+    },
+    {
+    "country": "IN",
+    "name": "Hailākāndi",
+    "lat": "24.68394",
+    "lng": "92.56097"
+    },
+    {
+    "country": "IN",
+    "name": "Hāflong",
+    "lat": "25.16478",
+    "lng": "93.01744"
+    },
+    {
+    "country": "IN",
+    "name": "Hadgāon",
+    "lat": "19.49552",
+    "lng": "77.65863"
+    },
+    {
+    "country": "IN",
+    "name": "Hābra",
+    "lat": "22.84202",
+    "lng": "88.65606"
+    },
+    {
+    "country": "IN",
+    "name": "Gyānpur",
+    "lat": "25.33268",
+    "lng": "82.46637"
+    },
+    {
+    "country": "IN",
+    "name": "Gyalshing",
+    "lat": "27.28952",
+    "lng": "88.25764"
+    },
+    {
+    "country": "IN",
+    "name": "Gwalior",
+    "lat": "26.22983",
+    "lng": "78.17337"
+    },
+    {
+    "country": "IN",
+    "name": "Guskhara",
+    "lat": "23.49276",
+    "lng": "87.73484"
+    },
+    {
+    "country": "IN",
+    "name": "Guruvāyūr",
+    "lat": "10.5943",
+    "lng": "76.0411"
+    },
+    {
+    "country": "IN",
+    "name": "Guru Har Sahāi",
+    "lat": "30.70862",
+    "lng": "74.40407"
+    },
+    {
+    "country": "IN",
+    "name": "Gursarāi",
+    "lat": "25.61677",
+    "lng": "79.18053"
+    },
+    {
+    "country": "IN",
+    "name": "Gursahāiganj",
+    "lat": "27.11518",
+    "lng": "79.73174"
+    },
+    {
+    "country": "IN",
+    "name": "Gurmatkāl",
+    "lat": "16.86773",
+    "lng": "77.39088"
+    },
+    {
+    "country": "IN",
+    "name": "Gurh",
+    "lat": "24.50265",
+    "lng": "81.50037"
+    },
+    {
+    "country": "IN",
+    "name": "Gurgaon",
+    "lat": "28.4601",
+    "lng": "77.02635"
+    },
+    {
+    "country": "IN",
+    "name": "Gunupur",
+    "lat": "19.0804",
+    "lng": "83.80879"
+    },
+    {
+    "country": "IN",
+    "name": "Guntur",
+    "lat": "16.29974",
+    "lng": "80.45729"
+    },
+    {
+    "country": "IN",
+    "name": "Guntakal Junction",
+    "lat": "15.17112",
+    "lng": "77.36244"
+    },
+    {
+    "country": "IN",
+    "name": "Gunnaur",
+    "lat": "28.23995",
+    "lng": "78.43994"
+    },
+    {
+    "country": "IN",
+    "name": "Gundlupēt",
+    "lat": "11.81004",
+    "lng": "76.69027"
+    },
+    {
+    "country": "IN",
+    "name": "Guna",
+    "lat": "24.64691",
+    "lng": "77.3113"
+    },
+    {
+    "country": "IN",
+    "name": "Gummidipundi",
+    "lat": "13.40765",
+    "lng": "80.10879"
+    },
+    {
+    "country": "IN",
+    "name": "Gumlā",
+    "lat": "23.04268",
+    "lng": "84.54429"
+    },
+    {
+    "country": "IN",
+    "name": "Gumia",
+    "lat": "23.7975",
+    "lng": "85.82523"
+    },
+    {
+    "country": "IN",
+    "name": "Guledagudda",
+    "lat": "16.05025",
+    "lng": "75.78997"
+    },
+    {
+    "country": "IN",
+    "name": "Gulbarga",
+    "lat": "17.33583",
+    "lng": "76.83757"
+    },
+    {
+    "country": "IN",
+    "name": "Gulāothi",
+    "lat": "28.58938",
+    "lng": "77.79318"
+    },
+    {
+    "country": "IN",
+    "name": "Gulābpura",
+    "lat": "25.90448",
+    "lng": "74.66025"
+    },
+    {
+    "country": "IN",
+    "name": "Guirim",
+    "lat": "15.57552",
+    "lng": "73.80722"
+    },
+    {
+    "country": "IN",
+    "name": "Guhāgar",
+    "lat": "17.48415",
+    "lng": "73.19289"
+    },
+    {
+    "country": "IN",
+    "name": "Gūduvāncheri",
+    "lat": "12.84519",
+    "lng": "80.06055"
+    },
+    {
+    "country": "IN",
+    "name": "Gūdūr",
+    "lat": "17.49174",
+    "lng": "78.82302"
+    },
+    {
+    "country": "IN",
+    "name": "Gūdūr",
+    "lat": "14.15093",
+    "lng": "79.8521"
+    },
+    {
+    "country": "IN",
+    "name": "Gudlavalleru",
+    "lat": "16.35",
+    "lng": "81.05"
+    },
+    {
+    "country": "IN",
+    "name": "Gudiyatham",
+    "lat": "12.94601",
+    "lng": "78.87377"
+    },
+    {
+    "country": "IN",
+    "name": "Gudivāda",
+    "lat": "16.43547",
+    "lng": "80.99555"
+    },
+    {
+    "country": "IN",
+    "name": "Gudibanda",
+    "lat": "13.67099",
+    "lng": "77.70414"
+    },
+    {
+    "country": "IN",
+    "name": "Gudāri",
+    "lat": "19.34762",
+    "lng": "83.78128"
+    },
+    {
+    "country": "IN",
+    "name": "Gudalur",
+    "lat": "9.67826",
+    "lng": "77.24951"
+    },
+    {
+    "country": "IN",
+    "name": "Gubbi",
+    "lat": "13.31216",
+    "lng": "76.94102"
+    },
+    {
+    "country": "IN",
+    "name": "Gua",
+    "lat": "22.21361",
+    "lng": "85.38774"
+    },
+    {
+    "country": "IN",
+    "name": "Goyerkāta",
+    "lat": "26.69984",
+    "lng": "89.02565"
+    },
+    {
+    "country": "IN",
+    "name": "Govindgarh",
+    "lat": "27.50423",
+    "lng": "76.99938"
+    },
+    {
+    "country": "IN",
+    "name": "Govindgarh",
+    "lat": "24.37845",
+    "lng": "81.29644"
+    },
+    {
+    "country": "IN",
+    "name": "Govardhan",
+    "lat": "27.49658",
+    "lng": "77.46263"
+    },
+    {
+    "country": "IN",
+    "name": "Goshaingaon",
+    "lat": "26.43946",
+    "lng": "89.96307"
+    },
+    {
+    "country": "IN",
+    "name": "Goshāīnganj",
+    "lat": "26.76793",
+    "lng": "81.10752"
+    },
+    {
+    "country": "IN",
+    "name": "Goshāinganj",
+    "lat": "26.57115",
+    "lng": "82.38091"
+    },
+    {
+    "country": "IN",
+    "name": "Gosāba",
+    "lat": "22.16547",
+    "lng": "88.8007"
+    },
+    {
+    "country": "IN",
+    "name": "Gorūr",
+    "lat": "12.82297",
+    "lng": "76.06463"
+    },
+    {
+    "country": "IN",
+    "name": "Goregaon",
+    "lat": "18.15483",
+    "lng": "73.29147"
+    },
+    {
+    "country": "IN",
+    "name": "Gorantla",
+    "lat": "13.98411",
+    "lng": "77.77224"
+    },
+    {
+    "country": "IN",
+    "name": "Gorakhpur",
+    "lat": "29.44768",
+    "lng": "75.67206"
+    },
+    {
+    "country": "IN",
+    "name": "Gorakhpur",
+    "lat": "26.76628",
+    "lng": "83.36889"
+    },
+    {
+    "country": "IN",
+    "name": "Gopināthpur",
+    "lat": "22.66301",
+    "lng": "86.075"
+    },
+    {
+    "country": "IN",
+    "name": "Gobichettipalayam",
+    "lat": "11.45496",
+    "lng": "77.4422"
+    },
+    {
+    "country": "IN",
+    "name": "Gopāmau",
+    "lat": "27.53468",
+    "lng": "80.28507"
+    },
+    {
+    "country": "IN",
+    "name": "Gopālur",
+    "lat": "16.6122",
+    "lng": "77.80728"
+    },
+    {
+    "country": "IN",
+    "name": "Gopālpur",
+    "lat": "19.25861",
+    "lng": "84.90517"
+    },
+    {
+    "country": "IN",
+    "name": "Gopālganj",
+    "lat": "26.46734",
+    "lng": "84.44041"
+    },
+    {
+    "country": "IN",
+    "name": "Gondiā",
+    "lat": "21.46026",
+    "lng": "80.19205"
+    },
+    {
+    "country": "IN",
+    "name": "Gondal",
+    "lat": "21.96074",
+    "lng": "70.80255"
+    },
+    {
+    "country": "IN",
+    "name": "Gondā City",
+    "lat": "27.13181",
+    "lng": "81.95332"
+    },
+    {
+    "country": "IN",
+    "name": "Gomoh",
+    "lat": "23.87355",
+    "lng": "86.1516"
+    },
+    {
+    "country": "IN",
+    "name": "Golakganj",
+    "lat": "26.10216",
+    "lng": "89.82275"
+    },
+    {
+    "country": "IN",
+    "name": "Gola Gokarannāth",
+    "lat": "28.07837",
+    "lng": "80.47054"
+    },
+    {
+    "country": "IN",
+    "name": "Golāghāt",
+    "lat": "26.51167",
+    "lng": "93.95951"
+    },
+    {
+    "country": "IN",
+    "name": "Gola Bāzār",
+    "lat": "26.3446",
+    "lng": "83.35303"
+    },
+    {
+    "country": "IN",
+    "name": "Gokul",
+    "lat": "27.43926",
+    "lng": "77.72019"
+    },
+    {
+    "country": "IN",
+    "name": "Gokavaram",
+    "lat": "17.25823",
+    "lng": "81.84985"
+    },
+    {
+    "country": "IN",
+    "name": "Gokarna",
+    "lat": "14.55",
+    "lng": "74.31667"
+    },
+    {
+    "country": "IN",
+    "name": "Gokak",
+    "lat": "16.16901",
+    "lng": "74.82393"
+    },
+    {
+    "country": "IN",
+    "name": "Gohpur",
+    "lat": "26.88184",
+    "lng": "93.6156"
+    },
+    {
+    "country": "IN",
+    "name": "Gohānd",
+    "lat": "25.69871",
+    "lng": "79.54567"
+    },
+    {
+    "country": "IN",
+    "name": "Gohāna",
+    "lat": "29.13777",
+    "lng": "76.70247"
+    },
+    {
+    "country": "IN",
+    "name": "Gohadi",
+    "lat": "26.43278",
+    "lng": "78.44205"
+    },
+    {
+    "country": "IN",
+    "name": "Gogāpur",
+    "lat": "23.55746",
+    "lng": "75.51665"
+    },
+    {
+    "country": "IN",
+    "name": "Godhra",
+    "lat": "22.77547",
+    "lng": "73.61488"
+    },
+    {
+    "country": "IN",
+    "name": "Godda",
+    "lat": "24.827",
+    "lng": "87.2125"
+    },
+    {
+    "country": "IN",
+    "name": "Gobindpur",
+    "lat": "23.83556",
+    "lng": "86.51853"
+    },
+    {
+    "country": "IN",
+    "name": "Gobindpur",
+    "lat": "22.63393",
+    "lng": "86.07162"
+    },
+    {
+    "country": "IN",
+    "name": "Gobārdānga",
+    "lat": "22.8774",
+    "lng": "88.75479"
+    },
+    {
+    "country": "IN",
+    "name": "Goa Velha",
+    "lat": "15.44384",
+    "lng": "73.88572"
+    },
+    {
+    "country": "IN",
+    "name": "Goālpāra",
+    "lat": "26.17668",
+    "lng": "90.62634"
+    },
+    {
+    "country": "IN",
+    "name": "Gīrīdīh",
+    "lat": "24.18622",
+    "lng": "86.30875"
+    },
+    {
+    "country": "IN",
+    "name": "Gingee",
+    "lat": "12.25282",
+    "lng": "79.41727"
+    },
+    {
+    "country": "IN",
+    "name": "Giddarbāha",
+    "lat": "30.19953",
+    "lng": "74.66627"
+    },
+    {
+    "country": "IN",
+    "name": "Giddalūr",
+    "lat": "15.37439",
+    "lng": "78.92609"
+    },
+    {
+    "country": "IN",
+    "name": "Gīdam",
+    "lat": "18.97431",
+    "lng": "81.39894"
+    },
+    {
+    "country": "IN",
+    "name": "Ghugus",
+    "lat": "19.9381",
+    "lng": "79.11192"
+    },
+    {
+    "country": "IN",
+    "name": "Ghoti Budrukh",
+    "lat": "19.71641",
+    "lng": "73.62821"
+    },
+    {
+    "country": "IN",
+    "name": "Ghosī",
+    "lat": "26.10587",
+    "lng": "83.5393"
+    },
+    {
+    "country": "IN",
+    "name": "Ghorāwal",
+    "lat": "24.75459",
+    "lng": "82.77965"
+    },
+    {
+    "country": "IN",
+    "name": "Ghogha",
+    "lat": "21.68813",
+    "lng": "72.2763"
+    },
+    {
+    "country": "IN",
+    "name": "Ghoga",
+    "lat": "25.21738",
+    "lng": "87.1571"
+    },
+    {
+    "country": "IN",
+    "name": "Ghiror",
+    "lat": "27.18912",
+    "lng": "78.79312"
+    },
+    {
+    "country": "IN",
+    "name": "Ghazīpur",
+    "lat": "25.58333",
+    "lng": "83.58526"
+    },
+    {
+    "country": "IN",
+    "name": "Ghāziābād",
+    "lat": "28.66535",
+    "lng": "77.43915"
+    },
+    {
+    "country": "IN",
+    "name": "Ghātsīla",
+    "lat": "22.58531",
+    "lng": "86.47682"
+    },
+    {
+    "country": "IN",
+    "name": "Ghātanji",
+    "lat": "20.14183",
+    "lng": "78.31333"
+    },
+    {
+    "country": "IN",
+    "name": "Ghātampur",
+    "lat": "26.15272",
+    "lng": "80.16803"
+    },
+    {
+    "country": "IN",
+    "name": "Ghātāl",
+    "lat": "22.66244",
+    "lng": "87.73399"
+    },
+    {
+    "country": "IN",
+    "name": "Gharghoda",
+    "lat": "22.17427",
+    "lng": "83.3517"
+    },
+    {
+    "country": "IN",
+    "name": "Gharaunda",
+    "lat": "29.53692",
+    "lng": "76.97142"
+    },
+    {
+    "country": "IN",
+    "name": "Ghansor",
+    "lat": "22.65976",
+    "lng": "79.95013"
+    },
+    {
+    "country": "IN",
+    "name": "Ghanaur",
+    "lat": "30.33092",
+    "lng": "76.61203"
+    },
+    {
+    "country": "IN",
+    "name": "Ghumārwīn",
+    "lat": "31.44166",
+    "lng": "76.71509"
+    },
+    {
+    "country": "IN",
+    "name": "Gevrai",
+    "lat": "19.26372",
+    "lng": "75.75007"
+    },
+    {
+    "country": "IN",
+    "name": "George Town",
+    "lat": "13.0926",
+    "lng": "80.2801"
+    },
+    {
+    "country": "IN",
+    "name": "Gaya",
+    "lat": "24.79686",
+    "lng": "85.00385"
+    },
+    {
+    "country": "IN",
+    "name": "Gawān",
+    "lat": "28.41969",
+    "lng": "78.35186"
+    },
+    {
+    "country": "IN",
+    "name": "Gautampura",
+    "lat": "22.98664",
+    "lng": "75.51921"
+    },
+    {
+    "country": "IN",
+    "name": "Gauripur",
+    "lat": "26.08334",
+    "lng": "89.96118"
+    },
+    {
+    "country": "IN",
+    "name": "Goribidnūr",
+    "lat": "13.61072",
+    "lng": "77.51738"
+    },
+    {
+    "country": "IN",
+    "name": "Gaurela",
+    "lat": "22.75449",
+    "lng": "81.90107"
+    },
+    {
+    "country": "IN",
+    "name": "Guwahati",
+    "lat": "26.1844",
+    "lng": "91.7458"
+    },
+    {
+    "country": "IN",
+    "name": "Garhwa",
+    "lat": "24.16002",
+    "lng": "83.80755"
+    },
+    {
+    "country": "IN",
+    "name": "Garui",
+    "lat": "22.63333",
+    "lng": "88.4"
+    },
+    {
+    "country": "IN",
+    "name": "Gariadhar",
+    "lat": "21.53889",
+    "lng": "71.57737"
+    },
+    {
+    "country": "IN",
+    "name": "Gariāband",
+    "lat": "20.63323",
+    "lng": "82.06221"
+    },
+    {
+    "country": "IN",
+    "name": "Garhshankar",
+    "lat": "31.21537",
+    "lng": "76.14149"
+    },
+    {
+    "country": "IN",
+    "name": "Garhmuktesar",
+    "lat": "28.78732",
+    "lng": "78.10214"
+    },
+    {
+    "country": "IN",
+    "name": "Garhi Pūkhta",
+    "lat": "29.5498",
+    "lng": "77.30881"
+    },
+    {
+    "country": "IN",
+    "name": "Garhākota",
+    "lat": "23.7791",
+    "lng": "79.14321"
+    },
+    {
+    "country": "IN",
+    "name": "Garhdiwāla",
+    "lat": "31.74147",
+    "lng": "75.75567"
+    },
+    {
+    "country": "IN",
+    "name": "Garautha",
+    "lat": "25.5719",
+    "lng": "79.29764"
+    },
+    {
+    "country": "IN",
+    "name": "Gannavaram",
+    "lat": "16.54092",
+    "lng": "80.80213"
+    },
+    {
+    "country": "IN",
+    "name": "Ganj Murādābād",
+    "lat": "26.95733",
+    "lng": "80.184"
+    },
+    {
+    "country": "IN",
+    "name": "Ganjām",
+    "lat": "19.38705",
+    "lng": "85.05079"
+    },
+    {
+    "country": "IN",
+    "name": "Ganguvāda",
+    "lat": "18.66667",
+    "lng": "84.11667"
+    },
+    {
+    "country": "IN",
+    "name": "Gangtok",
+    "lat": "27.32574",
+    "lng": "88.61216"
+    },
+    {
+    "country": "IN",
+    "name": "Gangolli",
+    "lat": "13.65024",
+    "lng": "74.67072"
+    },
+    {
+    "country": "IN",
+    "name": "Gangoh",
+    "lat": "29.78004",
+    "lng": "77.26346"
+    },
+    {
+    "country": "IN",
+    "name": "Gangāwati",
+    "lat": "15.4313",
+    "lng": "76.52933"
+    },
+    {
+    "country": "IN",
+    "name": "Gangavalli",
+    "lat": "11.49828",
+    "lng": "78.64966"
+    },
+    {
+    "country": "IN",
+    "name": "Deoband",
+    "lat": "29.69505",
+    "lng": "77.67964"
+    },
+    {
+    "country": "IN",
+    "name": "Denkanikota",
+    "lat": "12.5301",
+    "lng": "77.78887"
+    },
+    {
+    "country": "IN",
+    "name": "Delvāda",
+    "lat": "20.77544",
+    "lng": "71.04646"
+    },
+    {
+    "country": "IN",
+    "name": "Delhi",
+    "lat": "28.65195",
+    "lng": "77.23149"
+    },
+    {
+    "country": "IN",
+    "name": "Mumbai",
+    "lat": "19.07283",
+    "lng": "72.88261"
+    },
+
+    {
+    "country": "IN",
+    "name": "Shivaji Nagar",
+    "lat": "18.53017",
+    "lng": "73.85263"
+    },
+    {
+    "country": "IN",
+    "name": "Malkapur",
+    "lat": "17.26214",
+    "lng": "74.17574"
+    },
+    {
+    "country": "IN",
+    "name": "Pangin",
+    "lat": "28.21022",
+    "lng": "94.98873"
+    }
+    ]
+  }
+}

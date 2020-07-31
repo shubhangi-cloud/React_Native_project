@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207170308243",
+    "firebase_url": "https://eventsnearme-273714.firebaseio.com",
+    "project_id": "eventsnearme-273714",
+    "storage_bucket": "eventsnearme-273714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207170308243:android:e519dc6413438b0f802566",
+        "android_client_info": {
+          "package_name": "com.eventsnearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207170308243-givklo2dmnu27lhd72769rt9fk0purip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eventsnearme",
+            "certificate_hash": "39de78d3e09636bc0f9cc98b7fa3c0a759618652"
+          }
+        },
+        {
+          "client_id": "207170308243-ue5o68str5ro3dfrd3jlq2qi6ibns2m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8r5zozwfnvpa0aNp3UsPV-O6JpN7g8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207170308243-ue5o68str5ro3dfrd3jlq2qi6ibns2m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

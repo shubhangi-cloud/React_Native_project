@@ -1,0 +1,23 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAAZVbOcTbvULZ0it61OJI8snWd9jhB3A8",
+    authDomain: "eventsnearme-273714.firebaseapp.com",
+    databaseURL: "https://eventsnearme-273714.firebaseio.com",
+    projectId: "eventsnearme-273714",
+    storageBucket: "eventsnearme-273714.appspot.com",
+    messagingSenderId: "207170308243",
+    appId: "1:207170308243:web:37ad1a36f857e53f802566",
+    measurementId: "G-9FDENBYYF0"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
